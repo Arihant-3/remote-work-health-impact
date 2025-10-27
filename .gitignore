@@ -1,0 +1,13 @@
+Rough
+.vscode
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+.DS_Store
+Info.ipynb
+
+
+# Detailed weekly reflections are maintained privately as part of my personal learning log.
+docs/reflection.txt
