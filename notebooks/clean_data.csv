@@ -1,0 +1,3036 @@
+Age,Gender,Region,Industry,Work_Arrangement,Hours_Per_Week,Burnout_Level,Work_Life_Balance_Score,Social_Isolation_Score,Avg_Salary,Physical_Health_Count,Mental_Health_Score
+27,Female,Asia,Professional Services,Onsite,64,3,3,2,50000.0,2,2
+37,Female,Asia,Professional Services,Onsite,37,3,4,2,90000.0,1,2
+32,Female,Africa,Education,Onsite,36,3,3,2,90000.0,2,1
+40,Female,Europe,Education,Onsite,63,2,1,2,70000.0,2,1
+30,Male,South America,Manufacturing,Hybrid,65,2,5,4,70000.0,0,0
+52,Male,Oceania,Customer Service,Onsite,61,2,4,3,70000.0,2,4
+50,Female,Asia,Manufacturing,Onsite,62,2,4,2,90000.0,3,0
+30,Female,South America,Technology,Remote,47,2,2,4,70000.0,1,3
+37,Female,Asia,Finance,Onsite,55,2,5,1,70000.0,1,4
+42,Female,Asia,Professional Services,Onsite,38,3,3,2,110000.0,1,0
+64,Male,North America,Technology,Remote,35,2,3,4,50000.0,2,1
+25,Female,Oceania,Technology,Hybrid,57,3,2,1,90000.0,2,4
+37,Male,Europe,Finance,Remote,59,3,5,5,70000.0,3,3
+50,Male,Europe,Professional Services,Remote,64,2,1,4,70000.0,0,4
+42,Female,South America,Retail,Onsite,54,3,5,2,120000.0,3,3
+30,Male,Oceania,Professional Services,Hybrid,36,3,3,2,70000.0,1,3
+36,Female,Africa,Customer Service,Onsite,63,2,3,2,70000.0,1,0
+50,Male,North America,Education,Onsite,51,1,4,5,110000.0,2,2
+27,Female,Africa,Healthcare,Remote,43,2,1,4,90000.0,0,0
+36,Female,Africa,Manufacturing,Remote,41,3,5,3,110000.0,3,6
+57,Male,Africa,Retail,Onsite,57,3,3,3,70000.0,2,4
+37,Male,South America,Manufacturing,Remote,58,3,1,5,70000.0,1,1
+26,Female,South America,Customer Service,Hybrid,59,2,2,5,50000.0,2,2
+55,Male,Africa,Professional Services,Onsite,51,3,4,4,90000.0,1,6
+59,Male,Africa,Education,Onsite,53,2,3,1,70000.0,0,3
+59,Male,Oceania,Finance,Remote,45,3,2,3,90000.0,4,3
+23,Male,North America,Professional Services,Onsite,63,2,3,2,70000.0,2,2
+57,Female,Oceania,Customer Service,Remote,41,2,3,3,120000.0,3,5
+59,Male,South America,Retail,Onsite,48,3,3,3,70000.0,1,3
+22,Female,North America,Manufacturing,Hybrid,47,3,4,1,70000.0,1,3
+25,Male,Africa,Professional Services,Onsite,49,1,3,2,110000.0,4,6
+54,Female,South America,Customer Service,Hybrid,45,2,1,1,90000.0,2,0
+27,Male,Europe,Education,Onsite,44,2,3,3,90000.0,3,5
+47,Female,Europe,Professional Services,Onsite,50,3,3,4,50000.0,1,4
+39,Male,North America,Manufacturing,Onsite,59,1,5,2,70000.0,2,3
+62,Female,Asia,Education,Remote,60,2,4,5,120000.0,2,2
+42,Male,Europe,Technology,Remote,43,1,3,4,70000.0,2,1
+26,Male,South America,Manufacturing,Hybrid,65,3,2,1,70000.0,2,6
+29,Female,Africa,Technology,Hybrid,55,2,2,3,90000.0,2,0
+31,Female,Africa,Technology,Hybrid,42,3,2,4,110000.0,3,6
+42,Female,South America,Healthcare,Onsite,60,3,3,3,70000.0,3,5
+33,Female,North America,Manufacturing,Onsite,43,2,2,3,70000.0,2,0
+50,Male,Oceania,Healthcare,Onsite,53,3,3,2,90000.0,0,0
+65,Female,Europe,Education,Onsite,61,1,4,1,50000.0,4,4
+40,Male,North America,Professional Services,Remote,62,2,4,2,70000.0,2,2
+22,Female,Asia,Customer Service,Hybrid,64,2,1,3,90000.0,0,1
+58,Male,Oceania,Technology,Hybrid,65,2,3,4,90000.0,1,6
+51,Female,Europe,Finance,Hybrid,60,1,2,3,90000.0,2,4
+40,Female,Asia,Professional Services,Remote,62,3,1,1,90000.0,0,0
+62,Female,Africa,Technology,Remote,46,3,1,4,110000.0,3,5
+50,Male,South America,Technology,Onsite,42,3,4,1,50000.0,3,1
+41,Female,North America,Retail,Hybrid,45,3,5,3,50000.0,2,1
+25,Female,North America,Healthcare,Onsite,65,3,3,2,90000.0,1,4
+44,Female,South America,Retail,Onsite,48,1,5,3,90000.0,3,0
+29,Male,Asia,Manufacturing,Onsite,38,3,4,3,90000.0,2,5
+53,Female,North America,Marketing,Onsite,56,3,1,2,90000.0,2,1
+48,Female,North America,Professional Services,Remote,56,1,3,3,90000.0,1,6
+27,Male,Europe,Professional Services,Hybrid,39,3,2,2,90000.0,3,0
+49,Male,Asia,Professional Services,Hybrid,56,2,3,2,70000.0,4,1
+49,Female,Africa,Marketing,Onsite,45,1,2,2,90000.0,2,5
+31,Female,North America,Technology,Remote,45,2,3,2,90000.0,1,1
+27,Female,North America,Professional Services,Onsite,36,2,2,2,110000.0,3,2
+40,Male,North America,Technology,Remote,50,1,1,3,70000.0,2,0
+39,Female,North America,Technology,Hybrid,54,3,2,3,70000.0,2,5
+40,Male,South America,Retail,Onsite,36,2,3,1,110000.0,1,1
+37,Male,Oceania,Finance,Hybrid,37,1,4,2,90000.0,2,0
+39,Male,Europe,Technology,Hybrid,55,2,4,2,70000.0,3,4
+22,Male,Oceania,Technology,Onsite,43,2,1,2,70000.0,3,2
+53,Male,Africa,Education,Onsite,47,1,2,5,50000.0,3,2
+56,Female,Africa,Education,Onsite,52,2,4,2,90000.0,1,6
+33,Female,Oceania,Finance,Hybrid,48,2,2,2,70000.0,1,5
+28,Female,Asia,Professional Services,Onsite,44,1,3,3,70000.0,3,0
+64,Female,Asia,Technology,Remote,40,3,4,4,70000.0,3,4
+49,Male,Asia,Manufacturing,Hybrid,35,1,3,4,120000.0,1,5
+33,Female,North America,Professional Services,Hybrid,48,3,2,2,90000.0,2,1
+44,Female,Oceania,Education,Hybrid,47,2,3,3,120000.0,1,1
+41,Female,Europe,Technology,Hybrid,43,3,3,1,120000.0,1,0
+25,Female,South America,Technology,Remote,59,1,2,4,70000.0,0,5
+58,Female,Oceania,Education,Onsite,50,2,3,2,50000.0,1,5
+58,Male,Oceania,Technology,Remote,37,3,1,4,120000.0,3,5
+65,Female,Africa,Manufacturing,Onsite,64,2,4,3,50000.0,1,5
+44,Female,North America,Healthcare,Hybrid,49,2,3,2,70000.0,2,3
+22,Female,Africa,Finance,Hybrid,59,2,2,1,70000.0,1,4
+60,Female,Asia,Customer Service,Onsite,35,1,3,4,70000.0,1,6
+55,Female,North America,Marketing,Onsite,47,1,4,2,90000.0,3,6
+65,Male,North America,Healthcare,Onsite,45,1,4,1,120000.0,0,3
+39,Female,Asia,Finance,Onsite,52,1,3,4,90000.0,2,4
+43,Female,North America,Finance,Hybrid,40,3,3,1,90000.0,0,6
+22,Female,Europe,Customer Service,Onsite,45,1,4,2,110000.0,2,1
+22,Female,Europe,Retail,Onsite,60,3,5,3,90000.0,4,1
+59,Male,Africa,Technology,Remote,58,2,5,3,90000.0,0,5
+48,Male,Europe,Professional Services,Onsite,49,1,1,2,90000.0,0,1
+42,Male,Oceania,Professional Services,Onsite,52,1,1,3,50000.0,3,6
+64,Female,Europe,Retail,Onsite,45,3,3,3,110000.0,3,2
+27,Male,Africa,Customer Service,Onsite,62,2,1,2,90000.0,1,0
+53,Female,Asia,Technology,Remote,38,3,5,5,110000.0,3,3
+22,Female,South America,Professional Services,Remote,65,3,5,3,110000.0,2,4
+41,Female,Oceania,Retail,Hybrid,46,2,3,2,70000.0,2,2
+23,Male,Asia,Technology,Remote,44,3,5,5,50000.0,3,4
+30,Male,Oceania,Manufacturing,Hybrid,47,3,3,4,110000.0,2,6
+55,Male,Europe,Finance,Hybrid,64,1,3,3,70000.0,0,1
+31,Male,South America,Finance,Onsite,46,3,5,2,90000.0,2,2
+45,Male,Asia,Technology,Remote,39,1,1,4,70000.0,2,6
+38,Female,North America,Professional Services,Onsite,43,2,3,1,90000.0,2,6
+46,Male,South America,Professional Services,Onsite,40,2,4,1,90000.0,4,5
+63,Male,Europe,Technology,Remote,51,1,3,2,70000.0,2,0
+52,Female,Asia,Retail,Onsite,39,2,4,3,110000.0,1,5
+44,Female,North America,Finance,Onsite,56,2,3,1,120000.0,0,3
+31,Female,Europe,Customer Service,Hybrid,47,2,5,4,50000.0,1,0
+63,Female,Africa,Professional Services,Onsite,42,2,2,3,90000.0,3,3
+58,Male,North America,Manufacturing,Hybrid,53,2,3,2,50000.0,0,4
+43,Male,Oceania,Technology,Onsite,55,2,3,2,90000.0,2,3
+45,Female,South America,Technology,Onsite,57,1,3,3,90000.0,4,6
+47,Male,North America,Technology,Remote,55,3,3,3,50000.0,2,2
+44,Male,Oceania,Manufacturing,Onsite,43,1,3,2,110000.0,2,4
+59,Female,Africa,Education,Hybrid,61,2,3,2,70000.0,1,0
+51,Female,North America,Technology,Hybrid,51,3,3,5,50000.0,2,0
+40,Male,Asia,Finance,Remote,60,2,4,5,70000.0,1,6
+62,Male,Europe,Technology,Hybrid,52,3,4,5,70000.0,2,1
+29,Female,North America,Finance,Hybrid,46,1,5,3,90000.0,1,4
+57,Female,South America,Education,Onsite,55,2,2,1,90000.0,3,0
+56,Male,South America,Customer Service,Remote,59,3,2,5,90000.0,4,0
+52,Male,Asia,Technology,Remote,42,2,3,4,50000.0,3,2
+47,Male,South America,Professional Services,Onsite,55,1,1,1,70000.0,1,4
+64,Male,North America,Finance,Remote,41,1,1,3,90000.0,4,4
+51,Male,Asia,Manufacturing,Remote,41,2,3,4,70000.0,2,5
+58,Male,Oceania,Finance,Onsite,63,2,1,3,70000.0,0,5
+26,Female,North America,Retail,Onsite,45,2,3,3,70000.0,2,1
+23,Male,North America,Technology,Remote,50,3,4,5,70000.0,2,3
+24,Female,South America,Marketing,Onsite,53,3,1,1,90000.0,1,6
+25,Female,Europe,Technology,Remote,42,2,4,5,50000.0,3,6
+42,Female,Oceania,Technology,Remote,60,3,4,3,110000.0,2,0
+56,Female,Oceania,Manufacturing,Onsite,55,2,2,3,50000.0,3,6
+26,Female,Asia,Technology,Hybrid,41,3,3,3,90000.0,3,2
+55,Female,Africa,Professional Services,Hybrid,43,2,2,4,50000.0,2,3
+56,Male,Oceania,Education,Onsite,63,3,2,3,90000.0,3,0
+53,Female,South America,Technology,Hybrid,44,2,2,4,120000.0,1,3
+45,Male,Europe,Finance,Onsite,37,1,5,3,70000.0,2,0
+29,Female,North America,Professional Services,Onsite,48,1,5,3,70000.0,1,2
+46,Male,Africa,Technology,Remote,41,2,2,5,90000.0,1,1
+61,Female,South America,Education,Onsite,60,2,1,1,50000.0,2,3
+40,Female,Europe,Manufacturing,Onsite,64,1,4,1,70000.0,2,1
+49,Female,South America,Technology,Hybrid,49,1,1,1,70000.0,0,1
+27,Female,North America,Finance,Onsite,44,1,5,3,70000.0,1,5
+38,Male,Oceania,Professional Services,Hybrid,47,2,2,1,70000.0,2,2
+44,Female,Oceania,Technology,Remote,45,1,5,3,70000.0,1,3
+24,Male,Asia,Education,Onsite,39,1,3,4,90000.0,2,5
+59,Male,South America,Manufacturing,Hybrid,47,3,3,1,50000.0,2,3
+47,Female,Europe,Technology,Hybrid,50,3,1,3,90000.0,1,0
+64,Male,North America,Finance,Onsite,42,3,3,1,90000.0,0,3
+43,Female,Asia,Healthcare,Onsite,65,3,4,3,110000.0,2,6
+48,Female,Asia,Marketing,Hybrid,63,3,3,1,90000.0,2,6
+63,Male,Asia,Healthcare,Onsite,55,2,2,2,120000.0,2,1
+53,Male,Oceania,Finance,Onsite,35,2,3,3,50000.0,2,3
+61,Female,Oceania,Technology,Remote,45,1,1,3,90000.0,3,1
+52,Female,South America,Education,Onsite,60,3,2,1,70000.0,2,5
+61,Female,Asia,Manufacturing,Remote,46,3,1,5,90000.0,3,0
+40,Male,Africa,Technology,Remote,35,3,2,3,90000.0,2,6
+37,Male,Africa,Manufacturing,Remote,43,2,4,4,50000.0,1,5
+55,Female,Africa,Technology,Hybrid,53,3,3,2,90000.0,3,3
+32,Male,Asia,Technology,Remote,44,3,5,4,70000.0,2,2
+57,Male,Oceania,Technology,Hybrid,58,1,3,1,120000.0,3,0
+47,Male,North America,Professional Services,Remote,51,2,5,1,50000.0,2,6
+47,Male,Oceania,Manufacturing,Remote,48,2,4,5,110000.0,3,4
+62,Male,North America,Professional Services,Onsite,37,1,3,1,110000.0,0,2
+35,Female,Asia,Professional Services,Hybrid,59,3,3,3,90000.0,1,0
+45,Female,Europe,Professional Services,Onsite,65,1,3,2,90000.0,0,0
+29,Male,Africa,Healthcare,Hybrid,58,2,3,3,90000.0,1,5
+42,Female,Oceania,Professional Services,Onsite,57,2,3,4,70000.0,3,3
+44,Male,Oceania,Manufacturing,Onsite,39,2,2,3,120000.0,1,2
+30,Male,North America,Professional Services,Remote,58,3,3,4,90000.0,1,5
+60,Male,Africa,Professional Services,Onsite,65,1,1,3,110000.0,2,5
+40,Male,South America,Professional Services,Onsite,50,3,3,1,90000.0,2,1
+27,Female,South America,Marketing,Onsite,50,2,4,1,70000.0,4,4
+34,Male,Africa,Professional Services,Remote,63,3,5,5,110000.0,0,6
+37,Female,North America,Education,Onsite,58,2,3,3,50000.0,1,2
+32,Male,North America,Marketing,Onsite,39,1,5,5,70000.0,1,1
+43,Male,Europe,Professional Services,Remote,36,3,4,2,70000.0,4,3
+57,Female,Europe,Marketing,Hybrid,48,3,2,1,90000.0,2,0
+57,Female,Africa,Manufacturing,Remote,39,3,3,5,110000.0,2,0
+27,Male,Europe,Healthcare,Onsite,36,2,3,2,70000.0,0,1
+49,Female,Europe,Professional Services,Onsite,51,2,3,3,110000.0,3,3
+33,Male,Africa,Technology,Hybrid,59,2,3,4,120000.0,1,3
+51,Male,Oceania,Manufacturing,Hybrid,43,2,4,4,70000.0,1,3
+45,Male,Oceania,Professional Services,Onsite,36,1,5,5,110000.0,1,1
+25,Female,Africa,Manufacturing,Onsite,49,1,4,3,70000.0,0,5
+25,Male,Asia,Finance,Hybrid,40,3,2,3,70000.0,2,1
+43,Male,North America,Manufacturing,Onsite,56,1,3,2,70000.0,2,0
+42,Male,North America,Finance,Onsite,55,1,1,5,70000.0,1,2
+43,Female,South America,Education,Onsite,63,2,3,2,90000.0,3,1
+52,Male,Oceania,Education,Remote,44,2,1,3,70000.0,4,4
+25,Female,Africa,Retail,Hybrid,62,3,4,5,50000.0,1,6
+37,Female,North America,Finance,Onsite,60,2,3,3,90000.0,1,5
+30,Male,Oceania,Finance,Onsite,48,2,1,2,50000.0,1,5
+36,Male,Oceania,Customer Service,Onsite,53,3,3,1,70000.0,3,2
+40,Female,Africa,Education,Remote,42,1,3,3,70000.0,4,1
+63,Female,Asia,Professional Services,Hybrid,44,2,5,3,90000.0,2,5
+40,Female,Oceania,Professional Services,Hybrid,45,1,5,3,110000.0,0,4
+59,Male,Oceania,Professional Services,Hybrid,48,3,3,5,50000.0,2,4
+56,Male,Asia,Manufacturing,Hybrid,55,2,4,3,70000.0,2,0
+62,Female,South America,Finance,Hybrid,41,2,2,2,70000.0,1,2
+47,Female,Africa,Professional Services,Remote,60,1,4,5,50000.0,1,5
+36,Male,South America,Finance,Onsite,58,3,3,1,120000.0,1,0
+50,Male,Africa,Professional Services,Onsite,43,3,2,2,110000.0,5,6
+61,Male,North America,Professional Services,Onsite,50,1,3,5,50000.0,3,0
+35,Female,Africa,Professional Services,Hybrid,39,2,3,5,70000.0,2,2
+57,Female,South America,Customer Service,Onsite,61,1,2,2,90000.0,1,2
+33,Male,Asia,Finance,Hybrid,55,3,1,4,70000.0,2,6
+36,Male,North America,Education,Onsite,64,2,3,3,90000.0,1,4
+44,Male,Oceania,Manufacturing,Hybrid,35,3,5,2,70000.0,0,5
+44,Female,North America,Professional Services,Remote,56,3,4,3,90000.0,1,6
+63,Male,North America,Education,Onsite,54,3,2,1,70000.0,4,4
+62,Female,Africa,Professional Services,Hybrid,45,2,4,3,70000.0,3,6
+61,Female,North America,Education,Onsite,49,1,2,2,110000.0,2,4
+62,Female,Asia,Marketing,Onsite,37,1,3,2,50000.0,5,3
+58,Male,Oceania,Manufacturing,Onsite,54,3,1,5,90000.0,2,6
+26,Female,Oceania,Healthcare,Onsite,50,1,4,1,70000.0,2,3
+32,Female,Europe,Technology,Remote,59,2,3,5,50000.0,2,6
+65,Female,Asia,Technology,Hybrid,55,1,5,2,90000.0,2,2
+27,Male,Asia,Professional Services,Hybrid,36,1,4,3,50000.0,2,5
+56,Male,Europe,Retail,Onsite,53,3,3,3,110000.0,1,4
+39,Female,North America,Professional Services,Hybrid,65,2,3,3,90000.0,3,0
+44,Male,Oceania,Marketing,Onsite,64,3,3,2,90000.0,2,2
+64,Male,North America,Manufacturing,Hybrid,56,3,2,1,90000.0,2,5
+43,Male,Europe,Manufacturing,Hybrid,37,3,2,3,70000.0,1,0
+23,Male,Oceania,Education,Remote,59,2,5,4,90000.0,3,0
+61,Female,South America,Marketing,Onsite,62,3,2,1,70000.0,4,0
+38,Male,Oceania,Customer Service,Onsite,40,3,3,1,90000.0,3,0
+37,Male,Oceania,Professional Services,Onsite,59,3,1,2,90000.0,3,0
+22,Male,Asia,Technology,Remote,39,3,3,1,70000.0,2,0
+24,Male,Asia,Education,Onsite,58,2,3,1,70000.0,2,6
+30,Male,Europe,Professional Services,Onsite,40,3,2,2,90000.0,3,4
+32,Female,Asia,Healthcare,Hybrid,45,2,4,3,50000.0,2,4
+39,Female,Asia,Professional Services,Onsite,55,3,2,3,90000.0,2,3
+22,Female,Africa,Retail,Onsite,61,1,4,3,90000.0,2,0
+62,Female,Europe,Customer Service,Onsite,49,1,5,4,120000.0,0,1
+46,Female,North America,Finance,Onsite,50,3,3,2,50000.0,2,0
+43,Male,Asia,Manufacturing,Onsite,51,2,1,2,110000.0,2,0
+34,Male,Africa,Technology,Hybrid,45,3,2,2,70000.0,0,3
+34,Female,North America,Finance,Onsite,36,3,3,4,110000.0,4,6
+30,Female,Oceania,Finance,Onsite,42,3,5,5,70000.0,1,3
+39,Female,North America,Marketing,Onsite,45,2,3,3,70000.0,2,5
+61,Male,Europe,Technology,Hybrid,55,1,4,3,70000.0,4,1
+53,Male,Oceania,Manufacturing,Hybrid,60,2,5,3,90000.0,2,0
+59,Female,North America,Professional Services,Hybrid,58,1,5,3,90000.0,2,2
+56,Female,Europe,Finance,Onsite,60,1,4,1,70000.0,2,4
+48,Male,Africa,Customer Service,Onsite,38,1,3,1,90000.0,2,6
+60,Male,Europe,Healthcare,Hybrid,56,3,4,2,110000.0,1,6
+43,Female,Oceania,Finance,Hybrid,52,1,2,3,110000.0,3,3
+65,Male,Europe,Technology,Hybrid,59,2,3,3,90000.0,3,0
+48,Female,South America,Technology,Remote,53,1,1,4,110000.0,0,1
+46,Female,Africa,Professional Services,Onsite,65,2,3,2,50000.0,1,2
+22,Male,South America,Finance,Onsite,40,1,3,3,90000.0,2,4
+58,Female,Europe,Manufacturing,Onsite,53,3,4,1,90000.0,1,0
+54,Male,Africa,Manufacturing,Hybrid,49,3,5,2,90000.0,1,0
+51,Male,Europe,Marketing,Hybrid,54,2,3,2,50000.0,3,0
+47,Male,Oceania,Technology,Onsite,55,2,5,2,70000.0,1,0
+47,Male,North America,Technology,Remote,37,2,1,5,70000.0,1,1
+43,Female,Asia,Finance,Onsite,52,2,4,3,90000.0,0,2
+62,Male,Europe,Finance,Onsite,44,2,4,5,70000.0,3,5
+50,Female,Africa,Professional Services,Onsite,48,1,3,3,70000.0,2,5
+32,Female,South America,Manufacturing,Onsite,65,2,1,2,90000.0,1,4
+54,Male,South America,Marketing,Hybrid,43,1,3,3,90000.0,3,4
+54,Male,Europe,Professional Services,Onsite,62,1,5,2,50000.0,0,0
+56,Male,South America,Professional Services,Onsite,41,1,1,5,70000.0,1,2
+39,Male,North America,Manufacturing,Hybrid,42,3,3,1,70000.0,2,6
+43,Male,Africa,Manufacturing,Remote,44,1,2,3,70000.0,3,1
+55,Female,Oceania,Healthcare,Onsite,36,3,3,3,70000.0,2,3
+33,Male,Oceania,Healthcare,Onsite,64,1,3,5,90000.0,3,4
+61,Female,South America,Professional Services,Hybrid,50,2,1,3,70000.0,3,5
+63,Female,North America,Customer Service,Onsite,40,2,5,1,90000.0,1,0
+28,Male,North America,Professional Services,Onsite,58,1,4,2,110000.0,2,5
+41,Male,South America,Technology,Remote,49,2,3,2,50000.0,4,2
+62,Male,North America,Healthcare,Onsite,55,2,1,3,110000.0,2,5
+31,Female,Oceania,Technology,Hybrid,49,1,1,4,70000.0,2,5
+63,Male,Africa,Finance,Onsite,45,1,5,3,70000.0,2,1
+61,Male,South America,Professional Services,Onsite,52,2,4,5,90000.0,1,4
+31,Male,Africa,Customer Service,Onsite,42,2,2,4,70000.0,0,3
+22,Male,North America,Manufacturing,Hybrid,41,2,1,3,70000.0,1,2
+63,Male,Africa,Customer Service,Remote,64,2,4,4,90000.0,0,0
+44,Male,Europe,Professional Services,Onsite,53,2,4,3,90000.0,1,0
+60,Female,North America,Healthcare,Onsite,42,3,1,2,90000.0,3,1
+55,Male,Africa,Healthcare,Remote,54,2,3,5,120000.0,2,5
+24,Male,South America,Technology,Hybrid,56,1,3,2,120000.0,3,1
+23,Female,Asia,Professional Services,Onsite,60,2,4,1,70000.0,2,5
+49,Male,North America,Finance,Hybrid,64,2,4,4,90000.0,3,0
+61,Female,South America,Finance,Onsite,62,2,3,1,90000.0,1,5
+22,Female,Europe,Retail,Onsite,36,2,5,4,110000.0,3,3
+26,Female,Asia,Finance,Onsite,47,2,3,4,70000.0,3,3
+40,Female,Asia,Manufacturing,Hybrid,42,3,3,3,90000.0,0,1
+25,Male,Asia,Manufacturing,Hybrid,47,2,2,3,120000.0,1,2
+23,Male,Asia,Professional Services,Onsite,64,1,4,2,110000.0,2,6
+32,Male,Africa,Customer Service,Hybrid,49,2,4,3,90000.0,2,0
+24,Female,Oceania,Technology,Remote,65,3,3,4,50000.0,1,6
+43,Male,South America,Education,Onsite,48,3,4,2,70000.0,3,0
+46,Female,Africa,Manufacturing,Onsite,60,2,3,3,120000.0,2,0
+47,Female,North America,Professional Services,Onsite,42,3,4,4,90000.0,2,1
+22,Female,Africa,Technology,Hybrid,52,2,4,2,70000.0,2,3
+64,Female,North America,Technology,Remote,45,3,2,1,70000.0,1,4
+36,Female,Africa,Customer Service,Hybrid,61,2,1,2,90000.0,3,2
+36,Female,Oceania,Marketing,Onsite,39,3,3,3,110000.0,3,4
+50,Male,Europe,Manufacturing,Remote,56,2,4,4,110000.0,2,2
+59,Male,Europe,Professional Services,Onsite,42,2,4,2,70000.0,2,0
+45,Female,North America,Marketing,Onsite,64,2,4,1,50000.0,2,1
+22,Female,Europe,Technology,Onsite,49,1,3,2,70000.0,1,2
+56,Female,South America,Professional Services,Onsite,50,1,2,2,70000.0,2,1
+58,Female,North America,Manufacturing,Remote,50,3,2,3,90000.0,2,1
+50,Male,Africa,Finance,Hybrid,38,2,4,2,50000.0,2,3
+28,Female,Oceania,Technology,Onsite,55,3,2,2,70000.0,1,1
+45,Male,South America,Healthcare,Onsite,64,2,3,3,70000.0,3,2
+25,Female,Europe,Customer Service,Onsite,48,2,4,2,90000.0,3,3
+52,Male,North America,Education,Onsite,38,2,4,1,110000.0,0,0
+62,Female,Oceania,Education,Hybrid,36,2,1,4,110000.0,2,2
+37,Female,South America,Professional Services,Onsite,37,3,3,2,70000.0,1,5
+64,Female,Europe,Marketing,Hybrid,42,2,3,4,70000.0,1,3
+23,Female,Asia,Technology,Hybrid,40,3,4,4,70000.0,4,0
+62,Female,Europe,Healthcare,Hybrid,43,1,4,3,50000.0,2,0
+36,Female,North America,Retail,Onsite,56,1,5,3,90000.0,0,4
+35,Female,South America,Manufacturing,Remote,64,3,1,3,120000.0,2,6
+58,Male,Europe,Healthcare,Onsite,56,2,1,1,120000.0,2,5
+62,Female,South America,Manufacturing,Hybrid,46,2,1,4,110000.0,1,6
+61,Female,South America,Manufacturing,Onsite,41,2,3,3,70000.0,0,6
+40,Female,Europe,Technology,Hybrid,44,2,3,1,90000.0,2,4
+25,Female,North America,Finance,Remote,48,2,3,5,110000.0,1,5
+44,Female,South America,Professional Services,Onsite,55,2,4,3,70000.0,2,4
+49,Female,Africa,Manufacturing,Onsite,49,3,3,5,50000.0,3,6
+22,Female,North America,Education,Onsite,40,2,3,2,90000.0,2,3
+26,Male,Europe,Finance,Hybrid,38,1,1,4,90000.0,1,0
+36,Female,South America,Finance,Hybrid,49,3,1,3,90000.0,4,3
+50,Female,South America,Finance,Onsite,63,2,2,2,90000.0,1,6
+51,Female,Asia,Technology,Hybrid,41,3,2,3,90000.0,1,4
+26,Male,Europe,Healthcare,Hybrid,48,3,2,2,120000.0,2,0
+64,Female,South America,Healthcare,Onsite,43,3,3,3,110000.0,1,1
+56,Male,Oceania,Manufacturing,Onsite,56,2,2,2,90000.0,2,0
+57,Male,North America,Education,Hybrid,58,2,2,3,110000.0,1,0
+63,Male,Africa,Manufacturing,Hybrid,55,2,4,3,70000.0,3,0
+26,Female,North America,Manufacturing,Hybrid,64,3,4,3,50000.0,4,0
+33,Male,South America,Retail,Onsite,43,2,3,1,70000.0,3,3
+45,Male,Oceania,Education,Hybrid,61,3,3,3,70000.0,3,0
+30,Male,Asia,Healthcare,Hybrid,57,1,4,4,110000.0,3,4
+65,Female,Asia,Professional Services,Onsite,65,1,1,3,110000.0,2,2
+33,Female,Asia,Retail,Onsite,40,2,1,1,70000.0,1,1
+46,Male,Africa,Marketing,Hybrid,54,1,2,1,90000.0,2,4
+26,Female,Africa,Finance,Onsite,53,2,3,3,50000.0,1,0
+50,Female,North America,Manufacturing,Onsite,64,2,3,3,90000.0,2,0
+64,Male,Asia,Professional Services,Onsite,42,3,3,1,90000.0,2,6
+45,Male,North America,Retail,Remote,35,3,2,2,70000.0,0,5
+35,Female,Asia,Technology,Onsite,56,1,4,3,90000.0,2,6
+43,Female,North America,Education,Onsite,51,2,5,1,90000.0,2,4
+65,Male,South America,Finance,Hybrid,64,2,3,2,90000.0,2,5
+25,Female,Asia,Marketing,Hybrid,47,3,4,2,70000.0,2,4
+55,Male,Oceania,Manufacturing,Remote,41,3,3,4,90000.0,3,0
+51,Male,Oceania,Manufacturing,Hybrid,49,1,3,2,70000.0,2,2
+52,Male,Asia,Healthcare,Hybrid,54,3,3,1,110000.0,1,2
+32,Male,South America,Customer Service,Onsite,35,3,3,3,70000.0,2,0
+64,Female,Africa,Marketing,Remote,60,3,3,3,90000.0,2,6
+56,Female,North America,Professional Services,Onsite,39,2,1,3,90000.0,1,0
+31,Male,Europe,Professional Services,Onsite,60,1,3,5,70000.0,3,0
+29,Female,Africa,Healthcare,Onsite,65,2,4,5,90000.0,2,0
+23,Male,Europe,Education,Onsite,55,1,3,3,110000.0,2,0
+35,Male,Africa,Professional Services,Onsite,55,1,2,4,110000.0,3,6
+33,Female,South America,Education,Remote,42,2,3,3,120000.0,2,0
+35,Female,North America,Professional Services,Onsite,57,2,2,1,50000.0,2,4
+58,Female,South America,Manufacturing,Hybrid,44,2,3,3,70000.0,3,0
+39,Female,Europe,Manufacturing,Hybrid,50,3,2,3,50000.0,2,1
+28,Female,Asia,Finance,Hybrid,39,3,4,3,50000.0,3,6
+31,Male,Oceania,Customer Service,Onsite,46,3,3,2,50000.0,2,3
+47,Male,Africa,Finance,Onsite,45,3,1,5,70000.0,2,2
+56,Male,Africa,Technology,Hybrid,59,2,4,4,50000.0,4,0
+33,Female,North America,Professional Services,Hybrid,59,2,3,2,50000.0,1,1
+65,Female,North America,Manufacturing,Hybrid,51,1,3,5,70000.0,2,0
+48,Female,South America,Manufacturing,Hybrid,45,2,2,3,110000.0,3,0
+43,Male,Oceania,Finance,Hybrid,42,2,4,2,70000.0,2,5
+50,Male,Oceania,Finance,Remote,57,3,4,3,70000.0,4,0
+54,Female,North America,Manufacturing,Hybrid,63,2,2,2,90000.0,2,2
+46,Male,Asia,Professional Services,Hybrid,55,1,2,4,90000.0,1,1
+30,Female,North America,Professional Services,Onsite,43,2,3,5,90000.0,2,0
+49,Female,Asia,Technology,Hybrid,59,3,3,2,50000.0,1,1
+36,Female,Asia,Marketing,Remote,56,2,3,5,110000.0,3,0
+62,Female,Africa,Technology,Hybrid,52,2,3,5,110000.0,4,0
+51,Female,North America,Retail,Onsite,39,2,5,2,110000.0,1,5
+51,Female,Europe,Healthcare,Onsite,53,3,1,4,70000.0,0,0
+37,Male,Africa,Customer Service,Hybrid,55,1,2,4,90000.0,1,6
+50,Male,South America,Education,Onsite,41,1,2,4,70000.0,1,0
+64,Female,Europe,Marketing,Hybrid,44,2,1,2,50000.0,4,3
+59,Female,Asia,Marketing,Hybrid,55,2,3,3,70000.0,3,3
+46,Male,North America,Professional Services,Hybrid,45,2,1,3,70000.0,1,2
+61,Male,Europe,Manufacturing,Onsite,56,3,4,5,50000.0,1,3
+58,Male,Oceania,Manufacturing,Onsite,55,2,3,2,70000.0,3,1
+49,Female,Asia,Retail,Onsite,49,1,2,2,90000.0,4,4
+48,Female,Oceania,Professional Services,Onsite,59,2,2,3,110000.0,1,0
+36,Female,Africa,Healthcare,Hybrid,41,2,3,1,70000.0,2,2
+27,Male,North America,Professional Services,Hybrid,55,2,3,3,90000.0,2,5
+23,Male,Africa,Finance,Onsite,50,2,3,3,70000.0,2,6
+49,Male,Asia,Customer Service,Hybrid,59,2,3,3,90000.0,3,6
+39,Female,South America,Technology,Hybrid,47,3,4,3,70000.0,2,4
+38,Male,Europe,Technology,Onsite,59,2,3,2,50000.0,1,0
+53,Male,Europe,Technology,Remote,41,2,2,4,90000.0,1,6
+35,Female,Oceania,Healthcare,Remote,61,3,3,3,70000.0,5,0
+40,Male,Africa,Technology,Remote,36,1,4,4,90000.0,2,4
+47,Male,Africa,Education,Hybrid,58,3,4,4,70000.0,2,5
+61,Male,Europe,Retail,Onsite,53,3,4,2,90000.0,0,4
+63,Female,South America,Marketing,Onsite,49,1,4,1,70000.0,3,6
+32,Male,Asia,Healthcare,Hybrid,57,3,4,5,90000.0,1,6
+24,Male,Oceania,Professional Services,Remote,53,3,2,3,50000.0,2,0
+37,Female,Asia,Healthcare,Onsite,48,2,2,3,120000.0,0,3
+45,Female,North America,Healthcare,Onsite,39,2,5,3,110000.0,3,1
+54,Male,South America,Professional Services,Hybrid,35,2,3,3,90000.0,2,3
+43,Male,South America,Manufacturing,Remote,61,3,4,5,70000.0,2,2
+32,Female,Africa,Technology,Remote,43,3,3,3,50000.0,2,0
+40,Male,North America,Manufacturing,Remote,48,1,1,4,90000.0,2,6
+63,Male,Europe,Customer Service,Onsite,35,1,3,3,110000.0,3,0
+47,Male,Asia,Technology,Remote,60,2,3,2,110000.0,4,0
+56,Female,South America,Education,Onsite,57,1,4,3,70000.0,2,3
+45,Male,Africa,Marketing,Remote,65,3,3,5,110000.0,2,0
+63,Female,South America,Marketing,Remote,57,1,4,2,70000.0,3,2
+63,Female,Asia,Finance,Onsite,53,2,4,1,110000.0,2,5
+53,Male,North America,Technology,Hybrid,40,2,4,2,90000.0,3,0
+56,Female,Europe,Finance,Hybrid,50,3,3,1,70000.0,3,4
+52,Female,Africa,Finance,Hybrid,64,1,1,4,70000.0,1,4
+57,Female,Asia,Education,Onsite,42,1,3,3,90000.0,4,0
+62,Male,South America,Technology,Hybrid,53,1,4,2,90000.0,2,5
+61,Female,Oceania,Finance,Onsite,58,2,4,3,50000.0,2,4
+58,Female,South America,Professional Services,Onsite,44,2,3,1,120000.0,3,4
+60,Male,Africa,Marketing,Hybrid,44,3,2,2,50000.0,1,1
+38,Female,North America,Education,Hybrid,42,2,1,4,70000.0,2,4
+52,Female,North America,Marketing,Onsite,35,1,4,1,70000.0,3,0
+24,Female,Oceania,Finance,Hybrid,45,3,1,4,90000.0,3,5
+54,Female,Europe,Finance,Onsite,37,2,5,1,90000.0,3,4
+31,Female,North America,Technology,Onsite,45,3,4,1,70000.0,2,0
+39,Female,Europe,Healthcare,Remote,53,3,4,4,90000.0,1,0
+51,Female,Africa,Professional Services,Onsite,63,2,1,2,70000.0,1,1
+25,Female,Oceania,Education,Onsite,45,1,3,4,110000.0,2,2
+41,Male,Asia,Healthcare,Onsite,57,1,3,2,120000.0,3,3
+38,Female,Oceania,Technology,Hybrid,53,2,3,4,70000.0,1,4
+37,Female,Europe,Professional Services,Onsite,41,1,4,1,50000.0,2,4
+60,Male,Asia,Retail,Onsite,40,1,3,3,70000.0,2,2
+25,Male,Europe,Professional Services,Hybrid,48,1,3,1,90000.0,1,5
+34,Female,Africa,Technology,Remote,58,2,2,3,70000.0,2,2
+61,Female,Europe,Professional Services,Onsite,52,1,5,3,70000.0,1,1
+48,Male,North America,Education,Hybrid,58,2,4,5,90000.0,2,5
+45,Female,South America,Customer Service,Hybrid,36,2,1,2,50000.0,3,5
+52,Female,Oceania,Professional Services,Onsite,53,2,1,2,70000.0,0,3
+41,Female,Asia,Healthcare,Onsite,47,2,3,2,90000.0,1,2
+43,Male,Europe,Healthcare,Onsite,57,1,4,1,90000.0,2,0
+44,Male,Africa,Professional Services,Onsite,40,1,4,1,70000.0,1,1
+33,Male,Asia,Retail,Remote,44,2,3,3,70000.0,1,3
+41,Female,Asia,Education,Hybrid,41,2,3,3,70000.0,2,4
+45,Male,Africa,Finance,Hybrid,48,3,1,1,50000.0,3,4
+35,Female,Asia,Finance,Onsite,50,2,3,3,110000.0,0,3
+59,Male,North America,Professional Services,Onsite,60,2,2,3,70000.0,2,3
+51,Female,South America,Technology,Hybrid,44,3,4,1,120000.0,1,2
+48,Female,Oceania,Customer Service,Onsite,59,2,1,4,70000.0,3,0
+30,Male,Asia,Manufacturing,Remote,43,2,2,1,70000.0,1,2
+27,Male,North America,Customer Service,Onsite,62,2,4,3,50000.0,1,4
+55,Male,Asia,Education,Hybrid,57,1,2,4,70000.0,2,4
+50,Female,Asia,Manufacturing,Onsite,40,3,3,1,90000.0,1,1
+48,Male,North America,Technology,Hybrid,42,1,1,1,110000.0,2,2
+53,Male,Asia,Professional Services,Onsite,58,3,5,3,110000.0,2,6
+60,Female,Europe,Professional Services,Hybrid,46,2,5,4,70000.0,3,6
+63,Male,South America,Professional Services,Remote,64,2,4,4,90000.0,1,5
+35,Male,Asia,Education,Onsite,50,2,3,4,110000.0,2,4
+57,Male,South America,Technology,Hybrid,65,2,1,2,50000.0,3,2
+46,Male,Asia,Healthcare,Onsite,52,3,5,3,110000.0,3,6
+61,Male,Europe,Customer Service,Onsite,44,3,3,1,110000.0,3,0
+56,Male,Europe,Technology,Remote,37,3,3,5,90000.0,2,4
+33,Male,Oceania,Technology,Onsite,49,2,1,2,110000.0,2,1
+34,Female,Europe,Healthcare,Remote,37,3,5,4,90000.0,1,2
+55,Female,South America,Technology,Remote,35,2,3,1,70000.0,2,1
+56,Male,South America,Technology,Remote,36,3,1,4,110000.0,1,0
+45,Female,Oceania,Professional Services,Hybrid,61,1,3,5,110000.0,1,4
+35,Female,Oceania,Finance,Hybrid,62,2,3,2,50000.0,2,0
+61,Female,Europe,Manufacturing,Onsite,38,2,4,1,70000.0,0,3
+49,Male,Asia,Technology,Remote,39,3,1,4,70000.0,2,0
+54,Male,Oceania,Manufacturing,Remote,39,2,1,4,110000.0,2,3
+22,Female,North America,Retail,Onsite,60,2,3,3,50000.0,3,3
+33,Male,Oceania,Finance,Remote,43,3,4,4,70000.0,2,2
+27,Female,Africa,Retail,Onsite,51,2,2,2,90000.0,1,2
+24,Female,South America,Education,Hybrid,57,1,3,2,90000.0,3,0
+64,Female,Africa,Manufacturing,Hybrid,58,3,4,1,120000.0,1,0
+32,Female,South America,Healthcare,Onsite,47,3,3,1,70000.0,3,1
+37,Male,Asia,Education,Onsite,56,2,3,2,90000.0,5,4
+34,Male,Africa,Technology,Hybrid,53,3,2,5,90000.0,0,0
+54,Male,South America,Professional Services,Onsite,36,3,3,1,110000.0,1,4
+39,Male,South America,Finance,Onsite,39,2,2,4,90000.0,2,6
+33,Female,South America,Professional Services,Onsite,44,3,1,1,50000.0,1,6
+45,Male,Oceania,Technology,Onsite,44,2,3,1,110000.0,3,2
+49,Female,South America,Technology,Remote,56,3,4,4,90000.0,4,2
+54,Female,Africa,Retail,Onsite,51,2,2,1,70000.0,0,5
+30,Female,Oceania,Professional Services,Hybrid,41,1,3,2,90000.0,1,1
+22,Male,Africa,Marketing,Onsite,48,3,3,1,70000.0,0,0
+46,Male,Oceania,Professional Services,Onsite,38,2,3,2,70000.0,2,4
+64,Female,Africa,Technology,Remote,44,1,2,4,70000.0,0,5
+23,Female,Africa,Finance,Hybrid,42,2,3,3,110000.0,3,0
+63,Female,Europe,Manufacturing,Hybrid,65,2,3,2,110000.0,3,3
+25,Male,North America,Professional Services,Hybrid,48,2,1,3,70000.0,2,0
+54,Female,North America,Manufacturing,Remote,53,2,3,4,110000.0,2,0
+43,Female,Asia,Finance,Onsite,53,2,3,3,90000.0,0,3
+32,Female,Oceania,Professional Services,Onsite,61,3,4,3,110000.0,3,0
+31,Male,North America,Technology,Hybrid,35,3,3,2,70000.0,2,6
+59,Male,Asia,Technology,Onsite,37,2,1,2,70000.0,1,5
+44,Female,Africa,Manufacturing,Onsite,50,3,3,1,50000.0,1,0
+53,Male,Europe,Manufacturing,Hybrid,46,2,3,3,50000.0,2,2
+28,Male,North America,Marketing,Hybrid,50,3,1,2,70000.0,2,6
+36,Female,Africa,Manufacturing,Remote,63,2,4,3,70000.0,0,0
+51,Female,North America,Customer Service,Remote,47,2,2,3,110000.0,4,3
+38,Male,South America,Technology,Remote,42,3,5,5,70000.0,1,1
+47,Male,Oceania,Technology,Hybrid,47,2,3,3,70000.0,2,2
+39,Male,Oceania,Manufacturing,Hybrid,42,3,3,2,90000.0,2,6
+58,Male,South America,Technology,Hybrid,45,2,4,1,110000.0,1,4
+31,Female,South America,Technology,Remote,60,1,5,4,70000.0,4,5
+33,Male,Asia,Finance,Hybrid,43,2,4,4,110000.0,2,0
+65,Male,South America,Healthcare,Onsite,64,2,3,2,110000.0,3,0
+56,Male,South America,Manufacturing,Onsite,47,1,3,3,90000.0,1,3
+56,Female,Europe,Professional Services,Remote,61,3,1,5,90000.0,1,5
+52,Male,Asia,Marketing,Hybrid,55,2,3,3,70000.0,2,2
+28,Female,Africa,Healthcare,Hybrid,50,2,3,4,70000.0,1,4
+44,Female,Oceania,Professional Services,Onsite,45,1,3,2,70000.0,3,6
+53,Male,Africa,Professional Services,Hybrid,38,3,4,2,70000.0,3,5
+58,Female,Oceania,Technology,Hybrid,45,3,4,1,110000.0,2,2
+49,Female,Africa,Marketing,Onsite,46,2,2,3,70000.0,2,6
+48,Male,South America,Customer Service,Onsite,40,2,5,1,70000.0,1,3
+27,Female,Africa,Customer Service,Hybrid,57,1,3,1,70000.0,3,4
+57,Male,Africa,Technology,Hybrid,44,2,4,3,90000.0,3,0
+55,Female,Africa,Professional Services,Onsite,57,1,5,2,70000.0,3,5
+50,Female,Europe,Technology,Hybrid,41,1,5,2,70000.0,0,2
+61,Male,Asia,Technology,Hybrid,35,3,3,3,50000.0,1,0
+24,Male,Africa,Retail,Hybrid,60,2,3,3,90000.0,1,0
+23,Female,Europe,Professional Services,Onsite,44,2,4,2,90000.0,0,6
+33,Male,South America,Manufacturing,Remote,62,3,5,5,90000.0,1,2
+53,Male,North America,Technology,Remote,43,2,3,3,50000.0,3,0
+65,Female,North America,Finance,Remote,53,3,2,4,90000.0,4,6
+52,Male,Europe,Education,Onsite,43,1,4,2,110000.0,0,4
+40,Male,Europe,Technology,Onsite,59,3,3,1,110000.0,1,2
+24,Female,Africa,Professional Services,Onsite,62,1,1,3,90000.0,0,2
+55,Male,North America,Manufacturing,Hybrid,39,2,4,1,90000.0,2,2
+56,Female,North America,Customer Service,Hybrid,47,3,2,4,70000.0,3,3
+51,Male,South America,Education,Onsite,56,1,3,2,50000.0,3,2
+37,Male,Europe,Manufacturing,Hybrid,48,3,3,2,110000.0,4,0
+29,Male,Europe,Finance,Onsite,44,3,5,2,90000.0,2,5
+46,Female,South America,Professional Services,Onsite,61,1,2,2,90000.0,1,3
+25,Male,South America,Education,Hybrid,55,3,5,4,70000.0,1,1
+34,Male,North America,Manufacturing,Hybrid,39,2,4,4,110000.0,1,0
+60,Male,North America,Professional Services,Onsite,52,2,2,5,50000.0,1,0
+37,Male,South America,Technology,Remote,49,3,2,4,110000.0,3,1
+25,Male,Oceania,Technology,Hybrid,55,2,3,3,50000.0,1,0
+55,Male,South America,Technology,Hybrid,39,1,5,3,70000.0,2,6
+33,Male,North America,Marketing,Onsite,40,3,3,3,90000.0,1,0
+31,Male,Africa,Customer Service,Hybrid,57,2,4,1,70000.0,4,3
+31,Female,Africa,Professional Services,Onsite,61,3,4,3,50000.0,2,0
+55,Male,North America,Professional Services,Onsite,51,1,1,3,90000.0,2,0
+47,Male,Africa,Professional Services,Onsite,42,2,4,3,90000.0,1,6
+28,Female,Africa,Professional Services,Onsite,47,3,2,2,70000.0,4,5
+62,Male,Asia,Healthcare,Hybrid,49,2,5,2,70000.0,1,6
+50,Male,Africa,Technology,Hybrid,44,3,5,2,50000.0,1,3
+62,Female,Africa,Healthcare,Onsite,50,3,4,2,90000.0,3,6
+25,Male,Oceania,Marketing,Hybrid,38,1,4,1,70000.0,2,4
+64,Female,Asia,Technology,Remote,61,3,5,4,70000.0,1,0
+56,Male,Oceania,Marketing,Onsite,36,1,5,2,110000.0,2,5
+60,Female,Asia,Manufacturing,Onsite,51,2,3,3,110000.0,3,1
+47,Male,Oceania,Education,Remote,47,2,5,5,90000.0,0,4
+45,Female,Africa,Professional Services,Onsite,59,3,1,3,70000.0,0,3
+39,Female,North America,Professional Services,Remote,49,3,3,3,70000.0,1,0
+45,Male,South America,Finance,Hybrid,41,1,3,5,70000.0,2,1
+30,Female,Oceania,Retail,Onsite,36,3,2,5,70000.0,2,2
+37,Female,Oceania,Professional Services,Hybrid,58,2,3,3,70000.0,3,2
+50,Female,Asia,Finance,Onsite,39,2,3,1,110000.0,2,1
+36,Male,Africa,Education,Onsite,65,1,5,2,110000.0,3,6
+47,Male,South America,Professional Services,Onsite,51,1,2,2,50000.0,4,3
+34,Female,North America,Finance,Onsite,40,2,5,4,90000.0,2,5
+55,Male,Asia,Finance,Onsite,64,1,4,3,110000.0,2,5
+41,Male,Africa,Professional Services,Onsite,40,3,5,2,90000.0,2,0
+57,Male,Oceania,Healthcare,Onsite,61,3,2,2,90000.0,1,1
+34,Male,Europe,Professional Services,Onsite,61,3,3,2,70000.0,2,5
+33,Male,South America,Manufacturing,Remote,37,3,1,1,70000.0,4,0
+27,Male,Europe,Professional Services,Onsite,35,2,4,2,120000.0,2,0
+44,Female,Asia,Technology,Remote,45,2,3,3,90000.0,3,0
+60,Male,Asia,Technology,Hybrid,49,1,1,1,110000.0,1,1
+60,Male,North America,Professional Services,Remote,42,2,3,3,70000.0,1,1
+59,Female,Oceania,Customer Service,Onsite,52,2,3,1,90000.0,3,4
+64,Male,Africa,Professional Services,Onsite,53,2,1,2,90000.0,1,3
+43,Female,Oceania,Technology,Hybrid,48,1,2,1,90000.0,1,2
+34,Female,Europe,Marketing,Remote,49,3,3,3,110000.0,2,4
+43,Male,Asia,Education,Onsite,36,2,4,2,70000.0,1,2
+27,Male,South America,Finance,Onsite,63,2,3,1,50000.0,0,3
+46,Male,Asia,Healthcare,Hybrid,58,2,2,3,90000.0,1,5
+25,Female,South America,Technology,Remote,57,3,2,1,50000.0,2,0
+52,Female,Oceania,Finance,Remote,38,3,3,2,110000.0,1,4
+38,Male,Africa,Technology,Hybrid,41,2,2,4,90000.0,3,6
+37,Female,Oceania,Professional Services,Onsite,41,2,3,2,70000.0,1,5
+59,Male,Asia,Professional Services,Onsite,57,2,3,4,70000.0,1,2
+62,Female,South America,Retail,Hybrid,38,3,2,1,110000.0,3,0
+44,Female,South America,Technology,Onsite,59,1,1,2,70000.0,1,5
+51,Female,South America,Finance,Onsite,52,2,2,3,70000.0,1,6
+31,Female,Africa,Professional Services,Onsite,57,3,2,2,70000.0,1,4
+57,Male,Africa,Professional Services,Onsite,49,2,5,1,70000.0,1,6
+38,Male,North America,Technology,Onsite,53,1,3,2,70000.0,1,2
+22,Male,Africa,Customer Service,Onsite,39,2,1,1,50000.0,1,5
+30,Male,Oceania,Professional Services,Hybrid,57,3,3,2,50000.0,3,0
+35,Female,Asia,Professional Services,Onsite,40,2,2,3,90000.0,1,3
+54,Female,South America,Finance,Hybrid,42,2,2,1,90000.0,2,6
+49,Male,Europe,Education,Onsite,36,2,2,4,70000.0,2,0
+61,Female,Africa,Finance,Onsite,54,1,3,2,90000.0,2,6
+56,Female,South America,Manufacturing,Hybrid,52,1,1,2,90000.0,2,3
+48,Female,South America,Technology,Hybrid,56,3,3,3,110000.0,1,0
+51,Male,South America,Technology,Onsite,63,1,4,2,70000.0,4,0
+54,Female,Africa,Professional Services,Onsite,49,1,5,2,90000.0,1,5
+31,Male,Asia,Finance,Remote,47,3,5,5,90000.0,1,6
+51,Male,South America,Manufacturing,Hybrid,55,1,2,1,90000.0,0,5
+31,Female,North America,Technology,Hybrid,39,2,4,3,50000.0,0,3
+58,Male,South America,Finance,Onsite,47,2,2,3,90000.0,2,3
+63,Female,Europe,Education,Hybrid,47,3,3,2,90000.0,2,0
+42,Female,South America,Professional Services,Hybrid,58,2,4,2,120000.0,0,0
+38,Female,Asia,Finance,Onsite,42,3,5,2,70000.0,1,3
+28,Male,Asia,Manufacturing,Hybrid,40,2,4,3,50000.0,2,3
+22,Male,North America,Professional Services,Onsite,52,2,4,2,70000.0,0,5
+53,Female,South America,Education,Onsite,36,2,2,3,90000.0,1,0
+52,Female,North America,Professional Services,Onsite,47,1,3,3,70000.0,1,0
+30,Male,South America,Technology,Remote,58,3,2,2,110000.0,2,1
+29,Female,South America,Marketing,Onsite,65,3,2,3,110000.0,3,6
+33,Male,South America,Retail,Remote,62,2,2,4,70000.0,3,4
+30,Male,Africa,Marketing,Hybrid,45,2,3,1,50000.0,3,0
+30,Male,Asia,Professional Services,Onsite,59,1,1,3,50000.0,0,2
+43,Female,Asia,Finance,Onsite,64,3,2,2,90000.0,3,2
+64,Male,South America,Retail,Onsite,59,2,4,4,70000.0,0,0
+65,Female,North America,Manufacturing,Remote,49,2,3,4,70000.0,2,1
+35,Female,Asia,Technology,Onsite,37,2,2,3,90000.0,0,6
+28,Male,South America,Education,Onsite,58,3,3,5,110000.0,1,2
+35,Male,Oceania,Technology,Remote,58,3,2,3,120000.0,4,0
+55,Female,Africa,Professional Services,Onsite,61,3,5,3,70000.0,4,1
+50,Female,Asia,Professional Services,Hybrid,36,1,4,2,120000.0,2,5
+42,Female,North America,Professional Services,Remote,44,2,3,3,50000.0,0,6
+26,Male,Europe,Finance,Onsite,54,1,4,3,110000.0,1,6
+55,Female,Europe,Manufacturing,Remote,52,2,1,3,50000.0,3,3
+38,Male,Africa,Education,Onsite,57,3,2,1,70000.0,4,3
+35,Female,North America,Marketing,Onsite,37,3,1,5,90000.0,2,3
+23,Male,Europe,Professional Services,Onsite,63,3,2,3,70000.0,2,5
+45,Female,South America,Customer Service,Hybrid,43,2,4,4,120000.0,2,1
+57,Female,Oceania,Technology,Hybrid,63,3,5,3,70000.0,2,0
+64,Male,Europe,Technology,Hybrid,54,2,3,4,120000.0,2,5
+57,Female,Oceania,Technology,Remote,40,2,1,4,50000.0,1,2
+63,Female,Africa,Professional Services,Onsite,36,2,4,3,50000.0,2,5
+60,Male,South America,Professional Services,Onsite,61,3,1,3,50000.0,2,2
+42,Female,North America,Customer Service,Onsite,47,2,2,5,90000.0,2,5
+39,Female,Asia,Technology,Remote,41,3,4,3,50000.0,3,0
+30,Female,Asia,Finance,Onsite,56,1,2,3,90000.0,2,6
+25,Male,South America,Manufacturing,Remote,35,3,3,4,70000.0,3,2
+56,Male,Asia,Finance,Onsite,51,3,2,1,110000.0,2,5
+28,Female,North America,Customer Service,Hybrid,62,3,3,3,50000.0,3,4
+39,Male,Asia,Marketing,Hybrid,60,2,5,4,70000.0,0,4
+45,Female,North America,Technology,Onsite,65,1,3,2,90000.0,2,0
+62,Male,Oceania,Professional Services,Hybrid,39,3,3,3,90000.0,3,2
+46,Male,South America,Technology,Hybrid,57,2,4,3,90000.0,1,5
+22,Male,Africa,Professional Services,Onsite,59,1,3,4,70000.0,3,6
+49,Male,Africa,Professional Services,Onsite,48,1,2,3,90000.0,1,4
+49,Male,Africa,Healthcare,Onsite,40,1,3,2,70000.0,1,2
+27,Male,South America,Technology,Hybrid,41,2,3,3,70000.0,1,6
+22,Male,Oceania,Professional Services,Remote,36,3,2,3,50000.0,2,1
+27,Female,Asia,Technology,Onsite,38,1,4,1,90000.0,1,0
+56,Male,Asia,Finance,Remote,43,3,3,4,50000.0,1,6
+46,Male,South America,Technology,Onsite,43,1,2,1,90000.0,1,6
+27,Female,North America,Customer Service,Hybrid,43,3,1,2,90000.0,2,0
+22,Male,Asia,Education,Onsite,35,2,1,3,50000.0,2,0
+44,Female,South America,Technology,Hybrid,41,3,1,2,110000.0,0,6
+27,Female,Africa,Manufacturing,Hybrid,62,2,4,3,70000.0,3,6
+58,Female,North America,Retail,Onsite,50,3,2,3,120000.0,1,5
+54,Male,Africa,Professional Services,Onsite,65,3,4,3,120000.0,2,2
+54,Male,Europe,Education,Hybrid,37,3,3,1,90000.0,2,5
+40,Male,Oceania,Manufacturing,Hybrid,44,2,4,3,90000.0,1,0
+35,Male,Europe,Retail,Onsite,57,2,3,3,110000.0,2,0
+59,Male,South America,Professional Services,Onsite,64,1,3,3,90000.0,4,0
+46,Female,South America,Professional Services,Hybrid,54,2,2,4,70000.0,2,0
+42,Female,Europe,Technology,Remote,64,3,3,2,90000.0,2,5
+27,Male,Oceania,Professional Services,Onsite,44,1,4,3,90000.0,2,0
+47,Female,South America,Education,Remote,36,2,5,5,50000.0,2,6
+41,Male,Asia,Professional Services,Remote,59,3,3,2,90000.0,2,1
+57,Female,Asia,Technology,Hybrid,48,2,4,2,70000.0,2,3
+26,Male,Africa,Manufacturing,Hybrid,60,2,3,2,50000.0,1,3
+45,Female,South America,Professional Services,Onsite,50,1,3,5,90000.0,1,3
+38,Male,North America,Professional Services,Hybrid,49,2,3,3,110000.0,0,0
+63,Female,South America,Finance,Hybrid,58,3,2,3,70000.0,2,1
+61,Female,South America,Professional Services,Onsite,44,2,4,4,90000.0,3,4
+61,Female,South America,Technology,Onsite,61,3,1,2,70000.0,2,1
+51,Male,Asia,Professional Services,Hybrid,53,1,4,4,110000.0,1,3
+48,Male,North America,Marketing,Onsite,61,2,5,3,90000.0,2,4
+50,Male,Europe,Technology,Hybrid,62,1,5,1,70000.0,1,2
+65,Male,North America,Professional Services,Onsite,39,3,3,2,70000.0,3,5
+45,Female,Oceania,Professional Services,Onsite,52,2,3,3,110000.0,2,0
+55,Male,Asia,Technology,Onsite,39,2,4,1,70000.0,1,3
+41,Male,Oceania,Technology,Remote,53,3,4,4,70000.0,2,0
+36,Female,North America,Technology,Hybrid,38,2,2,2,50000.0,0,0
+44,Female,Europe,Professional Services,Hybrid,36,2,3,3,90000.0,3,6
+56,Female,Oceania,Professional Services,Hybrid,40,3,3,3,90000.0,3,3
+45,Female,South America,Professional Services,Onsite,65,1,3,2,70000.0,1,4
+54,Male,North America,Retail,Remote,41,2,2,3,70000.0,2,4
+50,Male,Oceania,Technology,Hybrid,37,2,3,2,70000.0,0,3
+59,Male,South America,Technology,Hybrid,40,2,2,3,110000.0,2,3
+47,Male,South America,Professional Services,Hybrid,63,2,2,1,70000.0,1,0
+54,Male,Asia,Professional Services,Remote,50,3,4,4,120000.0,1,3
+25,Female,Europe,Manufacturing,Onsite,35,2,3,1,90000.0,1,4
+38,Male,South America,Professional Services,Onsite,35,3,2,4,50000.0,3,2
+23,Male,Oceania,Technology,Remote,51,2,2,5,120000.0,2,1
+50,Female,South America,Finance,Hybrid,60,3,1,3,50000.0,2,0
+40,Male,Africa,Professional Services,Onsite,37,3,4,5,50000.0,2,5
+22,Male,Oceania,Professional Services,Onsite,46,3,4,4,70000.0,3,3
+36,Female,South America,Marketing,Onsite,55,2,3,1,90000.0,1,3
+65,Female,Oceania,Professional Services,Hybrid,52,2,3,2,90000.0,4,1
+53,Male,Asia,Technology,Onsite,64,2,3,3,110000.0,2,6
+32,Female,North America,Manufacturing,Hybrid,52,2,4,3,90000.0,3,6
+49,Male,Europe,Finance,Onsite,50,3,3,2,50000.0,3,6
+64,Female,South America,Technology,Remote,37,3,4,3,70000.0,2,3
+48,Female,Asia,Technology,Onsite,37,2,3,3,120000.0,1,5
+35,Male,Asia,Professional Services,Onsite,56,2,3,2,70000.0,3,2
+64,Female,Asia,Finance,Hybrid,43,2,1,1,120000.0,2,3
+43,Female,North America,Finance,Onsite,53,2,5,2,90000.0,2,6
+46,Female,North America,Retail,Onsite,52,2,2,1,110000.0,2,2
+41,Female,Asia,Manufacturing,Hybrid,46,2,2,2,90000.0,1,4
+23,Female,North America,Education,Onsite,35,2,3,2,70000.0,3,5
+59,Female,Africa,Professional Services,Onsite,36,2,3,2,70000.0,2,0
+51,Female,Africa,Technology,Remote,39,2,4,1,50000.0,1,2
+41,Male,Oceania,Technology,Remote,63,2,3,3,90000.0,2,6
+43,Female,South America,Technology,Remote,52,2,2,3,90000.0,2,1
+60,Male,Oceania,Education,Onsite,51,1,3,3,70000.0,2,0
+53,Male,Oceania,Manufacturing,Onsite,56,1,2,3,110000.0,1,0
+46,Male,Africa,Professional Services,Onsite,60,1,3,2,90000.0,1,5
+22,Male,Asia,Education,Hybrid,38,3,4,3,70000.0,2,6
+64,Female,Africa,Retail,Onsite,48,1,4,3,90000.0,3,5
+50,Female,South America,Education,Onsite,57,1,1,1,70000.0,3,6
+34,Male,Africa,Professional Services,Hybrid,57,1,2,3,90000.0,0,0
+50,Female,Africa,Professional Services,Onsite,57,2,3,2,110000.0,2,6
+63,Female,South America,Professional Services,Onsite,40,2,5,1,90000.0,3,3
+61,Female,North America,Technology,Hybrid,47,2,3,3,70000.0,2,1
+46,Female,North America,Manufacturing,Hybrid,35,1,5,3,70000.0,2,1
+60,Female,Africa,Finance,Onsite,44,2,4,3,90000.0,2,0
+59,Female,Oceania,Retail,Hybrid,62,2,1,2,50000.0,3,1
+48,Female,Europe,Professional Services,Hybrid,42,1,1,1,110000.0,3,2
+37,Female,Oceania,Professional Services,Onsite,57,2,3,2,90000.0,2,2
+36,Male,South America,Technology,Hybrid,35,2,2,3,50000.0,2,3
+52,Female,South America,Technology,Remote,43,3,3,3,70000.0,1,0
+48,Female,South America,Technology,Hybrid,49,3,3,4,90000.0,0,3
+57,Female,South America,Professional Services,Remote,49,1,2,1,110000.0,1,6
+32,Female,Africa,Professional Services,Remote,55,3,1,5,50000.0,1,4
+51,Female,Africa,Healthcare,Hybrid,46,2,2,4,70000.0,2,2
+45,Male,Oceania,Customer Service,Remote,60,3,1,5,70000.0,3,5
+46,Female,Africa,Manufacturing,Onsite,59,2,3,3,90000.0,1,6
+51,Male,South America,Professional Services,Hybrid,59,3,4,3,70000.0,1,6
+48,Male,Oceania,Manufacturing,Onsite,46,2,2,2,90000.0,1,0
+63,Female,South America,Healthcare,Hybrid,56,1,2,3,110000.0,1,2
+55,Female,Africa,Professional Services,Hybrid,50,2,4,1,70000.0,2,2
+59,Male,Africa,Professional Services,Hybrid,64,2,4,1,90000.0,3,6
+33,Male,North America,Manufacturing,Onsite,53,1,2,2,90000.0,3,5
+23,Female,South America,Professional Services,Onsite,61,1,3,1,110000.0,2,5
+54,Female,North America,Professional Services,Onsite,59,3,5,3,50000.0,0,0
+56,Male,South America,Marketing,Onsite,50,1,4,1,90000.0,1,6
+32,Female,South America,Technology,Hybrid,35,3,2,2,70000.0,3,3
+60,Male,Europe,Technology,Hybrid,36,2,3,2,90000.0,1,2
+25,Male,North America,Professional Services,Onsite,62,2,3,2,90000.0,2,5
+29,Male,South America,Professional Services,Onsite,40,2,3,2,110000.0,0,2
+23,Male,North America,Technology,Hybrid,46,2,5,2,70000.0,3,0
+47,Male,Africa,Professional Services,Onsite,36,3,2,1,70000.0,3,4
+45,Female,Asia,Finance,Onsite,57,2,2,1,90000.0,3,0
+43,Male,Oceania,Manufacturing,Hybrid,62,1,2,3,120000.0,2,1
+46,Male,Africa,Customer Service,Onsite,36,3,1,2,70000.0,2,3
+50,Male,Asia,Professional Services,Remote,55,1,1,3,90000.0,2,6
+48,Female,North America,Professional Services,Remote,55,3,5,3,70000.0,3,0
+45,Female,North America,Professional Services,Onsite,43,2,4,3,70000.0,2,0
+57,Female,North America,Education,Hybrid,44,1,3,3,90000.0,3,3
+48,Female,Asia,Retail,Onsite,65,1,3,3,70000.0,0,4
+34,Male,South America,Education,Hybrid,38,3,1,4,50000.0,1,4
+28,Female,South America,Marketing,Onsite,63,1,3,2,110000.0,1,2
+24,Male,Asia,Retail,Hybrid,60,3,2,1,90000.0,2,0
+63,Male,Oceania,Education,Remote,40,2,3,4,70000.0,1,6
+25,Male,Asia,Manufacturing,Onsite,43,2,4,2,90000.0,3,6
+61,Male,Europe,Professional Services,Hybrid,65,1,4,3,90000.0,2,0
+43,Male,Asia,Retail,Onsite,38,2,2,1,90000.0,1,4
+30,Male,Oceania,Professional Services,Hybrid,41,1,4,3,90000.0,1,4
+26,Female,Europe,Marketing,Hybrid,58,1,4,3,110000.0,1,3
+27,Male,North America,Healthcare,Hybrid,56,3,1,4,90000.0,1,5
+60,Female,Asia,Manufacturing,Onsite,37,3,5,2,70000.0,1,0
+34,Female,Africa,Professional Services,Onsite,48,2,3,1,70000.0,4,4
+33,Male,Europe,Finance,Hybrid,56,2,3,3,110000.0,3,0
+56,Female,Africa,Technology,Onsite,54,1,3,3,120000.0,1,5
+36,Male,Europe,Healthcare,Onsite,38,3,2,2,50000.0,2,1
+29,Female,Oceania,Healthcare,Remote,40,2,1,2,90000.0,3,0
+57,Female,Asia,Finance,Onsite,58,2,4,3,90000.0,2,0
+52,Male,Oceania,Technology,Remote,59,2,2,3,110000.0,1,0
+47,Female,Europe,Marketing,Onsite,47,1,2,2,50000.0,1,2
+24,Male,North America,Manufacturing,Onsite,47,2,4,2,110000.0,2,0
+35,Male,Europe,Manufacturing,Hybrid,50,1,3,3,110000.0,1,1
+31,Male,North America,Finance,Onsite,63,2,1,3,90000.0,2,5
+46,Male,Asia,Professional Services,Onsite,53,2,5,4,90000.0,2,0
+51,Male,North America,Professional Services,Hybrid,45,3,4,4,90000.0,3,3
+44,Male,Africa,Professional Services,Hybrid,47,2,3,3,90000.0,2,4
+49,Male,Africa,Finance,Onsite,51,2,1,1,50000.0,1,0
+27,Female,Oceania,Professional Services,Hybrid,46,2,3,3,70000.0,2,0
+25,Female,North America,Professional Services,Hybrid,43,2,4,2,90000.0,2,2
+38,Female,South America,Marketing,Onsite,57,3,2,2,70000.0,0,0
+54,Female,Asia,Professional Services,Onsite,50,1,2,2,70000.0,1,3
+62,Female,South America,Marketing,Onsite,37,3,2,3,90000.0,2,2
+57,Male,North America,Finance,Onsite,52,1,3,3,70000.0,0,0
+43,Male,Europe,Technology,Remote,45,3,4,4,120000.0,2,0
+65,Male,South America,Technology,Hybrid,61,2,3,3,50000.0,2,0
+53,Male,Oceania,Technology,Hybrid,53,3,3,4,90000.0,1,3
+46,Male,Africa,Manufacturing,Remote,50,2,3,5,90000.0,2,0
+43,Female,Oceania,Professional Services,Onsite,56,3,3,4,120000.0,1,5
+31,Male,Oceania,Technology,Remote,47,3,3,4,90000.0,3,0
+58,Male,Europe,Manufacturing,Hybrid,62,2,4,3,50000.0,1,6
+54,Male,Asia,Retail,Onsite,50,1,5,2,90000.0,2,0
+54,Male,Oceania,Professional Services,Hybrid,58,2,2,4,70000.0,0,6
+31,Male,Asia,Manufacturing,Remote,37,2,2,4,50000.0,1,4
+25,Female,Asia,Manufacturing,Onsite,49,3,4,5,90000.0,2,2
+31,Male,North America,Marketing,Remote,57,3,2,4,90000.0,2,6
+57,Female,Africa,Technology,Hybrid,61,2,3,1,110000.0,1,3
+31,Female,Europe,Technology,Hybrid,39,2,3,4,110000.0,3,0
+35,Female,Europe,Technology,Hybrid,35,2,1,3,50000.0,3,4
+63,Male,Asia,Finance,Remote,36,2,1,5,90000.0,2,0
+60,Male,Oceania,Professional Services,Remote,47,2,1,4,50000.0,4,5
+58,Female,Africa,Education,Hybrid,56,3,3,2,120000.0,2,2
+58,Female,South America,Professional Services,Remote,45,3,4,5,50000.0,1,3
+59,Male,Europe,Professional Services,Onsite,55,3,1,1,90000.0,3,2
+50,Female,Africa,Customer Service,Onsite,44,2,3,2,90000.0,2,0
+25,Male,North America,Healthcare,Onsite,51,3,3,2,70000.0,1,2
+62,Female,Europe,Technology,Hybrid,37,3,3,2,70000.0,3,0
+63,Male,Asia,Technology,Hybrid,58,2,2,3,90000.0,3,6
+60,Female,Oceania,Technology,Onsite,43,2,1,3,110000.0,0,6
+50,Female,Africa,Education,Onsite,56,3,3,5,90000.0,1,2
+30,Male,Africa,Technology,Remote,46,2,1,4,50000.0,3,1
+35,Male,Europe,Manufacturing,Onsite,46,3,3,4,50000.0,1,5
+37,Female,Europe,Retail,Onsite,49,3,3,2,90000.0,2,0
+61,Male,South America,Finance,Hybrid,55,1,3,4,90000.0,0,4
+26,Female,Africa,Professional Services,Hybrid,61,2,1,2,50000.0,3,0
+41,Male,Africa,Education,Hybrid,49,2,4,4,70000.0,2,5
+47,Male,Oceania,Professional Services,Onsite,50,1,3,2,90000.0,2,1
+41,Female,Europe,Professional Services,Onsite,52,2,3,1,70000.0,2,5
+64,Male,South America,Technology,Remote,44,2,5,3,50000.0,1,0
+44,Female,Africa,Manufacturing,Remote,58,2,2,2,70000.0,4,4
+63,Female,Asia,Professional Services,Hybrid,45,2,3,2,90000.0,2,0
+23,Female,North America,Healthcare,Hybrid,49,3,1,2,90000.0,1,6
+57,Male,South America,Retail,Hybrid,47,2,1,2,90000.0,3,5
+26,Male,Africa,Healthcare,Hybrid,47,3,2,2,50000.0,1,0
+42,Female,North America,Professional Services,Onsite,35,1,3,1,70000.0,2,5
+29,Female,Europe,Professional Services,Onsite,48,2,3,2,70000.0,3,0
+59,Female,Africa,Retail,Onsite,37,1,4,2,90000.0,4,3
+48,Male,South America,Professional Services,Onsite,63,2,5,2,110000.0,1,5
+25,Male,Europe,Technology,Hybrid,53,3,2,2,70000.0,1,3
+61,Male,North America,Healthcare,Onsite,64,1,2,2,70000.0,2,0
+63,Female,Asia,Finance,Hybrid,55,3,1,4,90000.0,0,1
+58,Male,Africa,Finance,Hybrid,44,3,3,2,90000.0,2,0
+53,Female,Africa,Retail,Hybrid,60,3,4,2,90000.0,4,0
+34,Female,Oceania,Technology,Onsite,61,1,5,2,50000.0,1,6
+63,Male,Europe,Technology,Hybrid,38,3,1,2,70000.0,2,5
+25,Male,North America,Healthcare,Hybrid,47,2,4,3,110000.0,3,5
+41,Male,Asia,Professional Services,Onsite,35,2,3,1,110000.0,0,4
+36,Male,Asia,Marketing,Onsite,35,2,3,5,110000.0,1,0
+22,Female,South America,Technology,Remote,54,2,1,4,90000.0,4,0
+23,Male,Oceania,Education,Hybrid,45,2,3,5,90000.0,3,0
+42,Male,Oceania,Professional Services,Hybrid,46,2,3,3,50000.0,3,0
+59,Male,Europe,Education,Onsite,45,2,4,2,110000.0,1,1
+29,Female,North America,Technology,Hybrid,45,3,4,1,110000.0,2,3
+30,Male,Africa,Technology,Hybrid,37,3,2,3,70000.0,2,3
+34,Female,Africa,Retail,Onsite,40,3,3,5,90000.0,2,0
+24,Male,Oceania,Technology,Remote,62,3,1,3,70000.0,3,2
+55,Female,South America,Marketing,Onsite,44,2,2,3,70000.0,2,0
+62,Male,Europe,Marketing,Onsite,38,2,2,3,90000.0,4,3
+34,Female,Oceania,Finance,Onsite,61,1,4,2,70000.0,3,1
+65,Male,Africa,Technology,Hybrid,47,2,3,3,50000.0,0,6
+30,Male,North America,Technology,Remote,45,2,5,3,90000.0,3,0
+50,Male,Oceania,Healthcare,Onsite,57,1,1,1,120000.0,0,1
+36,Male,Oceania,Professional Services,Remote,54,3,3,3,70000.0,1,2
+26,Male,Oceania,Technology,Hybrid,61,3,3,3,50000.0,2,5
+48,Female,North America,Customer Service,Onsite,56,2,1,1,70000.0,1,6
+56,Male,Asia,Marketing,Onsite,61,2,3,2,90000.0,2,2
+49,Male,South America,Education,Onsite,44,2,3,2,50000.0,2,6
+23,Male,South America,Finance,Remote,39,1,3,5,120000.0,2,0
+34,Female,Oceania,Professional Services,Onsite,48,1,1,1,110000.0,1,0
+30,Female,Oceania,Technology,Onsite,46,3,4,1,120000.0,0,5
+41,Male,Africa,Education,Onsite,44,2,4,1,110000.0,4,6
+65,Male,Asia,Manufacturing,Hybrid,51,1,5,5,70000.0,1,3
+43,Male,South America,Finance,Remote,56,3,4,5,110000.0,3,2
+53,Female,North America,Healthcare,Onsite,40,2,4,4,70000.0,3,2
+41,Male,Africa,Retail,Hybrid,56,3,3,4,90000.0,3,1
+42,Male,Europe,Education,Onsite,55,1,1,3,110000.0,3,3
+22,Male,Europe,Professional Services,Hybrid,58,3,5,3,50000.0,3,0
+37,Female,Europe,Customer Service,Remote,39,2,3,5,50000.0,1,4
+56,Female,North America,Manufacturing,Hybrid,36,2,3,3,50000.0,1,0
+41,Female,Asia,Customer Service,Hybrid,56,2,4,3,70000.0,4,6
+31,Female,Europe,Technology,Hybrid,53,1,4,2,110000.0,2,1
+28,Female,Asia,Marketing,Onsite,57,1,5,2,120000.0,1,4
+45,Female,Africa,Finance,Hybrid,49,2,4,3,90000.0,1,3
+24,Female,Africa,Technology,Onsite,63,2,4,1,90000.0,0,2
+46,Female,Europe,Education,Hybrid,45,3,3,5,50000.0,3,0
+60,Male,Oceania,Education,Onsite,35,3,2,1,70000.0,3,0
+35,Male,Africa,Education,Onsite,41,2,3,2,110000.0,2,3
+53,Male,Africa,Professional Services,Remote,38,2,3,4,70000.0,2,4
+44,Male,Oceania,Manufacturing,Hybrid,47,3,5,1,50000.0,1,4
+29,Male,Africa,Healthcare,Hybrid,41,2,1,2,70000.0,3,6
+28,Male,South America,Education,Onsite,38,1,4,2,70000.0,1,1
+35,Female,Europe,Technology,Onsite,58,2,3,1,70000.0,2,0
+22,Female,Oceania,Professional Services,Onsite,64,3,3,1,110000.0,1,1
+31,Male,South America,Finance,Remote,48,3,3,1,90000.0,2,0
+47,Male,North America,Technology,Remote,55,3,1,1,50000.0,2,6
+23,Male,Oceania,Finance,Hybrid,52,2,3,3,70000.0,0,4
+62,Female,South America,Technology,Hybrid,41,1,2,3,70000.0,3,1
+38,Female,North America,Healthcare,Remote,64,3,3,3,70000.0,0,3
+47,Male,Europe,Technology,Onsite,57,2,2,1,120000.0,3,2
+36,Male,North America,Professional Services,Onsite,65,1,1,2,110000.0,3,0
+33,Female,Asia,Professional Services,Onsite,48,2,5,2,110000.0,3,4
+51,Male,Africa,Technology,Onsite,53,1,2,5,70000.0,3,6
+44,Male,Asia,Technology,Remote,62,2,4,1,110000.0,3,1
+58,Male,South America,Professional Services,Hybrid,52,1,4,2,70000.0,1,3
+52,Female,North America,Professional Services,Onsite,53,2,3,3,90000.0,1,2
+23,Male,North America,Technology,Hybrid,63,3,5,3,50000.0,1,1
+48,Male,Europe,Education,Onsite,38,1,4,2,90000.0,4,5
+29,Male,Europe,Healthcare,Hybrid,45,2,4,1,70000.0,2,3
+23,Female,South America,Professional Services,Onsite,35,2,4,2,70000.0,2,2
+39,Male,Africa,Technology,Hybrid,59,3,3,4,50000.0,1,6
+44,Male,Asia,Retail,Hybrid,49,2,5,3,70000.0,1,4
+27,Female,Africa,Finance,Onsite,35,3,4,2,120000.0,0,3
+35,Male,Oceania,Professional Services,Onsite,37,1,3,2,110000.0,1,2
+43,Female,North America,Retail,Onsite,45,1,5,1,50000.0,2,1
+47,Male,Oceania,Finance,Onsite,56,2,3,2,70000.0,4,5
+39,Male,Oceania,Finance,Hybrid,54,1,2,1,110000.0,4,1
+58,Female,Asia,Healthcare,Onsite,62,1,3,2,110000.0,1,2
+48,Male,Asia,Professional Services,Hybrid,50,2,5,4,90000.0,2,2
+51,Female,South America,Retail,Onsite,61,3,3,3,50000.0,2,1
+24,Male,Europe,Finance,Onsite,48,3,4,2,70000.0,2,0
+40,Male,Oceania,Marketing,Hybrid,39,2,4,4,110000.0,3,5
+35,Female,North America,Technology,Onsite,43,3,3,3,50000.0,4,1
+26,Male,Asia,Technology,Hybrid,64,2,3,2,50000.0,2,0
+34,Male,North America,Education,Onsite,50,2,5,2,120000.0,2,2
+53,Female,South America,Customer Service,Hybrid,61,2,3,2,90000.0,3,4
+50,Male,Europe,Professional Services,Hybrid,46,2,4,3,70000.0,1,4
+60,Female,Africa,Technology,Hybrid,54,2,1,3,90000.0,3,1
+57,Female,North America,Manufacturing,Onsite,45,1,2,2,90000.0,3,0
+30,Male,Oceania,Professional Services,Onsite,51,2,3,3,50000.0,2,0
+57,Male,Africa,Marketing,Onsite,49,1,3,2,120000.0,1,1
+53,Male,Asia,Professional Services,Onsite,61,3,3,2,110000.0,4,0
+58,Female,Europe,Technology,Hybrid,65,2,4,4,90000.0,3,0
+28,Female,Asia,Customer Service,Onsite,48,2,5,1,50000.0,1,2
+34,Female,South America,Professional Services,Hybrid,40,2,4,3,120000.0,2,2
+34,Female,Africa,Marketing,Hybrid,64,2,3,1,50000.0,2,4
+27,Male,Oceania,Healthcare,Onsite,58,2,3,2,120000.0,3,0
+28,Female,North America,Finance,Onsite,48,1,1,2,70000.0,1,1
+47,Male,North America,Manufacturing,Remote,42,1,4,3,70000.0,2,1
+55,Female,Africa,Professional Services,Hybrid,45,2,1,3,110000.0,1,0
+52,Female,North America,Finance,Hybrid,51,3,1,3,120000.0,0,6
+42,Male,North America,Retail,Hybrid,40,2,1,1,110000.0,2,0
+56,Female,Africa,Professional Services,Remote,40,3,5,3,70000.0,3,5
+49,Female,North America,Manufacturing,Hybrid,53,1,2,2,70000.0,3,5
+58,Male,Asia,Professional Services,Remote,49,3,1,4,120000.0,4,3
+65,Female,Oceania,Finance,Onsite,57,3,1,1,70000.0,1,0
+62,Male,Africa,Professional Services,Hybrid,54,1,3,1,70000.0,3,2
+33,Female,Oceania,Technology,Remote,47,3,3,4,70000.0,4,4
+28,Male,South America,Retail,Hybrid,49,1,2,5,70000.0,1,1
+43,Male,Europe,Manufacturing,Remote,35,3,2,4,110000.0,1,6
+47,Female,Asia,Healthcare,Onsite,47,2,4,2,90000.0,1,4
+43,Male,Oceania,Finance,Onsite,62,2,3,3,90000.0,2,6
+35,Male,South America,Professional Services,Hybrid,43,3,3,4,90000.0,2,6
+37,Female,South America,Finance,Onsite,58,3,2,2,90000.0,2,2
+56,Female,Asia,Professional Services,Remote,47,1,4,5,70000.0,1,3
+43,Male,Oceania,Retail,Hybrid,46,1,4,4,90000.0,1,5
+36,Male,Asia,Professional Services,Onsite,56,1,4,1,120000.0,2,2
+26,Female,North America,Professional Services,Hybrid,40,1,3,5,90000.0,1,3
+56,Male,Africa,Education,Onsite,65,3,5,2,90000.0,3,3
+22,Female,South America,Education,Onsite,55,3,4,2,90000.0,2,0
+64,Female,North America,Healthcare,Remote,54,2,1,5,70000.0,2,2
+40,Female,North America,Professional Services,Onsite,36,1,4,1,90000.0,1,3
+56,Male,Asia,Marketing,Onsite,35,2,2,3,90000.0,2,0
+62,Female,Asia,Manufacturing,Onsite,59,3,4,5,70000.0,2,1
+31,Female,North America,Finance,Onsite,47,3,3,4,90000.0,3,0
+50,Female,Africa,Professional Services,Hybrid,55,3,3,2,120000.0,2,0
+50,Male,North America,Finance,Onsite,42,1,3,3,70000.0,2,0
+42,Female,South America,Professional Services,Hybrid,37,2,2,4,90000.0,4,1
+49,Female,Asia,Customer Service,Onsite,41,2,4,1,90000.0,3,4
+48,Female,Asia,Technology,Remote,50,3,5,3,50000.0,2,2
+56,Female,Asia,Marketing,Remote,61,3,1,4,90000.0,2,3
+49,Female,Europe,Technology,Hybrid,49,1,2,1,90000.0,2,5
+58,Female,South America,Professional Services,Onsite,40,1,2,4,90000.0,1,5
+52,Male,Africa,Finance,Hybrid,58,2,3,3,90000.0,3,2
+50,Female,North America,Technology,Hybrid,59,1,3,3,110000.0,1,1
+65,Female,Africa,Professional Services,Hybrid,58,2,3,1,110000.0,5,2
+60,Female,Africa,Finance,Onsite,49,2,3,2,90000.0,1,2
+65,Female,Asia,Healthcare,Onsite,40,1,4,1,70000.0,3,6
+49,Male,South America,Professional Services,Hybrid,48,3,4,3,50000.0,3,5
+38,Female,Oceania,Manufacturing,Remote,57,2,3,4,50000.0,2,3
+59,Male,Europe,Professional Services,Onsite,38,1,3,2,50000.0,4,1
+46,Male,Oceania,Healthcare,Onsite,46,2,2,3,90000.0,3,0
+58,Male,Oceania,Healthcare,Onsite,46,1,3,5,90000.0,2,6
+32,Female,South America,Customer Service,Remote,46,3,5,3,110000.0,2,6
+43,Male,Oceania,Marketing,Remote,55,2,1,4,70000.0,1,5
+41,Male,South America,Finance,Onsite,59,1,1,1,90000.0,0,4
+43,Female,South America,Professional Services,Hybrid,56,3,3,3,50000.0,2,4
+27,Female,South America,Professional Services,Onsite,47,3,2,2,90000.0,2,1
+26,Male,Africa,Professional Services,Hybrid,59,1,1,3,50000.0,0,0
+35,Male,North America,Customer Service,Onsite,51,3,1,2,50000.0,1,4
+31,Male,Europe,Healthcare,Remote,45,1,4,4,50000.0,3,6
+29,Female,Europe,Education,Onsite,64,3,1,3,70000.0,2,0
+26,Female,Asia,Manufacturing,Onsite,43,3,4,1,70000.0,2,1
+39,Male,Oceania,Professional Services,Onsite,42,3,3,1,50000.0,2,4
+31,Female,Europe,Professional Services,Hybrid,55,2,4,3,110000.0,3,6
+24,Male,Oceania,Education,Remote,56,1,3,1,50000.0,2,2
+49,Female,Oceania,Technology,Hybrid,55,2,1,2,50000.0,2,4
+64,Female,North America,Finance,Remote,62,3,1,3,50000.0,0,0
+46,Male,South America,Finance,Onsite,43,2,4,2,90000.0,2,3
+25,Female,South America,Customer Service,Onsite,37,2,2,2,70000.0,0,5
+55,Female,North America,Technology,Remote,59,2,3,2,70000.0,2,1
+53,Male,South America,Professional Services,Remote,43,3,3,3,110000.0,0,3
+55,Female,Europe,Professional Services,Onsite,65,2,4,1,90000.0,3,4
+29,Female,Asia,Manufacturing,Hybrid,50,1,2,1,110000.0,2,1
+60,Male,North America,Marketing,Remote,45,2,3,1,70000.0,0,0
+32,Male,Asia,Healthcare,Onsite,62,1,3,4,70000.0,3,0
+45,Female,South America,Technology,Remote,65,3,1,5,90000.0,2,2
+37,Female,Oceania,Education,Onsite,58,2,1,4,90000.0,3,0
+32,Male,Asia,Technology,Remote,58,3,2,3,110000.0,1,4
+43,Female,Africa,Professional Services,Onsite,57,2,5,1,50000.0,3,0
+58,Female,Africa,Healthcare,Hybrid,46,2,2,3,70000.0,3,0
+64,Female,Asia,Manufacturing,Hybrid,64,3,3,4,90000.0,1,5
+40,Female,Africa,Retail,Hybrid,58,2,3,4,50000.0,2,5
+61,Male,Africa,Technology,Onsite,40,3,2,1,70000.0,2,4
+40,Male,North America,Finance,Onsite,44,2,2,3,50000.0,4,5
+46,Female,South America,Retail,Onsite,50,2,3,2,90000.0,2,1
+24,Male,South America,Technology,Onsite,37,2,3,4,50000.0,4,6
+50,Male,Europe,Finance,Onsite,64,2,5,2,50000.0,3,4
+24,Female,Europe,Technology,Hybrid,41,2,4,3,70000.0,2,2
+59,Male,Africa,Technology,Hybrid,47,2,4,3,70000.0,1,6
+33,Female,North America,Professional Services,Onsite,64,3,1,3,90000.0,1,0
+37,Female,Africa,Finance,Onsite,51,3,1,4,90000.0,1,3
+65,Male,Europe,Technology,Remote,54,3,4,2,90000.0,1,6
+54,Male,Africa,Marketing,Onsite,58,1,5,1,70000.0,1,4
+39,Female,North America,Retail,Onsite,55,2,3,2,90000.0,2,0
+63,Male,Africa,Education,Onsite,37,2,1,2,70000.0,1,2
+49,Male,Oceania,Education,Onsite,36,1,4,1,70000.0,1,6
+65,Male,Africa,Retail,Hybrid,50,1,3,4,110000.0,1,5
+23,Male,Asia,Manufacturing,Onsite,47,2,4,5,70000.0,3,3
+34,Male,North America,Marketing,Onsite,36,1,5,3,70000.0,1,1
+41,Female,North America,Professional Services,Remote,44,1,2,4,90000.0,2,0
+52,Female,Oceania,Retail,Hybrid,62,3,5,2,50000.0,0,2
+41,Female,Oceania,Healthcare,Hybrid,64,2,1,2,90000.0,3,3
+58,Male,Asia,Manufacturing,Onsite,46,2,3,1,70000.0,0,2
+61,Female,Oceania,Finance,Onsite,44,2,2,1,70000.0,4,1
+24,Male,Europe,Customer Service,Onsite,35,3,3,3,50000.0,3,4
+30,Female,Europe,Manufacturing,Onsite,65,1,3,1,90000.0,1,1
+30,Male,Oceania,Technology,Onsite,59,3,2,3,90000.0,1,6
+40,Male,North America,Manufacturing,Onsite,49,2,1,4,90000.0,0,5
+46,Female,Africa,Technology,Hybrid,35,3,4,2,70000.0,2,6
+56,Female,Oceania,Technology,Onsite,41,1,1,1,90000.0,4,3
+56,Male,Europe,Manufacturing,Onsite,36,1,3,2,70000.0,2,1
+29,Male,South America,Education,Hybrid,59,2,4,5,70000.0,1,6
+58,Male,Africa,Professional Services,Onsite,35,2,3,3,70000.0,3,5
+62,Male,North America,Technology,Remote,57,3,3,1,70000.0,0,4
+34,Female,North America,Manufacturing,Remote,64,2,3,4,90000.0,2,0
+41,Female,Europe,Healthcare,Onsite,60,2,1,3,90000.0,1,4
+51,Female,Africa,Professional Services,Onsite,47,3,4,2,50000.0,5,3
+63,Female,Asia,Education,Hybrid,56,1,2,1,70000.0,1,5
+26,Female,North America,Customer Service,Remote,52,3,3,3,90000.0,3,1
+47,Female,Europe,Professional Services,Hybrid,58,2,2,4,120000.0,1,3
+38,Male,Asia,Professional Services,Onsite,44,2,4,3,110000.0,1,6
+43,Female,Europe,Professional Services,Hybrid,53,2,4,3,110000.0,1,0
+35,Female,Oceania,Healthcare,Onsite,53,1,3,2,70000.0,2,0
+46,Male,North America,Customer Service,Hybrid,52,2,4,5,90000.0,3,3
+29,Male,Asia,Manufacturing,Hybrid,59,2,4,1,50000.0,2,4
+24,Male,Africa,Professional Services,Onsite,56,2,3,4,110000.0,1,4
+45,Male,North America,Education,Remote,57,2,3,3,70000.0,3,2
+63,Male,Africa,Healthcare,Hybrid,48,3,4,3,70000.0,2,2
+54,Male,Africa,Technology,Onsite,59,2,1,3,90000.0,2,2
+52,Female,Europe,Professional Services,Onsite,35,2,3,3,90000.0,2,3
+60,Male,North America,Customer Service,Onsite,65,1,3,3,110000.0,3,5
+37,Female,Europe,Customer Service,Hybrid,61,3,2,5,90000.0,3,5
+36,Male,South America,Finance,Onsite,62,3,2,5,90000.0,2,0
+29,Male,Europe,Technology,Hybrid,41,2,2,1,90000.0,4,4
+60,Female,Europe,Retail,Onsite,65,1,2,4,90000.0,2,0
+43,Female,Europe,Technology,Remote,48,2,1,1,70000.0,1,0
+27,Female,Africa,Professional Services,Onsite,65,2,4,2,70000.0,3,6
+54,Male,Africa,Finance,Onsite,63,3,3,2,110000.0,4,2
+50,Female,Oceania,Manufacturing,Hybrid,40,2,3,3,90000.0,3,6
+65,Male,Asia,Marketing,Onsite,60,2,3,2,90000.0,1,0
+58,Male,Asia,Healthcare,Hybrid,54,1,2,1,90000.0,2,2
+61,Female,South America,Customer Service,Onsite,45,3,4,3,90000.0,0,2
+52,Female,South America,Customer Service,Onsite,58,2,3,2,70000.0,0,4
+60,Male,North America,Technology,Hybrid,59,3,4,3,50000.0,1,0
+65,Female,Africa,Professional Services,Onsite,58,3,2,2,70000.0,2,1
+39,Female,Europe,Manufacturing,Remote,41,1,3,5,120000.0,3,2
+29,Male,South America,Professional Services,Onsite,46,2,3,3,90000.0,2,6
+59,Female,Europe,Education,Remote,64,3,4,4,50000.0,4,3
+44,Female,Europe,Professional Services,Hybrid,62,2,3,3,70000.0,3,4
+61,Male,North America,Professional Services,Hybrid,41,3,3,2,90000.0,3,0
+59,Female,Oceania,Professional Services,Onsite,63,2,2,1,50000.0,1,1
+25,Male,North America,Finance,Onsite,51,1,3,2,90000.0,2,0
+38,Female,South America,Technology,Remote,53,3,4,4,70000.0,2,1
+60,Male,Asia,Marketing,Onsite,43,2,2,2,70000.0,2,6
+30,Male,Africa,Retail,Onsite,55,3,5,1,110000.0,1,0
+52,Female,Europe,Technology,Onsite,48,2,3,2,70000.0,1,4
+40,Female,South America,Education,Onsite,46,1,1,3,50000.0,1,4
+40,Male,Oceania,Manufacturing,Onsite,59,1,3,1,110000.0,1,0
+22,Male,Asia,Manufacturing,Hybrid,35,2,3,2,90000.0,2,1
+40,Female,Europe,Customer Service,Onsite,62,3,4,3,90000.0,1,5
+63,Male,Europe,Healthcare,Onsite,60,2,1,1,70000.0,2,0
+23,Female,North America,Retail,Hybrid,64,2,5,2,70000.0,3,4
+43,Male,South America,Customer Service,Hybrid,51,1,3,3,70000.0,1,6
+40,Female,Europe,Finance,Remote,65,2,4,3,90000.0,2,6
+56,Female,Oceania,Professional Services,Onsite,50,3,3,1,50000.0,1,1
+65,Male,Oceania,Manufacturing,Remote,65,1,5,3,120000.0,1,0
+45,Male,North America,Retail,Hybrid,57,3,3,2,50000.0,3,6
+59,Male,Europe,Retail,Onsite,36,1,5,3,70000.0,3,5
+34,Male,Asia,Professional Services,Remote,56,2,2,2,70000.0,3,0
+47,Male,North America,Technology,Hybrid,53,3,3,3,50000.0,2,0
+65,Male,Africa,Finance,Onsite,57,2,3,3,70000.0,4,2
+54,Female,Africa,Professional Services,Onsite,41,2,3,3,70000.0,3,1
+63,Male,South America,Technology,Hybrid,56,2,1,3,70000.0,0,6
+60,Female,North America,Retail,Onsite,63,1,3,4,70000.0,1,0
+42,Female,Asia,Finance,Onsite,43,2,3,3,70000.0,1,0
+43,Male,Europe,Professional Services,Onsite,56,1,3,1,70000.0,3,3
+57,Male,Africa,Technology,Remote,60,2,3,3,90000.0,2,5
+26,Female,North America,Professional Services,Onsite,40,3,2,1,70000.0,2,6
+28,Female,North America,Healthcare,Onsite,59,1,2,3,70000.0,1,2
+40,Female,Asia,Technology,Remote,44,3,3,5,90000.0,2,6
+26,Female,Africa,Healthcare,Onsite,37,2,3,1,70000.0,2,0
+50,Female,Asia,Technology,Hybrid,65,2,4,4,90000.0,4,2
+35,Male,Africa,Professional Services,Onsite,56,1,1,5,90000.0,2,3
+42,Female,Europe,Professional Services,Onsite,39,1,5,4,90000.0,1,5
+41,Male,Europe,Manufacturing,Onsite,52,2,4,2,70000.0,4,4
+48,Male,Oceania,Professional Services,Hybrid,55,1,2,2,120000.0,2,6
+28,Male,North America,Technology,Remote,40,1,3,3,70000.0,2,3
+60,Female,North America,Manufacturing,Remote,57,2,2,5,120000.0,3,2
+58,Female,North America,Education,Onsite,42,1,5,3,110000.0,2,2
+50,Female,Europe,Professional Services,Onsite,54,2,3,1,90000.0,1,0
+35,Female,Oceania,Healthcare,Remote,49,2,3,5,70000.0,3,6
+25,Female,Africa,Technology,Hybrid,57,1,2,2,70000.0,1,3
+22,Male,North America,Education,Remote,59,2,4,4,90000.0,3,0
+43,Male,Europe,Customer Service,Onsite,52,2,2,5,70000.0,1,3
+40,Male,Africa,Customer Service,Hybrid,65,2,3,3,50000.0,3,0
+58,Female,Europe,Manufacturing,Hybrid,43,1,3,3,70000.0,4,1
+31,Female,North America,Healthcare,Remote,46,3,4,5,110000.0,3,1
+54,Female,Oceania,Technology,Hybrid,60,2,1,1,90000.0,3,0
+38,Male,North America,Professional Services,Hybrid,51,3,3,5,70000.0,2,4
+57,Male,Africa,Manufacturing,Hybrid,50,2,3,2,90000.0,1,4
+36,Male,Africa,Manufacturing,Onsite,52,2,1,1,70000.0,3,2
+56,Male,Europe,Professional Services,Onsite,42,3,3,4,50000.0,3,5
+52,Male,Oceania,Manufacturing,Hybrid,55,1,1,1,90000.0,1,4
+49,Male,South America,Manufacturing,Remote,59,3,1,4,70000.0,2,3
+55,Male,Africa,Finance,Onsite,39,2,5,2,90000.0,0,0
+47,Male,Africa,Manufacturing,Hybrid,35,3,3,1,120000.0,4,3
+23,Male,Africa,Finance,Hybrid,44,2,1,3,90000.0,3,2
+57,Female,South America,Retail,Onsite,64,2,3,1,70000.0,1,4
+47,Female,South America,Customer Service,Onsite,53,2,3,2,70000.0,1,1
+32,Male,South America,Professional Services,Onsite,58,1,2,4,90000.0,3,2
+29,Female,North America,Customer Service,Hybrid,53,1,2,3,50000.0,3,5
+27,Female,Asia,Professional Services,Onsite,55,1,4,2,70000.0,5,2
+22,Female,North America,Manufacturing,Hybrid,37,1,3,3,50000.0,2,3
+31,Male,Asia,Professional Services,Hybrid,60,2,4,4,50000.0,1,4
+37,Female,North America,Manufacturing,Hybrid,44,2,1,2,120000.0,0,4
+50,Female,North America,Retail,Onsite,60,2,1,3,90000.0,1,5
+36,Male,Africa,Education,Onsite,62,2,3,1,90000.0,1,2
+59,Female,Oceania,Professional Services,Onsite,59,2,1,3,90000.0,3,0
+24,Female,Oceania,Technology,Hybrid,40,3,3,5,70000.0,2,6
+45,Female,Europe,Professional Services,Onsite,60,1,2,3,70000.0,2,5
+54,Female,Africa,Finance,Onsite,57,3,5,1,50000.0,2,2
+64,Male,Oceania,Manufacturing,Remote,55,2,4,4,70000.0,2,1
+44,Male,South America,Professional Services,Hybrid,50,1,4,4,50000.0,5,0
+33,Male,Europe,Professional Services,Onsite,54,2,3,2,50000.0,1,1
+23,Female,Africa,Finance,Hybrid,49,1,4,2,90000.0,2,4
+33,Male,Asia,Manufacturing,Onsite,51,2,5,3,90000.0,2,3
+33,Female,Africa,Education,Remote,52,3,2,3,90000.0,1,5
+64,Female,Asia,Education,Remote,45,3,5,3,90000.0,4,3
+38,Female,Africa,Healthcare,Onsite,45,3,2,4,90000.0,3,0
+44,Female,Europe,Professional Services,Onsite,54,1,5,3,70000.0,1,6
+60,Male,Africa,Professional Services,Hybrid,57,1,3,2,90000.0,2,1
+43,Male,Europe,Professional Services,Onsite,56,2,4,2,70000.0,1,6
+30,Male,Europe,Finance,Onsite,49,2,3,2,70000.0,4,0
+52,Male,South America,Retail,Hybrid,35,2,2,3,90000.0,1,4
+52,Female,South America,Healthcare,Onsite,56,2,4,2,70000.0,4,5
+36,Female,South America,Healthcare,Hybrid,61,2,1,2,110000.0,3,1
+57,Female,Europe,Healthcare,Hybrid,37,1,2,3,50000.0,2,0
+48,Male,Africa,Professional Services,Onsite,38,2,2,2,70000.0,3,3
+29,Female,Oceania,Technology,Onsite,57,2,3,3,110000.0,1,0
+36,Male,Europe,Retail,Onsite,44,1,4,3,110000.0,0,0
+47,Female,Africa,Technology,Hybrid,46,2,3,3,90000.0,1,0
+52,Female,Europe,Manufacturing,Remote,44,2,4,4,70000.0,1,4
+32,Female,Oceania,Healthcare,Hybrid,53,3,3,4,90000.0,1,3
+64,Male,South America,Technology,Onsite,54,2,3,2,110000.0,1,6
+31,Male,Oceania,Technology,Hybrid,49,3,1,1,70000.0,0,0
+28,Female,Asia,Professional Services,Remote,55,1,2,3,50000.0,2,6
+48,Female,South America,Technology,Hybrid,41,2,5,4,90000.0,2,6
+47,Male,Oceania,Technology,Remote,43,3,4,3,50000.0,3,0
+26,Male,Europe,Professional Services,Onsite,35,1,3,2,70000.0,2,0
+34,Female,Asia,Manufacturing,Onsite,52,3,2,2,110000.0,2,3
+25,Female,South America,Manufacturing,Onsite,50,2,1,2,70000.0,2,4
+47,Male,North America,Professional Services,Onsite,49,2,1,2,70000.0,2,0
+26,Female,North America,Marketing,Hybrid,40,3,5,2,90000.0,2,5
+47,Female,Africa,Retail,Onsite,41,2,4,3,110000.0,2,0
+51,Female,Oceania,Marketing,Onsite,49,3,3,1,110000.0,2,0
+50,Female,Asia,Healthcare,Remote,59,2,4,3,90000.0,2,5
+47,Female,Europe,Professional Services,Hybrid,42,2,4,2,120000.0,2,1
+48,Female,Oceania,Retail,Onsite,38,3,5,4,90000.0,1,2
+34,Female,Europe,Technology,Hybrid,53,3,5,2,70000.0,1,1
+57,Female,Europe,Professional Services,Remote,43,2,2,2,90000.0,1,1
+26,Female,Oceania,Education,Hybrid,38,2,2,4,110000.0,2,6
+54,Female,Asia,Marketing,Onsite,44,1,3,1,70000.0,1,2
+29,Female,Oceania,Professional Services,Onsite,45,2,1,2,70000.0,1,0
+23,Male,South America,Technology,Onsite,56,1,3,2,120000.0,4,3
+26,Male,Oceania,Technology,Hybrid,56,2,3,3,70000.0,2,0
+34,Female,South America,Manufacturing,Remote,51,3,2,3,50000.0,1,1
+53,Male,Asia,Professional Services,Hybrid,50,1,2,1,50000.0,2,0
+28,Male,Oceania,Manufacturing,Remote,55,1,3,5,90000.0,1,0
+48,Female,Africa,Education,Remote,49,3,3,3,50000.0,3,3
+38,Male,Africa,Education,Onsite,43,2,5,3,70000.0,4,1
+51,Male,Asia,Professional Services,Onsite,55,3,5,1,50000.0,2,5
+50,Male,South America,Customer Service,Onsite,41,2,3,1,90000.0,1,0
+47,Female,North America,Manufacturing,Remote,36,3,3,4,90000.0,2,3
+54,Male,Oceania,Education,Onsite,61,2,3,2,70000.0,2,6
+27,Female,South America,Manufacturing,Hybrid,57,3,3,3,70000.0,0,6
+57,Male,Oceania,Retail,Remote,64,2,3,3,110000.0,3,0
+30,Male,Europe,Professional Services,Onsite,36,2,3,3,70000.0,3,3
+29,Male,Oceania,Healthcare,Hybrid,39,2,3,1,110000.0,0,0
+45,Female,Asia,Professional Services,Onsite,62,3,3,5,70000.0,1,2
+30,Female,North America,Professional Services,Hybrid,53,2,1,3,70000.0,2,0
+42,Female,North America,Marketing,Onsite,61,1,4,3,90000.0,3,3
+52,Male,Oceania,Retail,Onsite,48,1,1,3,90000.0,1,0
+51,Female,Europe,Professional Services,Onsite,54,1,1,1,110000.0,3,5
+25,Male,South America,Marketing,Onsite,50,2,5,2,90000.0,0,2
+34,Female,Oceania,Manufacturing,Onsite,39,1,1,3,110000.0,2,4
+55,Female,Asia,Finance,Remote,49,3,1,2,50000.0,2,4
+28,Female,Europe,Professional Services,Hybrid,53,3,2,3,50000.0,1,1
+24,Male,Africa,Technology,Onsite,51,2,4,3,120000.0,2,3
+34,Male,Asia,Technology,Hybrid,42,3,4,4,70000.0,1,1
+56,Male,South America,Marketing,Onsite,60,2,3,4,90000.0,3,5
+65,Male,Africa,Healthcare,Hybrid,49,3,3,5,90000.0,4,2
+46,Male,Africa,Education,Hybrid,56,2,2,4,70000.0,3,6
+53,Male,South America,Healthcare,Hybrid,61,3,2,2,110000.0,0,2
+65,Female,South America,Education,Remote,52,3,3,5,50000.0,0,0
+49,Female,Europe,Finance,Onsite,45,2,4,1,90000.0,4,6
+33,Female,Africa,Professional Services,Onsite,60,3,3,1,50000.0,1,3
+54,Male,South America,Marketing,Onsite,37,1,2,1,50000.0,1,1
+44,Male,North America,Technology,Remote,37,1,4,5,120000.0,1,5
+38,Female,Europe,Finance,Onsite,49,2,1,3,70000.0,2,1
+52,Male,North America,Technology,Remote,65,3,3,3,70000.0,1,3
+40,Male,South America,Technology,Onsite,50,2,2,1,110000.0,2,1
+45,Female,Oceania,Technology,Remote,43,3,1,4,90000.0,2,6
+55,Female,North America,Healthcare,Onsite,60,2,5,1,120000.0,2,0
+37,Male,Asia,Finance,Onsite,50,1,5,2,110000.0,1,0
+22,Male,Asia,Professional Services,Onsite,55,2,4,3,70000.0,1,0
+30,Male,South America,Professional Services,Onsite,65,3,3,1,90000.0,2,3
+36,Male,South America,Technology,Hybrid,45,3,3,2,50000.0,3,4
+24,Male,Asia,Customer Service,Hybrid,36,2,2,1,70000.0,4,2
+62,Female,Europe,Technology,Onsite,42,3,3,2,110000.0,1,0
+64,Female,Oceania,Healthcare,Onsite,38,3,4,2,90000.0,0,0
+23,Female,Oceania,Manufacturing,Onsite,47,1,2,2,110000.0,2,6
+37,Female,North America,Professional Services,Onsite,59,2,3,5,90000.0,3,0
+32,Male,Oceania,Manufacturing,Hybrid,60,3,4,4,90000.0,1,4
+33,Male,North America,Education,Hybrid,62,2,1,5,90000.0,3,1
+65,Male,Africa,Education,Onsite,47,2,3,2,90000.0,2,2
+23,Male,North America,Healthcare,Onsite,38,3,2,1,120000.0,2,6
+39,Male,Asia,Finance,Hybrid,58,2,1,3,50000.0,1,2
+46,Female,South America,Healthcare,Onsite,44,1,2,3,70000.0,3,4
+47,Male,Oceania,Healthcare,Onsite,42,2,3,3,50000.0,4,3
+56,Male,South America,Professional Services,Onsite,36,2,1,3,110000.0,1,0
+30,Male,Oceania,Professional Services,Onsite,48,1,5,1,70000.0,2,1
+37,Female,Europe,Technology,Remote,56,3,3,4,70000.0,3,2
+24,Female,Oceania,Manufacturing,Hybrid,64,3,3,1,70000.0,3,4
+65,Female,Oceania,Technology,Remote,42,3,1,1,110000.0,3,0
+24,Male,Oceania,Education,Onsite,65,2,5,2,70000.0,2,4
+28,Male,South America,Healthcare,Hybrid,46,2,5,2,120000.0,1,2
+33,Male,North America,Professional Services,Onsite,50,3,3,2,110000.0,2,6
+51,Male,South America,Finance,Onsite,40,2,3,2,90000.0,3,5
+38,Male,North America,Finance,Onsite,51,2,2,2,110000.0,1,0
+32,Male,North America,Technology,Hybrid,56,1,2,2,50000.0,4,3
+63,Female,Oceania,Technology,Hybrid,39,3,4,4,110000.0,1,6
+23,Female,North America,Education,Onsite,48,3,1,3,90000.0,2,5
+39,Male,Africa,Professional Services,Hybrid,44,3,5,5,70000.0,2,5
+53,Female,South America,Finance,Onsite,47,3,3,1,50000.0,1,5
+34,Female,Asia,Retail,Hybrid,45,3,5,4,70000.0,1,5
+22,Male,Africa,Finance,Onsite,41,2,2,3,70000.0,3,5
+33,Male,North America,Finance,Onsite,41,2,4,3,50000.0,3,2
+64,Male,Africa,Manufacturing,Onsite,58,1,3,3,70000.0,3,0
+49,Female,North America,Finance,Onsite,63,2,5,3,110000.0,3,5
+29,Female,North America,Professional Services,Onsite,52,1,4,2,70000.0,1,6
+56,Male,North America,Professional Services,Hybrid,56,1,5,4,50000.0,2,4
+65,Female,North America,Technology,Onsite,54,2,3,1,90000.0,2,5
+52,Male,South America,Customer Service,Hybrid,54,2,1,4,110000.0,2,4
+41,Female,South America,Professional Services,Onsite,57,2,2,3,120000.0,4,6
+26,Male,North America,Retail,Hybrid,36,3,3,3,110000.0,1,0
+52,Female,Asia,Professional Services,Hybrid,46,3,1,3,70000.0,1,5
+56,Female,North America,Professional Services,Onsite,65,1,5,3,110000.0,2,4
+26,Male,Asia,Education,Remote,38,3,4,1,90000.0,5,6
+39,Male,Europe,Technology,Hybrid,60,2,2,2,50000.0,2,2
+34,Female,South America,Technology,Hybrid,56,3,4,4,70000.0,2,1
+46,Male,North America,Professional Services,Onsite,44,2,2,2,50000.0,2,1
+51,Male,Oceania,Professional Services,Onsite,57,1,5,2,110000.0,1,5
+23,Female,Asia,Manufacturing,Hybrid,49,3,5,2,120000.0,2,0
+44,Female,Africa,Marketing,Hybrid,61,3,3,3,50000.0,3,0
+62,Female,Africa,Finance,Onsite,52,2,1,5,90000.0,1,1
+28,Male,Asia,Customer Service,Onsite,39,1,5,1,110000.0,3,5
+39,Female,Asia,Healthcare,Onsite,46,2,5,4,50000.0,2,0
+49,Female,Africa,Education,Onsite,44,2,4,3,50000.0,1,5
+45,Female,South America,Professional Services,Onsite,52,3,2,2,90000.0,1,1
+41,Male,South America,Education,Hybrid,47,3,2,3,90000.0,0,0
+40,Female,South America,Manufacturing,Onsite,36,2,5,1,90000.0,1,6
+30,Male,Africa,Technology,Hybrid,42,2,3,4,50000.0,1,5
+27,Female,North America,Finance,Onsite,47,3,3,1,70000.0,3,5
+49,Male,Europe,Retail,Onsite,51,1,1,1,90000.0,2,3
+56,Male,Oceania,Healthcare,Hybrid,46,2,2,2,90000.0,2,0
+39,Male,Asia,Professional Services,Onsite,46,2,3,2,70000.0,2,5
+24,Male,Asia,Technology,Remote,47,1,2,3,70000.0,0,5
+57,Male,South America,Technology,Remote,62,2,3,4,90000.0,2,0
+26,Male,North America,Customer Service,Hybrid,57,1,5,5,50000.0,1,0
+63,Male,South America,Professional Services,Hybrid,65,2,3,1,90000.0,1,0
+46,Female,Asia,Finance,Onsite,42,3,3,1,90000.0,3,1
+60,Male,Oceania,Manufacturing,Hybrid,50,2,2,3,120000.0,1,6
+61,Female,Europe,Retail,Remote,37,3,5,5,90000.0,2,3
+57,Male,Oceania,Finance,Hybrid,59,2,3,3,70000.0,3,0
+29,Female,South America,Finance,Remote,56,1,3,3,50000.0,2,6
+63,Male,South America,Professional Services,Onsite,53,1,5,4,110000.0,3,0
+22,Male,Oceania,Finance,Onsite,58,2,3,5,50000.0,4,5
+22,Female,Africa,Professional Services,Hybrid,58,2,3,4,90000.0,1,0
+43,Female,Oceania,Healthcare,Hybrid,37,2,3,3,110000.0,1,0
+52,Male,Africa,Technology,Hybrid,56,3,2,3,70000.0,2,2
+39,Female,Africa,Finance,Hybrid,64,1,2,3,90000.0,1,0
+28,Female,South America,Professional Services,Onsite,44,1,3,3,90000.0,1,3
+34,Female,Oceania,Technology,Onsite,64,3,3,2,70000.0,3,1
+32,Female,Oceania,Marketing,Onsite,61,1,5,2,70000.0,2,2
+23,Female,South America,Technology,Remote,53,3,3,1,90000.0,3,2
+64,Male,Asia,Finance,Remote,63,2,1,5,90000.0,2,4
+28,Female,North America,Technology,Hybrid,62,1,2,2,50000.0,2,4
+33,Male,Europe,Education,Onsite,64,2,1,2,50000.0,0,3
+58,Female,Oceania,Technology,Hybrid,51,2,1,2,50000.0,4,4
+41,Female,Africa,Professional Services,Remote,62,2,3,5,70000.0,1,5
+38,Male,Oceania,Healthcare,Hybrid,64,3,3,2,110000.0,2,1
+64,Male,Europe,Technology,Hybrid,60,2,4,3,110000.0,2,6
+65,Male,Asia,Healthcare,Onsite,40,2,4,2,70000.0,0,0
+48,Female,Asia,Education,Remote,57,2,3,3,90000.0,2,5
+44,Male,South America,Finance,Onsite,59,2,1,3,90000.0,1,4
+52,Female,South America,Professional Services,Onsite,64,2,1,4,90000.0,3,0
+41,Female,Africa,Manufacturing,Remote,57,2,4,3,70000.0,0,2
+41,Male,Europe,Finance,Hybrid,63,2,5,4,70000.0,2,1
+49,Male,Europe,Manufacturing,Remote,47,2,1,2,50000.0,3,5
+39,Male,North America,Retail,Hybrid,40,3,4,2,70000.0,3,0
+22,Male,Oceania,Healthcare,Onsite,58,2,4,1,90000.0,2,0
+52,Female,Africa,Customer Service,Onsite,64,1,4,2,110000.0,3,1
+31,Male,Asia,Marketing,Hybrid,36,2,3,3,70000.0,3,6
+38,Male,Africa,Education,Onsite,47,3,5,1,110000.0,1,0
+47,Male,North America,Manufacturing,Onsite,54,1,5,3,90000.0,0,0
+45,Male,Europe,Technology,Remote,57,2,5,4,70000.0,0,6
+26,Male,Asia,Professional Services,Onsite,41,1,4,3,70000.0,4,2
+22,Male,Oceania,Education,Onsite,60,1,4,2,70000.0,1,1
+44,Female,Europe,Manufacturing,Remote,36,2,2,5,70000.0,2,4
+26,Male,South America,Education,Hybrid,44,1,3,3,90000.0,2,0
+44,Female,Asia,Professional Services,Onsite,49,2,3,3,90000.0,3,1
+37,Male,Europe,Professional Services,Onsite,51,3,3,2,70000.0,1,5
+23,Female,Asia,Technology,Onsite,60,3,5,4,90000.0,4,6
+59,Male,Europe,Education,Onsite,65,2,4,1,70000.0,2,5
+32,Female,South America,Professional Services,Onsite,56,1,5,3,70000.0,1,6
+32,Female,Europe,Customer Service,Hybrid,48,3,2,3,90000.0,2,1
+35,Female,South America,Retail,Hybrid,47,2,2,2,50000.0,3,6
+62,Female,Asia,Professional Services,Hybrid,42,2,4,4,90000.0,2,6
+33,Male,Asia,Retail,Onsite,40,1,4,1,50000.0,0,1
+39,Male,Europe,Education,Onsite,56,2,4,3,90000.0,2,6
+52,Male,Europe,Finance,Onsite,44,1,3,1,70000.0,4,4
+54,Male,North America,Professional Services,Hybrid,57,2,2,2,110000.0,0,0
+36,Male,South America,Education,Remote,64,3,3,4,110000.0,1,0
+32,Male,Oceania,Professional Services,Onsite,65,1,1,1,110000.0,2,6
+47,Female,Europe,Education,Onsite,64,1,1,2,110000.0,1,1
+48,Female,Africa,Finance,Onsite,46,1,3,2,50000.0,2,0
+47,Male,South America,Technology,Hybrid,61,3,4,2,70000.0,3,6
+31,Female,Asia,Technology,Remote,50,3,4,5,90000.0,3,3
+52,Male,Europe,Professional Services,Onsite,50,2,5,3,110000.0,1,6
+65,Female,Africa,Professional Services,Remote,53,3,2,3,70000.0,1,4
+57,Female,Africa,Marketing,Onsite,64,3,4,1,70000.0,2,4
+64,Female,Europe,Professional Services,Hybrid,45,2,1,4,70000.0,2,0
+30,Male,Europe,Professional Services,Hybrid,41,1,2,2,90000.0,2,0
+51,Male,Africa,Professional Services,Remote,51,3,3,4,70000.0,2,4
+50,Female,Oceania,Finance,Hybrid,59,1,3,3,70000.0,3,0
+56,Female,Europe,Technology,Remote,40,3,1,3,90000.0,2,2
+24,Female,Oceania,Education,Remote,43,1,3,5,50000.0,3,0
+37,Male,Oceania,Marketing,Onsite,50,3,4,3,110000.0,2,5
+60,Female,North America,Finance,Onsite,64,3,1,2,70000.0,1,6
+22,Female,South America,Marketing,Hybrid,58,3,3,1,110000.0,2,5
+60,Male,Asia,Marketing,Hybrid,51,3,3,3,90000.0,3,4
+26,Male,Europe,Technology,Remote,39,2,1,4,90000.0,2,6
+28,Female,North America,Finance,Onsite,54,2,2,5,70000.0,2,6
+37,Female,Africa,Finance,Onsite,53,2,3,1,70000.0,2,0
+63,Male,Europe,Retail,Onsite,35,2,1,3,70000.0,3,0
+28,Male,Europe,Education,Hybrid,59,2,3,3,110000.0,2,0
+53,Male,Africa,Education,Hybrid,59,3,3,1,90000.0,2,4
+53,Male,South America,Professional Services,Onsite,50,2,3,5,70000.0,1,4
+42,Female,South America,Professional Services,Onsite,55,3,1,4,120000.0,2,2
+42,Female,Asia,Healthcare,Hybrid,35,3,2,2,50000.0,2,4
+38,Male,Africa,Marketing,Hybrid,64,2,1,3,120000.0,1,4
+54,Male,Europe,Marketing,Onsite,42,3,3,2,90000.0,2,2
+24,Female,Europe,Education,Onsite,41,1,2,5,110000.0,3,0
+41,Male,Africa,Education,Remote,63,3,3,2,90000.0,2,2
+40,Female,Europe,Manufacturing,Onsite,45,1,2,2,70000.0,2,1
+52,Female,South America,Retail,Onsite,37,1,1,3,50000.0,3,5
+47,Female,Africa,Professional Services,Remote,40,2,3,4,50000.0,2,5
+33,Female,Asia,Customer Service,Remote,42,2,4,2,70000.0,4,0
+57,Female,Asia,Finance,Hybrid,38,2,5,2,50000.0,2,5
+58,Male,Oceania,Manufacturing,Hybrid,58,2,3,1,90000.0,1,2
+37,Male,Europe,Education,Onsite,57,1,5,4,70000.0,3,0
+36,Female,Oceania,Professional Services,Remote,43,3,3,5,90000.0,3,5
+39,Female,Asia,Technology,Hybrid,46,3,3,3,90000.0,0,4
+29,Male,Europe,Finance,Onsite,51,1,3,2,50000.0,1,0
+39,Male,North America,Finance,Remote,60,2,4,5,90000.0,2,0
+61,Female,Oceania,Retail,Onsite,36,2,3,3,70000.0,2,6
+28,Female,South America,Manufacturing,Hybrid,63,3,5,2,50000.0,1,1
+31,Male,Europe,Professional Services,Onsite,57,2,3,2,110000.0,1,4
+63,Female,Asia,Professional Services,Onsite,63,3,3,3,50000.0,2,4
+41,Female,Africa,Professional Services,Onsite,57,1,4,3,70000.0,2,5
+59,Female,Africa,Customer Service,Onsite,47,2,2,3,90000.0,2,1
+64,Female,Asia,Technology,Hybrid,54,3,2,3,70000.0,1,2
+24,Male,Africa,Technology,Remote,57,3,1,3,50000.0,2,0
+64,Male,North America,Technology,Hybrid,57,2,5,3,120000.0,1,1
+55,Male,Asia,Finance,Hybrid,48,2,2,1,110000.0,2,2
+65,Male,Europe,Professional Services,Onsite,49,1,4,2,90000.0,0,2
+36,Male,Asia,Marketing,Hybrid,49,1,3,3,110000.0,2,0
+28,Male,Europe,Manufacturing,Remote,60,2,3,4,120000.0,2,4
+57,Male,Africa,Technology,Remote,49,2,3,4,70000.0,2,0
+31,Male,Africa,Technology,Hybrid,41,2,2,2,50000.0,3,2
+30,Male,Oceania,Professional Services,Onsite,63,1,4,3,70000.0,2,0
+48,Male,Africa,Retail,Onsite,50,2,3,2,70000.0,1,5
+53,Male,Africa,Technology,Remote,58,1,4,4,50000.0,1,1
+35,Female,Europe,Retail,Hybrid,58,3,3,2,50000.0,3,0
+51,Male,Africa,Professional Services,Onsite,48,3,3,1,70000.0,3,0
+37,Male,Europe,Manufacturing,Hybrid,38,1,4,2,120000.0,2,0
+51,Male,Oceania,Finance,Onsite,38,3,3,1,110000.0,2,3
+26,Female,Europe,Finance,Onsite,55,1,3,1,110000.0,2,5
+29,Male,Europe,Technology,Remote,42,2,3,4,90000.0,2,2
+65,Female,Asia,Manufacturing,Hybrid,47,1,4,2,110000.0,2,4
+38,Male,North America,Professional Services,Hybrid,58,3,3,2,70000.0,4,0
+56,Female,Oceania,Professional Services,Hybrid,40,2,5,3,90000.0,0,4
+52,Female,South America,Finance,Onsite,35,2,3,2,90000.0,3,6
+26,Male,Africa,Technology,Onsite,55,1,3,2,90000.0,2,3
+54,Male,Europe,Professional Services,Hybrid,45,2,4,1,120000.0,1,6
+45,Female,Asia,Technology,Hybrid,56,2,3,3,110000.0,4,0
+46,Male,North America,Professional Services,Hybrid,48,3,2,2,110000.0,2,0
+51,Female,Europe,Manufacturing,Onsite,56,2,2,2,110000.0,3,3
+50,Male,Europe,Technology,Hybrid,62,3,4,5,70000.0,0,0
+38,Male,Oceania,Customer Service,Onsite,42,1,4,1,120000.0,1,6
+27,Male,Oceania,Technology,Remote,42,3,3,4,50000.0,0,2
+32,Female,Oceania,Retail,Hybrid,49,3,3,1,90000.0,4,1
+48,Female,South America,Marketing,Onsite,51,3,2,2,120000.0,2,4
+62,Male,Europe,Healthcare,Hybrid,35,2,3,5,50000.0,1,6
+34,Male,North America,Customer Service,Onsite,62,3,3,2,110000.0,2,6
+24,Female,South America,Manufacturing,Hybrid,47,1,3,4,90000.0,1,0
+47,Female,South America,Manufacturing,Hybrid,41,3,3,3,90000.0,1,0
+31,Female,North America,Education,Onsite,50,1,4,2,70000.0,2,5
+28,Female,Oceania,Professional Services,Remote,36,3,2,2,90000.0,0,3
+30,Female,North America,Professional Services,Onsite,45,3,3,2,90000.0,2,0
+48,Female,North America,Education,Hybrid,36,1,4,2,120000.0,0,0
+54,Male,North America,Professional Services,Hybrid,57,2,1,3,110000.0,1,1
+61,Female,Asia,Professional Services,Hybrid,39,2,2,1,90000.0,1,6
+43,Male,South America,Education,Onsite,65,2,3,2,70000.0,1,1
+54,Female,Oceania,Technology,Remote,53,3,2,1,90000.0,0,4
+30,Male,North America,Technology,Onsite,65,1,3,1,70000.0,2,4
+48,Male,South America,Education,Hybrid,49,2,4,3,90000.0,3,0
+36,Male,North America,Technology,Hybrid,61,3,4,2,120000.0,3,3
+23,Female,Asia,Manufacturing,Onsite,65,1,4,1,120000.0,4,0
+43,Male,South America,Technology,Remote,50,2,3,5,50000.0,0,1
+43,Male,Oceania,Manufacturing,Hybrid,65,1,3,4,50000.0,2,6
+24,Female,Oceania,Technology,Hybrid,44,1,2,2,70000.0,2,3
+39,Female,Asia,Professional Services,Remote,43,2,4,4,90000.0,2,2
+54,Male,South America,Professional Services,Remote,38,3,3,5,50000.0,1,0
+45,Female,Oceania,Professional Services,Onsite,55,3,3,2,70000.0,4,2
+39,Male,Europe,Customer Service,Onsite,55,2,2,1,110000.0,2,0
+28,Male,Asia,Professional Services,Hybrid,58,3,4,4,50000.0,2,6
+32,Female,Asia,Technology,Onsite,57,2,5,1,110000.0,1,3
+43,Female,Oceania,Technology,Remote,45,2,3,2,90000.0,3,1
+57,Male,North America,Retail,Onsite,59,2,2,1,70000.0,1,5
+43,Female,South America,Professional Services,Onsite,65,2,5,2,90000.0,2,2
+56,Male,Europe,Finance,Hybrid,52,3,3,2,120000.0,2,5
+24,Male,South America,Professional Services,Onsite,58,2,3,4,70000.0,1,5
+46,Male,Africa,Education,Onsite,64,1,1,3,70000.0,2,3
+48,Male,South America,Customer Service,Onsite,56,2,2,3,70000.0,3,1
+54,Female,North America,Finance,Hybrid,37,1,4,4,90000.0,2,3
+31,Female,Oceania,Retail,Hybrid,46,2,3,4,120000.0,2,0
+38,Male,North America,Healthcare,Remote,52,2,3,4,50000.0,1,0
+43,Male,South America,Retail,Remote,62,2,3,4,110000.0,2,2
+43,Female,South America,Marketing,Hybrid,56,2,3,4,90000.0,2,3
+53,Male,South America,Technology,Remote,46,2,3,3,110000.0,4,0
+36,Male,South America,Finance,Onsite,35,1,3,1,50000.0,2,4
+58,Male,Asia,Customer Service,Remote,39,2,3,3,70000.0,3,0
+48,Male,South America,Manufacturing,Hybrid,54,3,1,2,90000.0,1,2
+65,Male,Europe,Manufacturing,Hybrid,61,3,3,3,70000.0,2,4
+47,Female,Europe,Professional Services,Onsite,48,2,3,1,50000.0,1,0
+49,Male,Oceania,Retail,Onsite,43,1,3,2,70000.0,4,6
+58,Male,Oceania,Healthcare,Onsite,56,3,2,1,50000.0,1,6
+62,Male,Oceania,Finance,Onsite,52,3,3,2,70000.0,2,5
+46,Female,Oceania,Finance,Onsite,40,2,2,2,110000.0,2,3
+62,Female,Europe,Technology,Hybrid,51,1,1,3,50000.0,1,5
+61,Male,Oceania,Professional Services,Onsite,42,3,2,2,90000.0,1,1
+24,Male,Oceania,Manufacturing,Onsite,50,3,2,2,70000.0,1,4
+52,Female,Europe,Manufacturing,Onsite,63,1,2,1,70000.0,1,4
+61,Male,Europe,Education,Remote,60,3,3,3,120000.0,3,0
+48,Male,South America,Professional Services,Hybrid,40,3,1,3,50000.0,2,4
+46,Male,Oceania,Retail,Remote,63,3,5,3,90000.0,3,4
+61,Female,Asia,Professional Services,Remote,55,3,4,2,90000.0,2,3
+27,Female,Africa,Marketing,Onsite,49,2,3,5,90000.0,2,4
+41,Male,Africa,Technology,Onsite,40,3,5,3,50000.0,1,3
+33,Male,Asia,Finance,Onsite,44,2,3,3,90000.0,3,0
+52,Male,Asia,Finance,Hybrid,54,3,4,2,90000.0,3,3
+64,Male,Oceania,Manufacturing,Hybrid,51,2,1,2,70000.0,0,4
+58,Male,North America,Healthcare,Onsite,38,1,3,1,50000.0,1,0
+63,Female,Europe,Finance,Remote,47,3,2,3,110000.0,5,2
+35,Male,North America,Customer Service,Hybrid,36,1,3,5,50000.0,2,6
+62,Male,Oceania,Finance,Onsite,44,3,2,2,90000.0,1,5
+54,Male,Oceania,Finance,Remote,55,1,4,4,90000.0,2,5
+45,Male,Asia,Marketing,Onsite,36,1,3,2,70000.0,1,0
+39,Male,Oceania,Retail,Onsite,45,2,3,1,70000.0,3,0
+48,Male,Africa,Healthcare,Onsite,52,3,3,3,50000.0,1,2
+27,Male,South America,Customer Service,Onsite,63,3,1,2,50000.0,1,6
+47,Female,South America,Customer Service,Hybrid,41,1,3,4,70000.0,1,1
+44,Male,Africa,Healthcare,Onsite,45,3,4,4,90000.0,1,0
+36,Female,Asia,Professional Services,Hybrid,60,1,4,3,110000.0,1,1
+42,Male,Oceania,Technology,Remote,64,3,5,3,70000.0,1,0
+62,Female,North America,Professional Services,Onsite,60,2,3,2,50000.0,2,3
+22,Male,North America,Retail,Remote,65,2,2,3,70000.0,1,5
+45,Male,North America,Healthcare,Remote,49,2,3,4,70000.0,2,2
+40,Male,Oceania,Manufacturing,Hybrid,53,3,4,3,90000.0,1,3
+49,Male,Oceania,Finance,Hybrid,59,3,4,4,90000.0,2,3
+23,Male,North America,Technology,Remote,61,1,2,4,90000.0,1,6
+62,Female,Africa,Healthcare,Onsite,57,1,1,2,120000.0,2,6
+58,Female,South America,Professional Services,Hybrid,59,1,4,2,70000.0,1,2
+59,Male,Africa,Manufacturing,Remote,51,3,2,3,70000.0,1,6
+31,Male,Europe,Technology,Onsite,49,1,1,1,90000.0,3,2
+47,Male,Africa,Technology,Hybrid,63,3,3,3,50000.0,2,5
+35,Female,North America,Customer Service,Remote,52,3,4,4,110000.0,2,5
+33,Female,Europe,Technology,Hybrid,56,3,3,3,110000.0,2,6
+42,Female,South America,Finance,Onsite,58,2,3,1,90000.0,2,4
+62,Male,North America,Professional Services,Onsite,48,2,2,3,90000.0,0,1
+55,Male,South America,Education,Onsite,61,2,3,2,120000.0,4,0
+31,Male,Oceania,Finance,Hybrid,47,1,1,2,90000.0,3,5
+61,Male,North America,Education,Hybrid,64,1,5,3,50000.0,3,0
+65,Male,Africa,Finance,Remote,52,3,2,5,50000.0,1,5
+40,Male,Oceania,Manufacturing,Hybrid,38,2,2,1,110000.0,2,1
+34,Male,Africa,Technology,Onsite,62,1,5,5,110000.0,2,6
+29,Male,Asia,Finance,Hybrid,56,2,2,3,70000.0,2,6
+50,Female,Europe,Education,Remote,49,2,4,3,50000.0,2,1
+51,Male,Asia,Technology,Hybrid,53,3,5,4,70000.0,1,5
+52,Male,Oceania,Education,Onsite,54,2,3,3,110000.0,4,0
+39,Female,South America,Healthcare,Onsite,60,2,1,1,50000.0,3,1
+27,Female,South America,Finance,Hybrid,63,2,2,3,90000.0,1,2
+63,Female,South America,Healthcare,Onsite,59,2,5,2,110000.0,4,1
+42,Male,North America,Technology,Remote,49,3,3,3,70000.0,1,4
+23,Male,South America,Professional Services,Onsite,62,2,1,2,70000.0,3,0
+64,Female,Asia,Education,Hybrid,41,3,4,2,70000.0,2,4
+25,Male,Oceania,Education,Remote,49,1,3,5,70000.0,2,3
+45,Male,Europe,Technology,Onsite,46,2,4,3,90000.0,2,3
+32,Female,Oceania,Manufacturing,Onsite,56,2,1,2,90000.0,2,6
+47,Male,Africa,Marketing,Hybrid,43,3,3,3,70000.0,0,0
+44,Female,South America,Finance,Onsite,53,2,2,3,50000.0,1,2
+32,Male,Africa,Finance,Onsite,65,2,3,3,90000.0,1,6
+51,Female,Africa,Professional Services,Hybrid,40,3,3,1,70000.0,3,0
+40,Male,Oceania,Healthcare,Onsite,46,2,2,2,70000.0,2,2
+37,Female,Oceania,Education,Onsite,36,1,4,2,70000.0,1,0
+31,Female,Asia,Professional Services,Onsite,40,2,5,3,110000.0,0,3
+61,Female,Oceania,Professional Services,Hybrid,46,2,5,2,90000.0,2,6
+33,Female,South America,Healthcare,Remote,64,3,2,4,110000.0,3,3
+64,Female,Europe,Healthcare,Hybrid,50,2,2,4,120000.0,2,5
+49,Male,Asia,Professional Services,Onsite,39,2,2,3,110000.0,1,0
+30,Male,Asia,Marketing,Hybrid,61,3,3,3,90000.0,1,1
+27,Male,Europe,Technology,Hybrid,58,3,4,1,90000.0,3,0
+47,Female,Oceania,Manufacturing,Remote,57,2,2,4,90000.0,3,4
+36,Male,South America,Professional Services,Onsite,53,1,1,2,50000.0,2,3
+42,Male,South America,Finance,Hybrid,43,2,2,2,120000.0,0,3
+32,Male,North America,Education,Remote,55,2,1,4,70000.0,2,4
+50,Male,Europe,Education,Hybrid,35,1,3,3,70000.0,1,4
+59,Female,South America,Technology,Onsite,43,3,4,1,70000.0,0,3
+50,Female,Africa,Professional Services,Onsite,47,2,2,4,70000.0,3,2
+46,Female,Oceania,Professional Services,Onsite,62,1,3,2,70000.0,3,3
+56,Male,Oceania,Technology,Hybrid,49,1,4,3,90000.0,2,5
+47,Male,Oceania,Technology,Onsite,57,1,4,2,70000.0,3,0
+33,Female,North America,Healthcare,Onsite,60,3,2,3,70000.0,1,2
+60,Male,Asia,Technology,Hybrid,60,2,2,2,110000.0,2,1
+46,Male,Oceania,Technology,Hybrid,47,2,1,2,110000.0,0,1
+62,Female,Asia,Manufacturing,Hybrid,46,1,4,3,90000.0,2,5
+53,Male,Oceania,Professional Services,Hybrid,59,1,3,3,70000.0,0,0
+64,Male,South America,Finance,Hybrid,35,2,3,2,90000.0,4,5
+60,Female,South America,Customer Service,Onsite,37,2,2,1,90000.0,2,5
+45,Female,Europe,Healthcare,Onsite,52,3,3,4,70000.0,4,6
+57,Female,Europe,Education,Remote,65,2,2,3,90000.0,2,0
+50,Male,South America,Customer Service,Onsite,45,3,3,3,90000.0,1,0
+62,Female,Oceania,Manufacturing,Onsite,59,1,1,2,50000.0,2,4
+62,Female,South America,Retail,Onsite,45,1,1,2,90000.0,2,3
+25,Female,Europe,Professional Services,Onsite,63,1,4,1,90000.0,3,0
+28,Male,Oceania,Professional Services,Onsite,58,1,3,3,110000.0,3,6
+57,Female,North America,Finance,Remote,42,3,5,4,70000.0,1,0
+45,Male,North America,Manufacturing,Onsite,62,2,4,3,90000.0,2,2
+41,Male,South America,Finance,Onsite,49,2,3,3,90000.0,1,0
+36,Male,Africa,Technology,Onsite,36,2,3,2,70000.0,2,5
+51,Male,Europe,Marketing,Remote,50,2,4,5,90000.0,3,0
+52,Female,South America,Customer Service,Onsite,58,1,3,4,110000.0,3,4
+59,Female,North America,Education,Onsite,60,3,4,3,70000.0,2,0
+30,Female,Asia,Professional Services,Onsite,62,2,5,2,70000.0,2,5
+50,Female,Africa,Education,Onsite,37,2,2,1,70000.0,1,2
+57,Female,North America,Professional Services,Onsite,47,2,1,1,110000.0,3,0
+51,Female,Africa,Finance,Onsite,40,2,3,1,50000.0,2,0
+36,Male,Oceania,Healthcare,Onsite,39,2,3,4,70000.0,2,0
+60,Female,Asia,Technology,Remote,48,3,3,3,50000.0,3,6
+63,Female,South America,Professional Services,Remote,42,3,3,3,90000.0,2,0
+36,Male,Africa,Customer Service,Onsite,39,3,4,3,50000.0,0,0
+43,Male,Asia,Customer Service,Onsite,61,3,2,2,90000.0,1,0
+39,Female,South America,Finance,Hybrid,55,3,4,4,110000.0,0,6
+63,Female,North America,Technology,Hybrid,50,2,4,2,70000.0,3,4
+53,Female,North America,Healthcare,Onsite,61,3,4,1,90000.0,2,2
+35,Male,North America,Manufacturing,Hybrid,50,2,5,4,90000.0,0,4
+42,Female,North America,Marketing,Hybrid,37,2,2,4,110000.0,2,0
+37,Male,Oceania,Education,Onsite,49,3,3,1,70000.0,2,0
+24,Female,Africa,Education,Remote,52,3,4,1,70000.0,2,2
+35,Male,North America,Technology,Remote,50,3,1,4,50000.0,3,0
+58,Male,Africa,Finance,Onsite,35,3,3,5,70000.0,3,0
+51,Male,Europe,Manufacturing,Hybrid,35,2,4,3,120000.0,2,0
+61,Female,Africa,Education,Onsite,54,2,3,4,70000.0,1,1
+36,Female,Africa,Manufacturing,Remote,65,3,1,3,90000.0,2,2
+47,Female,Europe,Manufacturing,Remote,45,1,4,3,90000.0,3,0
+25,Male,South America,Professional Services,Onsite,65,1,4,3,110000.0,1,0
+59,Female,North America,Technology,Hybrid,56,2,1,4,70000.0,3,1
+25,Male,Asia,Technology,Hybrid,41,1,3,1,50000.0,2,1
+28,Male,Oceania,Technology,Remote,41,1,3,1,50000.0,2,3
+59,Male,Africa,Professional Services,Remote,45,2,5,3,50000.0,3,2
+43,Female,Oceania,Technology,Onsite,43,2,2,2,110000.0,1,0
+43,Male,North America,Manufacturing,Onsite,37,3,1,2,90000.0,3,4
+58,Male,Europe,Technology,Remote,44,3,4,3,70000.0,1,0
+35,Male,Oceania,Technology,Remote,40,2,3,4,110000.0,1,0
+60,Male,South America,Professional Services,Hybrid,64,2,1,2,50000.0,2,1
+58,Male,Africa,Marketing,Hybrid,55,3,4,2,90000.0,2,5
+50,Female,Europe,Healthcare,Onsite,45,1,4,4,50000.0,2,1
+35,Male,Africa,Professional Services,Onsite,59,1,1,2,110000.0,2,0
+23,Male,Africa,Healthcare,Onsite,64,1,3,3,70000.0,1,1
+33,Male,Oceania,Manufacturing,Onsite,59,2,2,1,90000.0,2,4
+29,Male,Oceania,Customer Service,Onsite,35,2,2,3,50000.0,4,5
+37,Female,South America,Healthcare,Onsite,45,1,2,3,120000.0,2,5
+47,Female,North America,Healthcare,Onsite,36,1,3,2,70000.0,2,1
+64,Female,Europe,Manufacturing,Onsite,46,1,3,3,90000.0,3,2
+32,Male,Oceania,Manufacturing,Hybrid,56,2,4,3,90000.0,2,0
+22,Male,South America,Finance,Onsite,36,2,4,1,110000.0,2,6
+28,Male,Asia,Manufacturing,Hybrid,55,3,3,4,50000.0,3,4
+61,Female,South America,Professional Services,Remote,60,1,4,1,70000.0,2,5
+30,Female,Asia,Finance,Onsite,63,1,2,1,50000.0,1,4
+57,Male,North America,Finance,Hybrid,59,2,3,3,70000.0,2,0
+26,Female,Asia,Education,Onsite,60,1,2,4,70000.0,1,0
+42,Male,Asia,Professional Services,Onsite,39,3,3,4,90000.0,0,6
+36,Female,South America,Manufacturing,Hybrid,48,3,1,1,110000.0,1,0
+45,Female,Asia,Professional Services,Hybrid,40,3,5,4,110000.0,2,4
+46,Female,South America,Healthcare,Onsite,63,3,3,2,90000.0,0,6
+52,Male,North America,Finance,Hybrid,63,2,5,3,120000.0,4,6
+35,Female,Asia,Manufacturing,Onsite,39,2,1,5,120000.0,2,0
+54,Female,South America,Finance,Remote,59,3,5,4,50000.0,2,1
+56,Male,Asia,Manufacturing,Onsite,59,2,3,3,90000.0,2,3
+42,Female,Europe,Professional Services,Hybrid,43,2,5,2,50000.0,1,1
+60,Female,South America,Manufacturing,Onsite,45,2,3,2,50000.0,2,2
+65,Female,Europe,Technology,Hybrid,53,3,5,1,70000.0,1,3
+38,Female,Africa,Professional Services,Remote,59,1,2,4,70000.0,1,0
+65,Male,Asia,Manufacturing,Remote,65,2,2,3,70000.0,1,0
+28,Male,Oceania,Manufacturing,Onsite,62,3,2,2,110000.0,0,3
+40,Male,North America,Education,Remote,52,1,3,3,90000.0,4,3
+38,Female,South America,Professional Services,Onsite,36,3,3,2,50000.0,0,0
+49,Female,North America,Professional Services,Remote,49,1,1,3,90000.0,1,3
+46,Male,South America,Technology,Hybrid,35,3,3,3,50000.0,2,0
+45,Female,South America,Healthcare,Remote,57,2,2,1,70000.0,2,0
+59,Male,Europe,Education,Onsite,45,2,3,2,90000.0,2,6
+29,Female,Asia,Professional Services,Onsite,54,2,3,1,50000.0,3,0
+59,Male,Asia,Healthcare,Onsite,38,1,4,2,70000.0,2,0
+50,Female,North America,Finance,Onsite,44,1,2,3,50000.0,1,2
+53,Male,South America,Professional Services,Onsite,35,2,1,2,110000.0,3,0
+23,Male,South America,Education,Onsite,35,2,4,3,90000.0,2,1
+60,Female,South America,Finance,Hybrid,43,3,3,4,110000.0,2,0
+34,Female,Europe,Professional Services,Onsite,61,2,4,2,50000.0,2,5
+64,Female,Europe,Retail,Remote,53,1,4,5,90000.0,1,1
+53,Female,Asia,Professional Services,Onsite,46,3,4,1,90000.0,2,0
+24,Female,Europe,Marketing,Hybrid,42,2,1,4,110000.0,1,2
+64,Female,South America,Professional Services,Onsite,37,1,4,4,70000.0,3,1
+56,Female,Europe,Professional Services,Onsite,62,3,4,3,50000.0,2,2
+62,Male,Asia,Professional Services,Remote,55,3,4,4,110000.0,2,0
+45,Female,Africa,Technology,Remote,42,3,2,4,120000.0,2,1
+65,Male,North America,Manufacturing,Onsite,52,3,3,1,50000.0,0,0
+56,Male,North America,Professional Services,Onsite,55,1,1,2,50000.0,1,6
+51,Male,Oceania,Technology,Remote,63,3,5,4,70000.0,2,0
+36,Male,South America,Professional Services,Remote,60,2,1,4,110000.0,1,2
+50,Female,South America,Retail,Hybrid,62,3,3,3,120000.0,1,2
+47,Female,Europe,Healthcare,Onsite,45,1,4,3,90000.0,0,0
+33,Male,Asia,Technology,Onsite,35,3,4,3,90000.0,3,0
+33,Female,Africa,Finance,Onsite,54,3,3,2,70000.0,1,4
+54,Female,Oceania,Education,Onsite,56,3,4,2,70000.0,1,3
+26,Male,South America,Healthcare,Hybrid,38,1,1,5,70000.0,1,0
+63,Male,Asia,Technology,Onsite,58,2,4,2,90000.0,2,4
+46,Male,North America,Professional Services,Onsite,38,1,3,1,110000.0,1,0
+60,Male,Oceania,Technology,Hybrid,59,3,1,3,110000.0,1,1
+58,Male,Asia,Finance,Hybrid,55,3,4,3,90000.0,3,2
+62,Male,Oceania,Manufacturing,Remote,63,3,3,3,70000.0,1,1
+22,Male,Oceania,Retail,Onsite,37,2,5,2,90000.0,0,5
+62,Male,Asia,Finance,Remote,48,3,2,5,90000.0,1,2
+39,Female,Europe,Technology,Onsite,52,3,5,3,70000.0,3,3
+53,Male,Asia,Customer Service,Onsite,65,1,3,1,70000.0,1,4
+48,Female,Asia,Technology,Remote,39,3,3,5,90000.0,3,0
+58,Female,Oceania,Manufacturing,Onsite,41,1,2,3,90000.0,2,5
+52,Female,North America,Education,Onsite,42,1,3,3,50000.0,2,5
+48,Male,South America,Professional Services,Onsite,37,3,1,5,110000.0,2,2
+44,Female,Oceania,Customer Service,Hybrid,51,2,4,1,120000.0,1,1
+39,Female,South America,Manufacturing,Hybrid,42,2,3,3,90000.0,2,1
+51,Male,Europe,Finance,Onsite,59,3,2,5,90000.0,2,1
+31,Male,South America,Finance,Onsite,56,2,3,2,90000.0,1,5
+32,Male,Oceania,Education,Hybrid,62,2,4,4,90000.0,2,3
+26,Female,South America,Finance,Onsite,65,3,2,3,90000.0,1,0
+59,Female,North America,Technology,Hybrid,50,1,3,1,70000.0,3,2
+47,Male,North America,Technology,Onsite,40,3,2,3,50000.0,2,0
+27,Male,Asia,Technology,Onsite,42,2,3,1,90000.0,2,5
+52,Female,Africa,Professional Services,Remote,50,2,3,5,120000.0,0,3
+27,Female,Europe,Professional Services,Onsite,38,2,3,1,120000.0,2,6
+56,Female,Europe,Manufacturing,Remote,63,2,3,4,110000.0,0,5
+35,Male,North America,Professional Services,Hybrid,63,2,5,2,120000.0,3,3
+54,Female,South America,Finance,Onsite,39,3,3,3,110000.0,3,6
+22,Female,Europe,Professional Services,Hybrid,51,3,3,3,120000.0,0,2
+32,Female,Asia,Professional Services,Onsite,44,1,4,1,50000.0,2,2
+46,Male,South America,Technology,Hybrid,52,2,3,1,50000.0,1,5
+52,Male,Africa,Marketing,Onsite,43,2,2,2,70000.0,4,6
+26,Female,Asia,Manufacturing,Remote,46,3,4,1,90000.0,3,4
+39,Male,Europe,Finance,Onsite,50,1,5,3,90000.0,2,5
+45,Male,South America,Technology,Hybrid,43,2,4,4,70000.0,0,1
+57,Female,South America,Customer Service,Hybrid,46,1,2,5,70000.0,1,4
+23,Female,Asia,Professional Services,Onsite,44,2,3,2,110000.0,2,3
+31,Male,Europe,Marketing,Onsite,45,2,3,2,90000.0,1,3
+56,Female,Africa,Technology,Onsite,41,1,2,2,70000.0,3,4
+42,Male,Oceania,Healthcare,Remote,36,3,4,4,90000.0,1,0
+60,Male,South America,Technology,Hybrid,51,1,5,2,70000.0,1,0
+65,Male,Asia,Customer Service,Remote,61,3,4,2,70000.0,0,2
+23,Male,South America,Professional Services,Hybrid,51,2,3,4,70000.0,3,1
+44,Male,South America,Technology,Onsite,39,2,2,3,70000.0,1,2
+34,Male,South America,Technology,Remote,43,3,4,2,50000.0,1,1
+36,Female,South America,Technology,Onsite,52,2,4,1,120000.0,2,0
+50,Male,South America,Professional Services,Onsite,46,1,4,1,120000.0,3,3
+31,Male,Oceania,Professional Services,Remote,47,2,3,3,70000.0,2,0
+60,Female,Africa,Manufacturing,Hybrid,37,3,3,3,70000.0,2,2
+52,Male,Asia,Healthcare,Onsite,55,2,3,1,50000.0,4,4
+54,Male,Asia,Technology,Remote,57,3,5,5,50000.0,2,5
+59,Male,Asia,Retail,Onsite,53,2,5,1,90000.0,3,6
+24,Male,South America,Technology,Hybrid,61,3,3,2,90000.0,2,0
+31,Male,Asia,Technology,Hybrid,48,1,3,3,90000.0,2,5
+42,Female,Oceania,Professional Services,Hybrid,54,2,1,4,70000.0,3,4
+41,Male,Europe,Finance,Onsite,48,1,3,3,90000.0,2,6
+32,Male,South America,Professional Services,Onsite,62,3,5,4,90000.0,1,0
+45,Male,Europe,Marketing,Hybrid,37,2,2,3,90000.0,2,0
+63,Male,Europe,Technology,Hybrid,63,2,4,3,90000.0,4,6
+30,Female,Asia,Healthcare,Onsite,60,2,4,3,120000.0,2,6
+45,Male,Asia,Technology,Remote,54,2,4,4,90000.0,1,1
+60,Male,Europe,Finance,Onsite,56,2,3,2,70000.0,2,1
+45,Male,Oceania,Education,Hybrid,46,2,5,4,90000.0,2,5
+60,Female,Europe,Professional Services,Hybrid,53,2,1,3,90000.0,2,0
+38,Male,Europe,Manufacturing,Remote,64,3,4,5,70000.0,3,0
+52,Male,Africa,Professional Services,Onsite,41,2,3,1,90000.0,3,4
+36,Male,South America,Finance,Hybrid,35,3,2,4,90000.0,2,4
+22,Female,North America,Technology,Remote,55,3,5,5,90000.0,4,3
+34,Male,South America,Technology,Remote,37,3,3,5,90000.0,1,2
+50,Female,Oceania,Technology,Onsite,65,2,3,4,110000.0,1,6
+31,Female,South America,Healthcare,Onsite,38,2,2,3,70000.0,3,3
+54,Female,Africa,Manufacturing,Remote,55,3,2,4,120000.0,0,0
+46,Male,Africa,Healthcare,Onsite,45,2,3,3,70000.0,3,4
+45,Female,South America,Manufacturing,Remote,57,3,5,4,90000.0,2,0
+30,Male,Africa,Technology,Hybrid,62,2,3,3,90000.0,2,6
+38,Female,Oceania,Technology,Hybrid,35,2,2,3,90000.0,1,5
+34,Female,South America,Marketing,Hybrid,63,2,1,1,70000.0,1,2
+60,Female,Asia,Technology,Onsite,39,3,4,2,90000.0,2,0
+58,Female,Europe,Technology,Remote,50,2,4,4,90000.0,1,3
+23,Male,Europe,Professional Services,Onsite,57,1,2,3,50000.0,2,5
+46,Male,Asia,Marketing,Onsite,48,2,5,1,70000.0,1,2
+29,Male,South America,Professional Services,Onsite,54,1,3,1,70000.0,3,2
+41,Female,North America,Professional Services,Hybrid,49,3,4,4,90000.0,2,0
+47,Male,Oceania,Marketing,Onsite,64,1,3,1,90000.0,3,3
+44,Male,Asia,Healthcare,Hybrid,64,3,3,4,70000.0,2,1
+36,Male,South America,Technology,Hybrid,64,2,3,3,70000.0,3,5
+61,Male,North America,Professional Services,Onsite,44,3,3,2,110000.0,1,2
+45,Female,South America,Technology,Hybrid,47,1,3,4,70000.0,2,6
+57,Female,Oceania,Healthcare,Onsite,59,3,3,1,50000.0,3,0
+34,Female,South America,Retail,Hybrid,37,2,3,3,70000.0,2,0
+51,Female,Oceania,Finance,Onsite,52,1,2,1,110000.0,2,3
+36,Male,North America,Healthcare,Onsite,49,2,1,1,70000.0,1,5
+22,Female,Africa,Technology,Onsite,43,2,3,3,70000.0,3,2
+49,Female,Africa,Technology,Remote,36,1,1,3,110000.0,3,3
+61,Male,North America,Professional Services,Onsite,40,1,3,4,50000.0,2,4
+30,Female,North America,Finance,Onsite,54,2,3,2,110000.0,1,3
+65,Male,Oceania,Professional Services,Onsite,61,3,2,1,90000.0,3,5
+37,Female,Oceania,Marketing,Onsite,47,1,3,3,120000.0,0,0
+27,Female,Africa,Technology,Hybrid,43,2,3,3,110000.0,3,6
+48,Female,Asia,Finance,Onsite,52,3,3,2,70000.0,2,4
+45,Female,South America,Education,Remote,47,2,3,4,50000.0,1,0
+63,Female,Oceania,Retail,Onsite,36,2,4,3,90000.0,2,5
+55,Male,North America,Manufacturing,Remote,40,2,2,1,70000.0,3,6
+54,Male,Africa,Manufacturing,Remote,43,2,2,5,50000.0,3,1
+29,Female,Europe,Professional Services,Hybrid,56,1,4,3,70000.0,2,3
+51,Female,Africa,Technology,Remote,53,2,2,1,90000.0,1,2
+26,Male,Africa,Healthcare,Hybrid,44,1,4,4,50000.0,3,2
+28,Male,Africa,Technology,Hybrid,40,2,3,4,50000.0,1,2
+41,Female,South America,Finance,Hybrid,36,2,2,4,120000.0,2,0
+59,Female,Europe,Professional Services,Hybrid,52,3,2,1,110000.0,2,0
+51,Female,Oceania,Finance,Onsite,47,3,4,4,70000.0,1,1
+50,Male,Asia,Professional Services,Hybrid,40,2,3,4,70000.0,2,6
+44,Male,South America,Professional Services,Onsite,39,3,1,5,90000.0,2,3
+32,Female,South America,Professional Services,Hybrid,58,2,3,3,50000.0,2,0
+45,Female,Oceania,Finance,Onsite,37,1,5,2,90000.0,2,5
+58,Male,North America,Finance,Hybrid,63,2,4,1,90000.0,1,5
+52,Female,North America,Professional Services,Onsite,39,2,3,1,90000.0,3,2
+40,Female,Europe,Professional Services,Hybrid,39,3,4,4,70000.0,1,1
+51,Female,Europe,Professional Services,Remote,57,2,5,5,120000.0,1,3
+24,Male,North America,Education,Onsite,61,1,3,2,50000.0,2,4
+56,Male,South America,Professional Services,Remote,39,2,2,4,120000.0,1,1
+32,Female,Oceania,Customer Service,Remote,42,3,3,4,90000.0,2,1
+40,Male,Asia,Retail,Onsite,44,2,2,2,70000.0,1,4
+31,Female,North America,Technology,Hybrid,44,3,3,2,70000.0,4,0
+42,Female,South America,Technology,Remote,56,3,4,2,70000.0,2,0
+38,Male,Europe,Marketing,Hybrid,64,3,4,3,90000.0,2,4
+56,Female,Europe,Finance,Onsite,42,1,4,4,90000.0,2,4
+30,Male,South America,Manufacturing,Hybrid,38,2,4,2,50000.0,1,2
+29,Male,Oceania,Technology,Hybrid,56,3,3,3,90000.0,2,6
+30,Male,Europe,Customer Service,Onsite,54,2,5,1,110000.0,2,3
+62,Female,South America,Technology,Hybrid,50,1,3,2,50000.0,2,0
+30,Female,Asia,Finance,Hybrid,35,3,3,5,70000.0,4,0
+37,Male,North America,Professional Services,Hybrid,45,2,5,4,90000.0,1,0
+59,Male,Africa,Education,Onsite,52,1,2,3,110000.0,2,2
+40,Male,Africa,Professional Services,Remote,65,2,3,3,90000.0,1,2
+39,Female,Europe,Finance,Hybrid,40,3,2,3,120000.0,2,6
+26,Female,South America,Marketing,Onsite,40,1,2,5,70000.0,2,6
+36,Female,Oceania,Finance,Onsite,65,2,3,3,110000.0,2,1
+52,Male,Asia,Professional Services,Hybrid,43,3,2,4,70000.0,3,6
+47,Male,North America,Manufacturing,Onsite,62,3,3,2,90000.0,2,4
+28,Male,South America,Technology,Hybrid,47,2,3,4,110000.0,0,0
+32,Male,South America,Education,Onsite,50,1,3,3,70000.0,1,0
+49,Male,Oceania,Professional Services,Hybrid,37,2,4,1,110000.0,0,3
+61,Male,Africa,Manufacturing,Hybrid,46,2,3,2,50000.0,1,2
+62,Female,Africa,Healthcare,Onsite,54,3,4,3,50000.0,4,5
+28,Male,Oceania,Professional Services,Onsite,63,2,3,3,70000.0,1,5
+42,Female,North America,Technology,Onsite,63,3,5,2,70000.0,2,3
+26,Male,South America,Technology,Hybrid,48,3,2,3,70000.0,2,2
+58,Male,Oceania,Finance,Remote,53,3,3,5,50000.0,2,4
+24,Female,Europe,Professional Services,Remote,43,3,3,4,90000.0,3,6
+56,Male,Oceania,Finance,Remote,38,1,3,2,50000.0,3,2
+44,Male,North America,Customer Service,Onsite,54,2,4,3,90000.0,1,2
+33,Male,Europe,Education,Onsite,38,3,4,1,90000.0,1,3
+31,Female,Europe,Marketing,Onsite,36,2,3,2,90000.0,2,0
+62,Female,Europe,Marketing,Hybrid,40,3,4,4,70000.0,1,1
+27,Male,Oceania,Healthcare,Hybrid,46,2,3,3,90000.0,0,0
+24,Female,Oceania,Technology,Onsite,62,1,4,1,70000.0,0,3
+32,Male,Europe,Technology,Hybrid,36,2,3,3,90000.0,1,6
+24,Female,North America,Manufacturing,Onsite,39,2,4,2,90000.0,3,4
+65,Male,North America,Manufacturing,Onsite,39,3,4,4,110000.0,1,5
+31,Female,Asia,Professional Services,Onsite,36,1,4,1,50000.0,0,4
+27,Female,South America,Retail,Hybrid,40,1,1,4,70000.0,1,4
+63,Male,Africa,Retail,Hybrid,38,3,1,2,70000.0,2,0
+38,Female,Africa,Customer Service,Hybrid,40,3,4,2,50000.0,2,1
+49,Male,Asia,Technology,Onsite,36,1,3,2,70000.0,3,6
+39,Male,Asia,Finance,Onsite,58,2,3,3,90000.0,1,0
+30,Male,Asia,Retail,Hybrid,55,1,3,4,70000.0,1,3
+46,Female,Oceania,Customer Service,Hybrid,61,2,2,3,50000.0,1,2
+39,Female,Asia,Professional Services,Hybrid,49,2,3,3,120000.0,1,3
+37,Male,Oceania,Marketing,Onsite,35,1,3,2,90000.0,1,1
+43,Female,Europe,Marketing,Onsite,37,1,3,1,90000.0,1,6
+29,Male,Oceania,Education,Onsite,56,2,3,2,50000.0,4,5
+34,Female,Africa,Technology,Onsite,36,2,4,5,120000.0,3,5
+38,Male,Europe,Professional Services,Hybrid,45,2,4,3,70000.0,1,4
+64,Female,Asia,Manufacturing,Onsite,55,2,1,1,90000.0,0,3
+42,Female,North America,Manufacturing,Onsite,50,1,5,1,70000.0,1,6
+55,Female,Africa,Manufacturing,Hybrid,48,3,4,3,110000.0,2,0
+56,Male,South America,Professional Services,Onsite,60,3,1,3,70000.0,1,1
+49,Female,Oceania,Manufacturing,Onsite,44,3,4,1,90000.0,2,0
+43,Male,Oceania,Manufacturing,Hybrid,36,3,3,3,110000.0,1,2
+41,Male,Oceania,Technology,Remote,43,1,3,4,120000.0,1,2
+47,Male,South America,Retail,Onsite,60,2,4,1,110000.0,2,5
+62,Female,Europe,Technology,Hybrid,46,3,3,1,110000.0,2,3
+64,Female,Oceania,Customer Service,Onsite,42,2,1,2,90000.0,2,6
+38,Male,North America,Marketing,Onsite,37,2,3,2,50000.0,2,0
+31,Female,Africa,Technology,Hybrid,55,2,2,5,90000.0,1,2
+60,Male,Europe,Manufacturing,Onsite,64,3,1,2,110000.0,0,0
+41,Male,Asia,Healthcare,Onsite,51,3,3,4,110000.0,3,6
+49,Female,Africa,Technology,Remote,43,3,3,1,70000.0,1,2
+25,Female,Africa,Customer Service,Onsite,38,3,3,2,50000.0,3,2
+54,Female,Oceania,Customer Service,Onsite,63,2,1,2,90000.0,2,2
+62,Male,Asia,Professional Services,Onsite,47,2,4,1,70000.0,0,5
+26,Male,Africa,Customer Service,Hybrid,44,3,4,2,70000.0,3,3
+30,Female,Africa,Manufacturing,Onsite,45,2,1,3,70000.0,2,3
+59,Female,Asia,Healthcare,Onsite,40,3,4,3,110000.0,4,4
+34,Male,Oceania,Customer Service,Hybrid,57,3,3,2,70000.0,1,0
+32,Female,Europe,Manufacturing,Hybrid,55,3,3,2,90000.0,2,0
+33,Male,South America,Professional Services,Hybrid,47,1,1,3,90000.0,4,1
+45,Male,Europe,Technology,Remote,51,3,2,4,90000.0,2,6
+61,Female,South America,Technology,Onsite,52,1,4,5,110000.0,2,3
+64,Male,South America,Professional Services,Onsite,54,2,3,4,70000.0,0,2
+54,Female,South America,Manufacturing,Remote,65,2,3,1,70000.0,1,3
+24,Male,Oceania,Professional Services,Hybrid,60,2,4,4,70000.0,1,3
+42,Male,South America,Technology,Hybrid,39,2,3,3,50000.0,3,4
+39,Female,South America,Manufacturing,Hybrid,62,3,1,5,70000.0,0,0
+48,Male,Asia,Manufacturing,Hybrid,45,2,3,4,50000.0,1,1
+47,Male,North America,Manufacturing,Onsite,60,3,3,2,110000.0,2,1
+34,Male,North America,Technology,Onsite,49,2,2,1,70000.0,3,1
+65,Female,South America,Manufacturing,Hybrid,35,3,2,5,50000.0,1,2
+44,Female,North America,Marketing,Onsite,41,1,3,1,90000.0,3,2
+53,Male,South America,Finance,Onsite,42,3,3,3,120000.0,1,2
+45,Male,Europe,Healthcare,Onsite,52,1,3,2,110000.0,3,2
+30,Male,Oceania,Finance,Onsite,54,1,5,1,90000.0,2,6
+34,Female,Europe,Professional Services,Onsite,45,1,2,2,90000.0,0,1
+63,Female,Africa,Professional Services,Onsite,52,3,3,2,70000.0,1,1
+61,Male,Europe,Finance,Onsite,51,3,5,2,110000.0,4,1
+51,Male,Europe,Technology,Hybrid,41,1,2,1,70000.0,2,2
+32,Male,Europe,Finance,Hybrid,55,1,4,4,120000.0,1,0
+50,Female,South America,Technology,Hybrid,62,1,3,3,70000.0,2,1
+37,Female,Asia,Technology,Remote,50,2,4,4,90000.0,2,4
+49,Female,South America,Healthcare,Onsite,56,2,2,2,90000.0,3,1
+39,Female,Africa,Customer Service,Onsite,64,1,4,3,70000.0,1,1
+45,Male,Asia,Marketing,Onsite,54,3,5,2,50000.0,2,6
+26,Male,Africa,Healthcare,Remote,36,2,1,3,70000.0,2,3
+40,Female,Oceania,Education,Onsite,37,3,2,1,90000.0,0,1
+51,Female,South America,Professional Services,Onsite,39,2,4,4,50000.0,0,0
+23,Male,Asia,Marketing,Hybrid,61,2,4,5,110000.0,3,0
+43,Female,Africa,Retail,Hybrid,35,1,3,3,70000.0,1,3
+51,Male,Oceania,Professional Services,Onsite,64,2,1,3,70000.0,3,6
+34,Female,Oceania,Customer Service,Remote,36,3,3,3,50000.0,2,0
+45,Female,Asia,Professional Services,Onsite,40,1,4,3,110000.0,3,2
+33,Male,Europe,Marketing,Onsite,62,2,1,1,110000.0,3,4
+41,Female,South America,Education,Remote,53,3,4,4,90000.0,3,4
+37,Male,Asia,Technology,Hybrid,40,2,3,3,70000.0,4,4
+62,Female,Oceania,Professional Services,Onsite,46,1,4,2,90000.0,1,6
+56,Male,Asia,Professional Services,Onsite,50,1,3,2,70000.0,0,5
+51,Female,Asia,Technology,Onsite,65,2,3,1,90000.0,1,2
+31,Male,Asia,Manufacturing,Hybrid,65,1,2,1,70000.0,3,5
+34,Female,South America,Finance,Onsite,40,2,2,4,70000.0,0,5
+63,Female,Asia,Finance,Hybrid,37,2,1,3,120000.0,1,3
+58,Male,Africa,Professional Services,Remote,59,2,3,2,50000.0,3,6
+39,Male,Oceania,Retail,Onsite,50,2,3,5,70000.0,3,5
+57,Female,Asia,Marketing,Onsite,63,3,3,3,110000.0,2,5
+33,Female,Europe,Education,Hybrid,55,3,2,3,90000.0,2,5
+36,Female,North America,Finance,Onsite,42,2,2,4,90000.0,2,5
+49,Male,Europe,Technology,Onsite,41,3,3,2,120000.0,1,1
+22,Female,South America,Professional Services,Onsite,43,2,3,2,50000.0,2,4
+55,Male,South America,Professional Services,Onsite,53,3,3,2,90000.0,0,4
+43,Female,Asia,Healthcare,Hybrid,37,2,4,1,90000.0,1,4
+48,Male,Africa,Professional Services,Hybrid,64,2,2,1,90000.0,2,2
+31,Female,South America,Manufacturing,Onsite,52,2,3,3,70000.0,3,0
+30,Female,Africa,Education,Onsite,61,2,3,2,120000.0,1,1
+27,Male,North America,Education,Onsite,59,1,4,3,110000.0,3,5
+34,Female,Oceania,Manufacturing,Hybrid,45,2,5,4,90000.0,2,0
+50,Male,Europe,Manufacturing,Hybrid,39,1,4,2,50000.0,2,4
+59,Male,South America,Finance,Onsite,56,3,1,1,70000.0,1,2
+46,Male,Oceania,Manufacturing,Hybrid,50,1,3,5,110000.0,3,0
+22,Male,Asia,Professional Services,Onsite,44,2,2,2,70000.0,4,1
+34,Female,Oceania,Education,Onsite,42,1,3,3,70000.0,1,0
+57,Female,Asia,Customer Service,Onsite,41,2,3,3,120000.0,5,1
+27,Female,Africa,Technology,Onsite,48,2,2,3,70000.0,2,5
+41,Female,Oceania,Technology,Hybrid,36,2,3,4,70000.0,2,0
+41,Female,South America,Professional Services,Onsite,62,3,2,5,70000.0,2,4
+24,Female,Oceania,Professional Services,Remote,40,2,4,4,70000.0,3,6
+57,Female,South America,Professional Services,Remote,41,1,3,5,50000.0,1,5
+30,Female,Asia,Marketing,Onsite,48,2,4,3,90000.0,0,3
+38,Female,Oceania,Professional Services,Hybrid,62,1,2,1,90000.0,1,1
+38,Female,Africa,Manufacturing,Hybrid,56,3,3,1,70000.0,0,3
+29,Male,Asia,Professional Services,Hybrid,45,1,1,3,70000.0,2,0
+34,Female,Oceania,Finance,Remote,61,1,2,5,110000.0,4,2
+22,Male,Asia,Professional Services,Onsite,44,3,3,1,120000.0,2,6
+51,Male,Europe,Technology,Onsite,40,2,5,2,90000.0,2,3
+38,Male,Asia,Manufacturing,Hybrid,50,3,1,1,110000.0,1,5
+48,Female,Asia,Professional Services,Hybrid,61,2,2,4,120000.0,3,4
+30,Female,Oceania,Marketing,Remote,39,3,3,5,50000.0,2,0
+37,Male,North America,Education,Onsite,64,3,1,2,90000.0,3,0
+50,Male,South America,Marketing,Onsite,51,3,3,4,50000.0,4,0
+61,Female,South America,Retail,Hybrid,44,1,3,3,90000.0,3,2
+36,Female,North America,Manufacturing,Remote,44,2,1,3,50000.0,1,0
+58,Female,Europe,Education,Onsite,56,2,3,1,50000.0,2,5
+56,Male,Oceania,Professional Services,Onsite,61,2,3,5,120000.0,1,6
+57,Male,South America,Finance,Onsite,58,2,2,3,70000.0,2,0
+57,Male,Europe,Healthcare,Onsite,43,3,3,1,70000.0,1,0
+48,Male,Europe,Retail,Onsite,57,2,2,2,120000.0,1,0
+65,Male,North America,Marketing,Hybrid,48,2,3,2,50000.0,1,0
+48,Female,South America,Marketing,Onsite,47,2,4,1,50000.0,3,2
+40,Male,North America,Manufacturing,Onsite,47,1,2,1,70000.0,3,0
+64,Male,Africa,Technology,Remote,45,3,3,4,110000.0,1,4
+60,Male,North America,Education,Hybrid,60,1,1,3,70000.0,1,3
+27,Female,Africa,Education,Onsite,43,3,5,1,70000.0,2,5
+59,Female,Africa,Finance,Hybrid,59,2,3,2,50000.0,1,0
+57,Male,Oceania,Professional Services,Onsite,42,2,4,3,50000.0,2,5
+31,Female,Europe,Manufacturing,Hybrid,59,3,4,3,90000.0,1,2
+27,Male,Africa,Marketing,Hybrid,43,3,3,2,90000.0,2,4
+53,Female,Europe,Technology,Hybrid,63,3,2,1,120000.0,3,3
+56,Female,Oceania,Technology,Remote,55,3,3,3,50000.0,0,1
+31,Male,North America,Professional Services,Onsite,48,2,3,1,70000.0,2,1
+58,Male,South America,Professional Services,Onsite,61,3,3,2,110000.0,3,1
+37,Female,Europe,Retail,Onsite,54,2,5,3,110000.0,2,0
+55,Male,South America,Finance,Onsite,38,1,1,2,90000.0,2,0
+57,Male,Asia,Professional Services,Remote,35,3,2,4,120000.0,1,2
+46,Male,Asia,Education,Onsite,54,2,1,5,70000.0,3,1
+46,Female,South America,Healthcare,Onsite,59,2,4,2,70000.0,3,4
+29,Male,Europe,Finance,Remote,40,2,5,4,110000.0,2,2
+47,Female,North America,Technology,Onsite,47,3,5,1,90000.0,2,0
+37,Female,Asia,Healthcare,Onsite,50,2,1,1,90000.0,4,3
+33,Male,Oceania,Customer Service,Onsite,39,3,3,4,70000.0,2,6
+39,Female,Europe,Education,Onsite,62,3,2,2,70000.0,3,1
+63,Male,South America,Technology,Hybrid,37,3,3,4,90000.0,2,2
+32,Male,Africa,Retail,Hybrid,56,2,2,3,50000.0,0,3
+43,Male,Asia,Technology,Hybrid,43,1,1,4,90000.0,1,1
+39,Female,South America,Technology,Hybrid,65,2,2,2,120000.0,3,0
+46,Male,Africa,Education,Hybrid,41,2,4,3,90000.0,2,3
+33,Female,South America,Technology,Onsite,36,1,3,1,120000.0,1,0
+38,Female,South America,Technology,Hybrid,46,2,3,4,70000.0,4,3
+47,Female,Europe,Manufacturing,Hybrid,48,3,2,4,70000.0,5,0
+41,Female,North America,Professional Services,Onsite,41,3,1,3,70000.0,2,6
+59,Female,Asia,Technology,Remote,61,2,4,3,50000.0,1,0
+47,Female,Europe,Finance,Hybrid,39,3,5,2,50000.0,3,3
+31,Female,Oceania,Retail,Onsite,55,3,1,2,70000.0,2,6
+44,Male,Europe,Retail,Remote,35,1,2,4,50000.0,1,1
+26,Male,Oceania,Manufacturing,Hybrid,39,3,2,3,70000.0,2,4
+53,Female,North America,Technology,Onsite,55,2,3,2,90000.0,2,1
+48,Female,North America,Healthcare,Onsite,48,3,4,2,70000.0,4,2
+26,Male,Oceania,Professional Services,Remote,56,2,4,2,110000.0,1,2
+62,Male,North America,Technology,Onsite,57,3,2,2,50000.0,1,2
+36,Female,Oceania,Finance,Remote,44,2,1,4,90000.0,2,6
+46,Male,Europe,Healthcare,Hybrid,56,2,4,1,70000.0,1,0
+53,Female,North America,Finance,Onsite,63,3,2,5,120000.0,3,1
+22,Female,Africa,Education,Onsite,46,2,4,2,90000.0,4,6
+52,Male,Africa,Manufacturing,Hybrid,39,2,4,1,90000.0,0,5
+53,Female,Africa,Retail,Onsite,60,2,5,5,50000.0,2,0
+53,Male,Oceania,Professional Services,Onsite,51,2,1,5,90000.0,1,6
+38,Male,North America,Professional Services,Hybrid,59,1,3,4,70000.0,1,6
+22,Female,Asia,Technology,Hybrid,57,2,4,2,50000.0,1,1
+52,Female,Europe,Professional Services,Onsite,42,1,4,2,50000.0,3,2
+52,Female,South America,Education,Onsite,57,1,5,4,90000.0,4,6
+42,Female,South America,Professional Services,Onsite,50,2,3,3,70000.0,3,2
+24,Male,Oceania,Manufacturing,Remote,62,2,1,4,70000.0,2,4
+65,Male,Oceania,Technology,Hybrid,55,1,5,4,70000.0,0,2
+61,Female,South America,Healthcare,Hybrid,47,2,2,1,70000.0,2,0
+22,Male,Asia,Manufacturing,Remote,58,2,5,2,110000.0,0,0
+62,Female,North America,Retail,Onsite,38,1,2,2,70000.0,2,4
+57,Female,South America,Marketing,Onsite,56,2,3,5,90000.0,4,4
+51,Male,South America,Marketing,Hybrid,47,3,1,4,50000.0,1,6
+50,Male,Oceania,Technology,Hybrid,57,1,1,5,70000.0,1,6
+57,Male,Europe,Manufacturing,Onsite,37,3,4,2,90000.0,0,3
+47,Male,South America,Manufacturing,Onsite,63,1,3,1,70000.0,2,6
+47,Male,South America,Marketing,Hybrid,57,3,1,3,110000.0,1,2
+39,Male,Africa,Professional Services,Onsite,35,2,3,2,70000.0,0,1
+59,Male,South America,Retail,Hybrid,50,2,3,2,90000.0,1,3
+52,Male,Africa,Education,Hybrid,62,1,3,3,90000.0,2,6
+28,Female,Europe,Customer Service,Remote,60,3,3,4,70000.0,2,5
+59,Female,North America,Manufacturing,Onsite,41,1,2,1,70000.0,2,5
+30,Male,Asia,Professional Services,Hybrid,38,2,3,1,70000.0,3,0
+25,Male,Oceania,Technology,Remote,49,2,2,5,70000.0,2,6
+53,Female,Asia,Education,Hybrid,43,2,3,2,120000.0,2,4
+27,Male,Europe,Professional Services,Onsite,60,2,1,2,50000.0,2,0
+43,Female,Europe,Healthcare,Hybrid,57,3,2,1,70000.0,1,5
+34,Male,Europe,Retail,Remote,60,3,2,5,110000.0,4,6
+24,Male,South America,Customer Service,Onsite,65,3,3,2,110000.0,3,1
+22,Female,Europe,Retail,Onsite,60,2,3,2,120000.0,3,1
+48,Female,South America,Professional Services,Onsite,62,3,5,3,90000.0,3,2
+34,Female,Europe,Retail,Onsite,44,1,3,3,50000.0,1,6
+52,Male,North America,Retail,Onsite,64,2,2,4,120000.0,0,4
+23,Female,Oceania,Professional Services,Hybrid,65,3,3,3,110000.0,0,6
+62,Female,South America,Manufacturing,Onsite,51,2,4,1,70000.0,1,6
+28,Female,Asia,Manufacturing,Remote,39,2,4,4,70000.0,2,3
+31,Female,Oceania,Professional Services,Onsite,36,2,3,3,70000.0,2,5
+24,Male,North America,Healthcare,Onsite,48,2,3,2,90000.0,2,6
+34,Female,North America,Professional Services,Onsite,46,2,5,1,110000.0,4,4
+45,Female,South America,Education,Onsite,46,3,3,1,90000.0,2,1
+42,Female,Asia,Professional Services,Onsite,44,1,5,3,120000.0,3,0
+35,Female,North America,Technology,Remote,54,3,3,2,50000.0,2,0
+24,Female,Oceania,Manufacturing,Hybrid,45,1,5,3,70000.0,4,0
+41,Female,North America,Healthcare,Onsite,53,1,3,3,70000.0,1,1
+40,Female,South America,Finance,Remote,47,2,2,3,50000.0,1,6
+23,Male,Oceania,Professional Services,Onsite,39,1,4,1,90000.0,2,4
+53,Male,Africa,Professional Services,Onsite,50,2,3,2,110000.0,1,3
+54,Male,Europe,Professional Services,Onsite,63,1,3,2,90000.0,3,3
+61,Male,Europe,Finance,Hybrid,56,1,1,4,90000.0,1,0
+31,Female,South America,Professional Services,Hybrid,37,3,4,4,70000.0,0,1
+28,Female,Europe,Technology,Hybrid,40,1,1,3,70000.0,3,6
+58,Male,South America,Education,Remote,60,1,5,3,110000.0,0,5
+25,Female,Asia,Manufacturing,Hybrid,44,2,4,3,90000.0,2,1
+54,Female,South America,Professional Services,Onsite,55,2,3,4,70000.0,2,1
+39,Female,North America,Technology,Hybrid,37,3,3,1,70000.0,4,3
+48,Female,Europe,Professional Services,Onsite,63,1,2,1,70000.0,2,0
+36,Female,Asia,Healthcare,Hybrid,58,3,4,3,110000.0,1,6
+61,Female,South America,Professional Services,Hybrid,56,1,1,3,70000.0,3,0
+61,Male,South America,Technology,Hybrid,43,2,2,2,70000.0,0,4
+56,Female,South America,Technology,Onsite,52,1,3,2,70000.0,2,0
+32,Male,Oceania,Technology,Onsite,64,3,4,2,90000.0,1,4
+43,Male,Europe,Professional Services,Onsite,64,2,3,1,50000.0,3,4
+27,Male,Europe,Technology,Onsite,53,1,4,3,70000.0,2,0
+51,Female,Europe,Technology,Hybrid,53,2,5,1,90000.0,1,2
+33,Male,South America,Customer Service,Onsite,53,2,4,3,90000.0,2,1
+29,Female,North America,Technology,Onsite,52,2,3,3,50000.0,2,0
+50,Female,North America,Retail,Remote,51,2,4,4,90000.0,0,5
+55,Female,Africa,Technology,Hybrid,41,2,2,1,70000.0,2,0
+22,Female,Africa,Manufacturing,Onsite,60,2,4,2,120000.0,1,0
+40,Male,Oceania,Technology,Hybrid,48,3,4,1,90000.0,2,2
+28,Male,Africa,Education,Onsite,36,2,3,3,90000.0,3,3
+45,Female,South America,Manufacturing,Onsite,53,1,3,2,90000.0,2,1
+62,Female,Africa,Marketing,Remote,44,3,1,4,70000.0,3,0
+53,Female,Asia,Professional Services,Onsite,42,1,4,1,90000.0,2,6
+37,Male,Europe,Education,Onsite,64,1,4,1,120000.0,1,1
+45,Male,Asia,Professional Services,Onsite,51,3,1,4,50000.0,1,6
+47,Male,Asia,Manufacturing,Onsite,35,3,3,3,110000.0,2,6
+61,Male,Oceania,Professional Services,Onsite,41,3,2,1,110000.0,4,1
+36,Female,Africa,Healthcare,Onsite,40,2,2,2,90000.0,1,4
+41,Male,Africa,Professional Services,Onsite,41,1,4,3,90000.0,2,4
+56,Female,Europe,Technology,Hybrid,52,2,3,1,50000.0,2,2
+43,Male,Africa,Technology,Remote,45,2,2,5,70000.0,0,2
+35,Male,Africa,Professional Services,Hybrid,47,3,1,1,70000.0,1,0
+55,Male,Europe,Healthcare,Hybrid,60,3,5,3,120000.0,1,2
+54,Female,Oceania,Professional Services,Hybrid,40,3,1,3,50000.0,2,3
+51,Female,Asia,Marketing,Onsite,65,3,2,2,110000.0,1,3
+45,Male,Europe,Education,Onsite,59,3,4,1,90000.0,1,1
+24,Male,Oceania,Healthcare,Hybrid,57,1,5,3,90000.0,3,1
+48,Female,Africa,Finance,Onsite,39,3,3,3,90000.0,2,0
+24,Female,South America,Education,Remote,64,1,3,4,70000.0,3,0
+46,Female,Europe,Healthcare,Onsite,39,2,4,2,110000.0,1,4
+29,Male,Europe,Customer Service,Remote,58,2,5,3,70000.0,1,5
+33,Female,South America,Healthcare,Hybrid,46,2,3,4,90000.0,2,1
+39,Female,South America,Finance,Onsite,45,3,4,2,50000.0,2,4
+62,Female,North America,Marketing,Hybrid,64,1,2,5,70000.0,0,6
+27,Female,Europe,Marketing,Onsite,54,2,5,4,90000.0,2,0
+63,Female,Oceania,Healthcare,Onsite,52,1,3,5,90000.0,3,6
+30,Female,North America,Manufacturing,Remote,48,2,5,4,90000.0,2,4
+53,Male,Europe,Technology,Onsite,64,1,2,3,50000.0,1,0
+56,Female,Oceania,Marketing,Onsite,45,3,2,3,70000.0,2,0
+59,Male,Asia,Healthcare,Onsite,63,2,4,2,90000.0,1,1
+26,Female,Europe,Marketing,Onsite,46,3,3,3,70000.0,2,0
+60,Male,Oceania,Professional Services,Onsite,39,2,1,4,110000.0,5,0
+39,Female,Africa,Finance,Hybrid,61,2,2,4,90000.0,3,5
+45,Female,Oceania,Marketing,Onsite,45,2,5,1,70000.0,1,4
+48,Male,Europe,Finance,Onsite,45,2,3,5,70000.0,3,5
+23,Female,North America,Education,Hybrid,51,3,3,2,90000.0,3,0
+60,Female,Europe,Customer Service,Onsite,38,2,1,4,70000.0,1,0
+44,Female,Africa,Manufacturing,Onsite,59,1,3,4,50000.0,1,3
+55,Male,Asia,Manufacturing,Onsite,51,2,3,2,110000.0,1,4
+58,Female,Asia,Professional Services,Remote,56,3,2,4,90000.0,2,6
+60,Male,Africa,Technology,Onsite,65,2,4,1,90000.0,2,3
+53,Female,Africa,Education,Onsite,38,3,1,2,120000.0,1,6
+51,Female,Africa,Technology,Remote,37,3,2,3,120000.0,3,5
+23,Female,Oceania,Technology,Remote,62,2,3,2,70000.0,2,0
+37,Male,Oceania,Marketing,Onsite,50,2,3,1,90000.0,1,6
+26,Male,South America,Professional Services,Onsite,40,2,3,2,50000.0,1,3
+30,Female,South America,Retail,Hybrid,54,3,4,1,50000.0,1,0
+37,Female,Asia,Finance,Hybrid,64,2,5,4,90000.0,3,0
+48,Male,Africa,Manufacturing,Remote,54,3,3,5,70000.0,2,0
+29,Male,South America,Technology,Hybrid,43,3,2,1,110000.0,3,3
+56,Female,North America,Marketing,Hybrid,60,2,1,4,90000.0,2,1
+40,Female,Oceania,Healthcare,Onsite,56,2,4,2,70000.0,2,1
+35,Male,Asia,Technology,Remote,45,2,2,3,70000.0,2,0
+55,Male,Africa,Healthcare,Hybrid,56,3,2,4,90000.0,3,5
+64,Female,North America,Professional Services,Onsite,64,1,2,4,90000.0,2,6
+45,Male,Oceania,Professional Services,Hybrid,58,2,4,3,110000.0,2,1
+60,Female,South America,Professional Services,Onsite,37,2,2,4,90000.0,3,2
+36,Female,North America,Technology,Remote,36,3,3,2,50000.0,2,0
+45,Female,North America,Education,Onsite,60,1,2,4,90000.0,3,0
+55,Male,Europe,Technology,Remote,62,2,5,5,90000.0,2,3
+27,Female,Oceania,Professional Services,Onsite,63,2,3,1,70000.0,2,0
+44,Female,North America,Customer Service,Hybrid,41,2,4,2,90000.0,2,5
+62,Female,Oceania,Professional Services,Remote,45,2,3,4,50000.0,2,6
+42,Female,Africa,Technology,Hybrid,60,2,5,3,70000.0,3,5
+24,Male,Europe,Technology,Hybrid,63,3,4,3,50000.0,2,0
+46,Male,Oceania,Professional Services,Onsite,45,2,1,1,50000.0,3,3
+29,Female,North America,Professional Services,Onsite,53,3,3,5,70000.0,1,0
+32,Female,Asia,Professional Services,Onsite,48,2,3,2,70000.0,2,4
+23,Male,Oceania,Customer Service,Onsite,61,3,3,1,90000.0,1,0
+48,Female,Africa,Finance,Onsite,54,1,3,3,50000.0,3,1
+24,Female,Asia,Finance,Onsite,50,2,3,2,70000.0,2,3
+31,Male,Asia,Finance,Onsite,54,1,3,5,90000.0,1,1
+31,Male,North America,Finance,Remote,53,2,3,4,90000.0,3,0
+61,Female,Europe,Customer Service,Onsite,43,3,3,2,70000.0,1,6
+32,Male,Europe,Technology,Onsite,62,3,4,2,70000.0,2,6
+44,Male,Asia,Marketing,Hybrid,64,3,4,3,70000.0,1,2
+44,Female,North America,Healthcare,Onsite,39,2,2,1,70000.0,2,4
+30,Male,Asia,Education,Onsite,40,1,3,4,90000.0,2,3
+53,Male,South America,Technology,Remote,43,3,3,2,90000.0,2,0
+24,Male,South America,Education,Onsite,56,2,2,3,50000.0,2,0
+53,Male,Oceania,Professional Services,Onsite,43,3,1,2,70000.0,3,0
+45,Female,North America,Professional Services,Remote,61,2,4,5,70000.0,1,2
+53,Male,Asia,Finance,Onsite,35,2,4,1,70000.0,1,5
+37,Female,Africa,Manufacturing,Onsite,54,1,1,2,110000.0,2,3
+65,Female,Asia,Professional Services,Onsite,63,2,3,1,110000.0,3,6
+54,Female,Asia,Manufacturing,Remote,39,3,3,4,50000.0,1,6
+38,Female,Asia,Finance,Onsite,62,3,5,4,50000.0,2,2
+55,Female,South America,Manufacturing,Hybrid,52,2,3,3,70000.0,4,1
+27,Female,Europe,Education,Onsite,62,3,4,1,110000.0,3,6
+55,Male,Africa,Technology,Remote,50,3,2,3,90000.0,2,5
+50,Male,North America,Education,Remote,58,2,2,5,110000.0,2,0
+47,Male,Oceania,Retail,Hybrid,39,2,1,3,120000.0,1,2
+59,Male,Asia,Education,Hybrid,44,3,5,1,50000.0,1,0
+57,Female,Asia,Education,Onsite,45,1,3,3,110000.0,1,1
+40,Female,Africa,Healthcare,Onsite,45,3,3,4,90000.0,3,4
+33,Male,Oceania,Finance,Hybrid,65,3,3,4,90000.0,3,0
+29,Male,Asia,Education,Onsite,42,3,4,3,90000.0,0,4
+51,Male,Africa,Manufacturing,Onsite,52,2,1,2,70000.0,3,5
+37,Male,South America,Education,Remote,54,3,3,3,70000.0,1,3
+62,Male,Africa,Education,Onsite,56,2,3,5,120000.0,3,6
+31,Female,South America,Education,Onsite,54,2,3,2,70000.0,2,2
+56,Male,Oceania,Finance,Onsite,60,2,4,3,70000.0,3,3
+56,Female,Africa,Education,Remote,61,1,3,5,110000.0,4,0
+57,Female,Asia,Customer Service,Onsite,38,1,4,5,50000.0,2,3
+37,Female,Africa,Technology,Onsite,53,1,2,2,70000.0,3,1
+65,Female,North America,Professional Services,Hybrid,49,3,2,3,50000.0,3,5
+34,Male,Oceania,Technology,Remote,60,3,2,4,50000.0,3,0
+59,Female,Europe,Retail,Hybrid,51,2,3,4,110000.0,1,0
+40,Female,North America,Technology,Onsite,45,2,1,2,70000.0,1,5
+44,Female,Africa,Professional Services,Hybrid,54,3,4,2,90000.0,1,5
+31,Female,North America,Manufacturing,Onsite,55,1,1,1,50000.0,4,4
+24,Male,South America,Finance,Hybrid,41,3,3,4,70000.0,1,5
+31,Female,North America,Marketing,Onsite,51,2,3,2,70000.0,2,3
+35,Female,Asia,Retail,Onsite,56,1,3,3,70000.0,2,4
+59,Male,North America,Manufacturing,Onsite,35,1,1,3,70000.0,0,0
+60,Female,Oceania,Professional Services,Onsite,52,2,5,3,120000.0,1,0
+49,Female,Africa,Customer Service,Onsite,39,1,4,2,90000.0,3,3
+38,Female,Asia,Professional Services,Hybrid,44,3,3,3,90000.0,2,6
+45,Female,North America,Professional Services,Hybrid,42,3,5,5,110000.0,2,2
+36,Female,Europe,Manufacturing,Onsite,36,1,4,1,110000.0,1,1
+63,Female,North America,Technology,Onsite,37,2,2,3,70000.0,2,2
+24,Female,Oceania,Finance,Onsite,46,3,1,2,110000.0,4,3
+49,Female,North America,Retail,Onsite,60,2,4,2,50000.0,2,6
+58,Female,Oceania,Finance,Hybrid,46,2,3,3,70000.0,2,5
+40,Male,Africa,Education,Onsite,59,1,4,2,90000.0,1,6
+43,Male,Asia,Marketing,Hybrid,54,2,3,2,90000.0,3,4
+26,Male,South America,Customer Service,Hybrid,51,3,1,3,90000.0,4,2
+38,Male,Asia,Retail,Onsite,65,2,3,1,70000.0,2,4
+32,Male,Europe,Customer Service,Onsite,52,2,3,3,90000.0,2,0
+43,Female,North America,Professional Services,Onsite,40,2,4,2,110000.0,1,4
+25,Male,South America,Technology,Onsite,45,1,2,3,70000.0,0,0
+50,Male,Oceania,Finance,Hybrid,55,1,4,3,70000.0,2,0
+28,Male,Asia,Marketing,Remote,58,3,3,3,110000.0,3,3
+26,Male,Asia,Manufacturing,Onsite,40,2,4,2,70000.0,3,4
+27,Female,North America,Professional Services,Onsite,47,3,4,4,90000.0,1,5
+56,Male,Africa,Education,Remote,63,2,3,4,110000.0,1,0
+47,Female,Oceania,Professional Services,Onsite,65,2,3,2,70000.0,0,6
+48,Male,Europe,Technology,Hybrid,64,3,3,3,110000.0,3,6
+61,Female,Asia,Professional Services,Onsite,53,1,1,3,90000.0,2,3
+59,Female,South America,Technology,Hybrid,50,2,5,3,70000.0,1,0
+62,Female,Africa,Technology,Remote,42,1,3,5,70000.0,3,0
+53,Male,Europe,Professional Services,Hybrid,42,3,1,3,90000.0,2,5
+44,Female,Africa,Healthcare,Onsite,64,2,1,3,90000.0,0,2
+27,Male,Asia,Professional Services,Onsite,59,1,1,2,50000.0,2,5
+59,Female,Europe,Technology,Onsite,55,3,3,2,90000.0,1,0
+31,Male,Oceania,Marketing,Hybrid,57,3,3,4,120000.0,3,0
+61,Male,Oceania,Education,Onsite,46,2,4,3,110000.0,1,2
+33,Male,Europe,Technology,Onsite,35,1,3,2,110000.0,5,4
+58,Male,Asia,Manufacturing,Onsite,35,2,3,5,90000.0,1,0
+59,Male,Europe,Manufacturing,Hybrid,48,1,3,3,70000.0,4,1
+50,Male,South America,Marketing,Hybrid,61,1,3,2,70000.0,1,3
+31,Female,Africa,Technology,Onsite,60,2,3,5,70000.0,2,6
+29,Female,North America,Technology,Hybrid,37,2,3,1,70000.0,1,2
+27,Male,South America,Technology,Remote,47,3,3,3,90000.0,1,0
+42,Female,Asia,Education,Hybrid,45,2,2,3,90000.0,2,1
+64,Female,South America,Finance,Onsite,47,2,3,5,120000.0,4,0
+25,Male,Asia,Healthcare,Remote,37,3,3,5,70000.0,1,5
+27,Male,Asia,Professional Services,Hybrid,54,1,3,2,50000.0,2,6
+55,Female,South America,Technology,Hybrid,54,2,1,1,120000.0,1,0
+46,Male,Africa,Healthcare,Onsite,38,3,1,1,70000.0,3,1
+47,Female,North America,Retail,Remote,50,3,1,3,90000.0,2,3
+30,Female,North America,Marketing,Onsite,57,3,3,2,90000.0,1,2
+46,Male,North America,Manufacturing,Onsite,35,2,3,3,70000.0,3,0
+50,Female,South America,Customer Service,Hybrid,62,2,2,4,90000.0,1,0
+40,Female,Africa,Technology,Onsite,57,3,4,3,70000.0,1,2
+63,Female,Africa,Professional Services,Onsite,44,2,4,2,110000.0,3,4
+36,Male,North America,Professional Services,Onsite,36,2,3,2,70000.0,2,1
+50,Male,Asia,Professional Services,Remote,50,2,3,4,90000.0,3,4
+53,Male,North America,Healthcare,Onsite,44,3,5,4,90000.0,1,1
+56,Male,Oceania,Professional Services,Onsite,64,1,3,2,90000.0,4,0
+54,Male,Africa,Professional Services,Hybrid,45,2,3,3,90000.0,2,2
+24,Female,Asia,Finance,Onsite,53,2,4,2,110000.0,2,0
+35,Male,Asia,Marketing,Onsite,36,3,4,4,90000.0,4,5
+32,Male,South America,Professional Services,Onsite,48,3,4,2,50000.0,2,0
+34,Male,Oceania,Finance,Hybrid,47,2,2,4,90000.0,2,0
+40,Female,Asia,Technology,Hybrid,64,3,3,2,90000.0,2,2
+24,Female,South America,Finance,Remote,52,2,3,5,110000.0,2,2
+33,Female,Oceania,Education,Onsite,49,1,1,5,70000.0,3,0
+56,Male,South America,Professional Services,Remote,50,2,1,5,120000.0,2,5
+57,Female,North America,Finance,Remote,39,3,2,4,70000.0,4,6
+56,Female,North America,Marketing,Onsite,65,2,5,3,110000.0,2,2
+53,Male,Oceania,Retail,Onsite,47,2,5,5,70000.0,2,6
+50,Female,North America,Customer Service,Remote,63,2,3,4,90000.0,1,1
+52,Male,South America,Education,Remote,39,3,3,3,50000.0,3,1
+57,Female,Europe,Finance,Remote,53,3,5,2,90000.0,2,3
+48,Male,North America,Manufacturing,Remote,57,3,3,5,50000.0,2,6
+44,Female,Asia,Retail,Onsite,38,1,5,2,90000.0,2,0
+38,Male,South America,Technology,Remote,43,3,5,2,70000.0,2,0
+35,Male,Oceania,Healthcare,Hybrid,38,3,1,3,70000.0,1,4
+58,Female,South America,Technology,Remote,52,3,5,2,90000.0,3,1
+37,Female,Africa,Technology,Remote,54,2,3,3,110000.0,1,0
+52,Female,Asia,Manufacturing,Hybrid,62,3,2,3,70000.0,1,3
+37,Male,Africa,Manufacturing,Hybrid,47,2,1,4,90000.0,3,1
+52,Male,South America,Finance,Onsite,36,1,1,3,110000.0,1,3
+22,Male,Oceania,Marketing,Onsite,40,3,3,2,70000.0,4,0
+30,Male,Europe,Manufacturing,Onsite,50,2,4,2,70000.0,0,0
+34,Male,North America,Professional Services,Onsite,37,1,3,3,90000.0,4,5
+43,Male,Europe,Professional Services,Onsite,65,1,5,1,70000.0,1,4
+27,Male,North America,Technology,Hybrid,49,3,1,3,70000.0,4,0
+35,Female,Africa,Education,Onsite,47,1,2,3,110000.0,1,4
+23,Male,Oceania,Customer Service,Onsite,46,2,4,2,90000.0,2,3
+29,Male,Oceania,Technology,Hybrid,50,1,3,2,70000.0,3,0
+31,Male,Africa,Finance,Remote,37,2,3,1,70000.0,2,3
+29,Female,Asia,Customer Service,Hybrid,42,2,4,3,50000.0,3,0
+59,Male,North America,Healthcare,Onsite,50,1,3,2,50000.0,1,1
+24,Female,Oceania,Technology,Hybrid,55,2,4,2,120000.0,1,0
+33,Female,Oceania,Healthcare,Onsite,46,1,5,2,90000.0,1,3
+31,Female,Oceania,Retail,Onsite,49,2,3,1,70000.0,2,0
+36,Male,Asia,Finance,Onsite,43,1,3,2,70000.0,0,4
+28,Female,North America,Manufacturing,Hybrid,59,3,1,2,90000.0,1,5
+64,Female,North America,Professional Services,Hybrid,45,3,3,3,120000.0,2,3
+27,Male,Oceania,Technology,Onsite,61,3,4,1,120000.0,0,4
+30,Female,South America,Professional Services,Onsite,54,3,3,4,70000.0,3,2
+28,Male,Africa,Finance,Onsite,43,2,4,2,90000.0,3,6
+34,Male,Oceania,Retail,Onsite,38,2,3,4,90000.0,3,1
+46,Male,South America,Professional Services,Onsite,57,2,3,2,70000.0,2,0
+29,Female,Europe,Healthcare,Hybrid,64,3,3,1,90000.0,0,1
+43,Male,North America,Professional Services,Hybrid,53,2,2,3,90000.0,0,0
+48,Female,Asia,Professional Services,Hybrid,45,2,2,3,70000.0,0,2
+46,Male,South America,Healthcare,Onsite,40,2,3,2,70000.0,3,4
+30,Female,South America,Manufacturing,Onsite,46,2,3,1,70000.0,2,2
+34,Male,Africa,Retail,Onsite,38,1,4,2,90000.0,2,3
+50,Male,Africa,Manufacturing,Hybrid,60,2,3,5,90000.0,1,3
+61,Male,South America,Manufacturing,Remote,65,2,2,4,70000.0,3,2
+60,Female,North America,Marketing,Onsite,36,2,3,4,50000.0,3,0
+54,Female,Europe,Retail,Onsite,58,2,3,2,50000.0,0,3
+44,Male,Africa,Professional Services,Onsite,51,3,4,1,90000.0,2,2
+39,Male,North America,Technology,Remote,39,3,2,4,90000.0,1,1
+58,Female,Africa,Marketing,Hybrid,64,2,3,2,90000.0,4,0
+29,Male,South America,Professional Services,Onsite,46,2,2,3,90000.0,2,3
+63,Male,Europe,Professional Services,Remote,59,2,3,1,50000.0,3,0
+27,Male,Oceania,Manufacturing,Hybrid,48,1,3,4,50000.0,1,0
+50,Male,Oceania,Customer Service,Hybrid,65,3,2,2,50000.0,1,2
+23,Female,Asia,Marketing,Onsite,65,3,3,4,90000.0,1,1
+22,Female,South America,Technology,Hybrid,45,2,4,4,70000.0,2,6
+35,Female,Europe,Manufacturing,Hybrid,48,2,3,4,70000.0,1,3
+37,Female,South America,Marketing,Hybrid,43,3,3,4,110000.0,0,0
+27,Female,Africa,Professional Services,Onsite,43,2,3,4,90000.0,2,5
+44,Female,Oceania,Customer Service,Onsite,51,3,3,2,90000.0,2,3
+24,Female,Asia,Education,Onsite,57,1,4,1,50000.0,0,6
+28,Male,Europe,Healthcare,Onsite,58,1,2,2,90000.0,2,3
+61,Male,North America,Retail,Remote,35,1,2,2,90000.0,3,2
+43,Female,North America,Finance,Onsite,37,2,3,2,90000.0,1,6
+38,Male,Europe,Finance,Hybrid,39,2,2,1,70000.0,0,0
+34,Male,Oceania,Education,Hybrid,45,3,4,1,120000.0,4,2
+22,Male,South America,Finance,Onsite,41,3,3,1,110000.0,3,2
+42,Female,Oceania,Manufacturing,Onsite,35,2,1,4,90000.0,3,4
+52,Female,Oceania,Manufacturing,Hybrid,54,2,4,4,50000.0,2,0
+39,Male,Oceania,Healthcare,Onsite,37,1,2,2,90000.0,1,5
+31,Male,North America,Education,Onsite,39,3,3,2,90000.0,1,0
+45,Male,Africa,Finance,Onsite,52,1,3,3,50000.0,3,1
+40,Female,South America,Manufacturing,Onsite,38,2,3,2,110000.0,3,3
+60,Female,Asia,Manufacturing,Hybrid,44,3,3,4,90000.0,1,0
+49,Male,South America,Manufacturing,Onsite,56,1,4,2,90000.0,2,0
+59,Male,Africa,Manufacturing,Onsite,46,2,1,3,70000.0,0,5
+22,Female,South America,Finance,Hybrid,35,2,3,3,70000.0,2,3
+52,Female,Africa,Healthcare,Onsite,56,1,3,3,90000.0,2,2
+53,Male,Africa,Professional Services,Onsite,55,3,2,2,120000.0,3,5
+32,Female,Africa,Healthcare,Remote,50,3,3,3,110000.0,0,4
+54,Male,Oceania,Manufacturing,Hybrid,52,3,5,2,120000.0,0,5
+51,Male,Europe,Finance,Onsite,38,2,3,2,90000.0,2,0
+42,Female,North America,Technology,Onsite,65,3,3,5,70000.0,2,5
+31,Male,South America,Retail,Onsite,45,2,2,1,90000.0,2,0
+50,Male,North America,Technology,Remote,51,1,5,4,90000.0,2,0
+37,Female,North America,Technology,Onsite,38,1,4,2,70000.0,3,0
+38,Male,Africa,Healthcare,Onsite,42,1,2,3,70000.0,2,6
+42,Female,Asia,Manufacturing,Remote,47,3,3,1,50000.0,1,0
+60,Female,South America,Education,Onsite,48,3,3,2,70000.0,5,0
+24,Female,Africa,Finance,Onsite,38,1,4,3,70000.0,3,6
+34,Female,Europe,Finance,Onsite,65,2,2,1,110000.0,2,0
+23,Female,Europe,Retail,Onsite,44,3,3,3,70000.0,0,1
+65,Female,Oceania,Professional Services,Onsite,48,3,3,2,90000.0,1,2
+55,Female,Asia,Professional Services,Remote,49,3,4,5,110000.0,1,5
+44,Male,North America,Marketing,Onsite,62,2,3,2,70000.0,1,4
+63,Male,Oceania,Manufacturing,Hybrid,41,2,4,2,90000.0,2,0
+62,Male,Oceania,Professional Services,Hybrid,53,2,5,1,70000.0,1,2
+49,Male,South America,Professional Services,Onsite,59,1,4,4,90000.0,3,0
+43,Female,Europe,Manufacturing,Remote,47,3,5,3,90000.0,4,5
+43,Male,Oceania,Marketing,Hybrid,61,3,3,3,90000.0,1,0
+39,Female,Africa,Technology,Onsite,46,1,4,2,70000.0,3,2
+65,Male,Europe,Finance,Remote,40,1,5,5,90000.0,2,6
+45,Male,Oceania,Professional Services,Onsite,35,1,1,2,90000.0,1,1
+48,Female,Asia,Retail,Hybrid,56,1,1,1,110000.0,0,1
+52,Female,South America,Manufacturing,Hybrid,50,2,1,5,70000.0,1,5
+40,Male,Europe,Professional Services,Onsite,38,2,1,3,50000.0,2,2
+60,Male,Oceania,Education,Onsite,60,1,4,2,70000.0,0,4
+30,Male,North America,Finance,Hybrid,43,3,2,1,70000.0,2,5
+29,Female,Europe,Manufacturing,Onsite,58,2,2,3,90000.0,3,5
+62,Female,Africa,Education,Onsite,48,2,5,2,70000.0,2,4
+64,Female,North America,Professional Services,Onsite,64,3,2,2,90000.0,3,1
+64,Male,Africa,Manufacturing,Remote,37,3,4,5,70000.0,1,0
+53,Female,Oceania,Healthcare,Remote,39,3,3,5,90000.0,2,3
+57,Female,Africa,Customer Service,Onsite,55,1,3,1,50000.0,1,1
+41,Male,Europe,Healthcare,Remote,58,3,3,4,120000.0,2,3
+27,Male,Europe,Professional Services,Hybrid,47,3,5,2,110000.0,3,5
+48,Male,Asia,Manufacturing,Onsite,59,2,4,3,110000.0,2,4
+33,Male,North America,Technology,Hybrid,38,1,2,3,70000.0,1,2
+47,Female,Oceania,Professional Services,Onsite,58,2,1,1,90000.0,2,4
+42,Male,Asia,Retail,Onsite,60,2,3,1,90000.0,1,0
+47,Female,Oceania,Professional Services,Onsite,62,1,1,2,110000.0,3,2
+55,Female,Oceania,Marketing,Onsite,48,1,2,3,110000.0,3,3
+32,Female,South America,Professional Services,Onsite,35,2,3,2,90000.0,2,2
+64,Female,South America,Technology,Hybrid,37,2,3,4,70000.0,2,3
+39,Female,Oceania,Marketing,Onsite,51,1,3,2,110000.0,0,0
+27,Male,Europe,Marketing,Onsite,38,2,5,3,120000.0,1,1
+45,Female,Asia,Finance,Onsite,63,2,4,4,120000.0,0,0
+60,Female,Asia,Professional Services,Hybrid,45,3,3,4,110000.0,2,4
+52,Female,North America,Marketing,Onsite,46,3,4,2,50000.0,2,2
+29,Male,Europe,Healthcare,Onsite,39,3,3,1,90000.0,1,4
+23,Male,Asia,Customer Service,Hybrid,58,2,2,3,110000.0,4,6
+34,Male,South America,Manufacturing,Hybrid,53,1,2,4,110000.0,1,1
+34,Female,North America,Marketing,Hybrid,39,3,3,3,50000.0,2,5
+45,Female,South America,Technology,Remote,64,3,1,4,50000.0,2,3
+30,Female,South America,Technology,Hybrid,44,3,3,3,110000.0,1,2
+22,Female,Europe,Healthcare,Remote,64,2,3,4,70000.0,1,6
+44,Female,Oceania,Professional Services,Onsite,43,2,2,4,50000.0,0,6
+62,Male,South America,Marketing,Onsite,38,2,4,1,70000.0,3,1
+36,Female,Europe,Professional Services,Onsite,38,3,2,3,70000.0,2,4
+23,Male,North America,Technology,Hybrid,55,3,3,4,110000.0,3,4
+48,Female,Oceania,Education,Onsite,46,2,2,2,110000.0,1,3
+36,Male,Europe,Healthcare,Onsite,38,1,1,2,90000.0,2,0
+46,Female,North America,Retail,Remote,55,1,3,4,70000.0,1,0
+46,Male,Africa,Professional Services,Remote,36,3,4,2,70000.0,2,3
+44,Female,Africa,Manufacturing,Onsite,48,2,3,4,90000.0,1,4
+42,Female,Asia,Technology,Onsite,43,2,3,2,110000.0,2,4
+37,Male,Oceania,Technology,Remote,43,1,3,4,110000.0,2,4
+25,Female,Africa,Finance,Remote,47,3,4,4,90000.0,2,5
+56,Female,North America,Professional Services,Hybrid,57,3,2,4,50000.0,4,5
+46,Male,Asia,Education,Onsite,49,1,3,1,70000.0,2,0
+61,Female,Africa,Technology,Onsite,39,2,3,3,90000.0,2,6
+39,Male,Africa,Healthcare,Hybrid,35,3,3,3,120000.0,2,6
+62,Female,South America,Marketing,Onsite,54,2,2,3,50000.0,3,2
+34,Female,Asia,Professional Services,Onsite,40,1,3,2,90000.0,1,1
+40,Male,Asia,Professional Services,Hybrid,54,3,3,2,50000.0,1,3
+36,Male,South America,Professional Services,Onsite,48,2,3,1,110000.0,2,6
+55,Male,South America,Education,Hybrid,38,3,2,4,90000.0,1,0
+46,Male,North America,Marketing,Onsite,62,2,3,1,70000.0,1,1
+45,Female,Africa,Finance,Hybrid,45,2,3,1,70000.0,3,1
+45,Male,Asia,Technology,Hybrid,58,3,4,5,120000.0,2,6
+25,Female,Africa,Finance,Onsite,43,2,5,2,70000.0,3,6
+42,Male,North America,Manufacturing,Remote,50,3,5,5,90000.0,2,3
+24,Male,Africa,Technology,Onsite,60,3,1,3,50000.0,2,2
+54,Female,Africa,Technology,Hybrid,42,3,2,2,70000.0,1,0
+49,Female,Europe,Customer Service,Onsite,52,2,3,2,90000.0,1,2
+23,Female,North America,Technology,Onsite,36,2,5,4,70000.0,3,0
+40,Male,Africa,Technology,Remote,45,3,4,1,70000.0,1,6
+33,Male,Africa,Professional Services,Hybrid,58,3,4,3,70000.0,0,5
+28,Male,Europe,Finance,Onsite,37,2,5,2,50000.0,1,3
+28,Male,Oceania,Customer Service,Onsite,49,1,2,2,120000.0,3,1
+27,Female,Africa,Professional Services,Onsite,59,2,4,3,50000.0,1,0
+45,Female,Oceania,Manufacturing,Onsite,40,2,3,4,70000.0,1,0
+40,Female,Asia,Retail,Onsite,55,1,5,3,110000.0,1,4
+44,Male,Europe,Professional Services,Onsite,47,2,3,1,70000.0,0,5
+52,Male,South America,Education,Hybrid,35,1,4,1,70000.0,3,5
+25,Male,Europe,Professional Services,Hybrid,45,3,5,5,70000.0,2,6
+47,Female,North America,Customer Service,Remote,38,2,3,4,70000.0,5,2
+46,Male,South America,Finance,Onsite,64,2,1,2,50000.0,2,5
+50,Male,Africa,Professional Services,Onsite,65,2,5,1,50000.0,2,3
+50,Female,Asia,Professional Services,Hybrid,55,2,3,3,70000.0,2,6
+38,Male,Oceania,Technology,Onsite,60,2,3,2,50000.0,1,0
+43,Male,Africa,Education,Onsite,52,3,2,3,90000.0,0,2
+22,Male,Asia,Professional Services,Hybrid,60,2,3,2,90000.0,2,0
+54,Female,Europe,Professional Services,Onsite,36,3,3,2,70000.0,2,0
+36,Male,North America,Retail,Hybrid,37,3,4,1,50000.0,2,6
+44,Female,Asia,Healthcare,Remote,57,3,5,3,90000.0,1,3
+58,Female,Africa,Technology,Onsite,49,1,5,1,70000.0,1,6
+44,Male,Africa,Technology,Remote,39,3,4,4,70000.0,1,3
+65,Female,Europe,Professional Services,Hybrid,65,3,3,2,90000.0,2,0
+46,Male,Africa,Professional Services,Onsite,46,1,3,1,110000.0,2,0
+29,Male,South America,Technology,Hybrid,63,2,4,2,120000.0,2,0
+63,Female,Europe,Finance,Hybrid,44,2,5,2,50000.0,2,3
+53,Female,Europe,Technology,Remote,41,1,5,3,90000.0,3,4
+35,Male,North America,Manufacturing,Remote,42,2,2,5,70000.0,3,6
+57,Male,North America,Professional Services,Onsite,59,3,2,1,50000.0,3,4
+40,Male,Africa,Healthcare,Onsite,45,1,3,2,70000.0,0,4
+61,Male,Africa,Professional Services,Onsite,45,2,4,4,50000.0,2,4
+49,Male,Oceania,Education,Hybrid,56,1,2,1,50000.0,3,6
+44,Female,South America,Professional Services,Onsite,36,2,2,3,70000.0,1,1
+62,Male,Europe,Customer Service,Onsite,46,2,5,1,50000.0,2,2
+32,Female,Africa,Finance,Hybrid,43,2,3,2,110000.0,3,0
+52,Male,Europe,Manufacturing,Hybrid,44,1,1,2,70000.0,3,6
+46,Male,South America,Education,Onsite,56,2,2,3,110000.0,1,3
+29,Female,Europe,Finance,Onsite,48,2,3,4,50000.0,1,2
+40,Male,Oceania,Professional Services,Onsite,48,3,3,4,70000.0,0,5
+60,Female,Europe,Technology,Remote,44,2,3,2,70000.0,2,3
+27,Male,Africa,Professional Services,Onsite,37,2,3,2,50000.0,2,0
+59,Female,North America,Marketing,Onsite,55,2,3,2,110000.0,2,5
+23,Male,Asia,Professional Services,Onsite,54,1,1,2,110000.0,4,3
+27,Female,South America,Professional Services,Remote,60,3,4,5,90000.0,4,5
+34,Female,Europe,Healthcare,Onsite,64,2,5,1,90000.0,2,1
+37,Female,Europe,Professional Services,Onsite,58,2,3,1,110000.0,2,2
+27,Female,North America,Education,Hybrid,60,1,3,4,70000.0,1,1
+24,Female,North America,Manufacturing,Onsite,55,3,4,1,110000.0,1,4
+65,Female,North America,Education,Onsite,55,3,3,1,90000.0,2,0
+53,Female,South America,Finance,Onsite,54,2,3,3,70000.0,2,1
+53,Female,North America,Professional Services,Remote,51,3,5,2,120000.0,2,2
+51,Female,North America,Retail,Remote,49,1,4,3,90000.0,3,6
+30,Male,Asia,Professional Services,Hybrid,56,2,3,2,110000.0,0,3
+61,Male,Asia,Education,Onsite,63,1,2,3,120000.0,3,0
+25,Male,Africa,Professional Services,Hybrid,40,3,3,3,70000.0,0,0
+31,Male,Africa,Finance,Remote,53,2,5,4,70000.0,2,5
+25,Female,Oceania,Healthcare,Onsite,38,1,2,1,110000.0,2,1
+25,Male,Europe,Marketing,Onsite,35,2,4,1,90000.0,1,2
+55,Male,Oceania,Technology,Remote,53,3,3,3,50000.0,0,5
+42,Male,South America,Technology,Onsite,51,2,4,3,90000.0,1,6
+63,Male,Europe,Manufacturing,Onsite,49,2,4,1,90000.0,1,0
+43,Female,Asia,Professional Services,Onsite,60,3,5,4,110000.0,2,5
+45,Female,South America,Professional Services,Onsite,43,3,3,2,110000.0,3,2
+22,Male,Africa,Healthcare,Onsite,59,2,5,2,90000.0,1,4
+58,Female,North America,Technology,Hybrid,50,2,3,3,70000.0,4,3
+26,Male,Africa,Technology,Hybrid,65,1,4,2,110000.0,0,6
+33,Female,Asia,Manufacturing,Onsite,50,1,4,1,50000.0,3,5
+32,Female,Europe,Professional Services,Onsite,46,2,3,2,90000.0,0,0
+28,Female,Asia,Technology,Hybrid,41,3,4,3,120000.0,0,5
+49,Female,North America,Technology,Hybrid,49,1,3,2,90000.0,1,3
+52,Male,Oceania,Technology,Onsite,54,1,2,2,70000.0,2,4
+22,Male,South America,Education,Onsite,61,2,2,4,110000.0,2,4
+42,Male,South America,Healthcare,Hybrid,58,2,4,3,90000.0,2,0
+63,Male,North America,Technology,Hybrid,43,3,2,1,50000.0,1,6
+25,Female,Oceania,Technology,Remote,50,2,5,3,50000.0,4,0
+63,Female,Oceania,Finance,Remote,36,3,5,3,50000.0,1,0
+45,Female,Oceania,Retail,Onsite,54,3,1,1,120000.0,2,6
+56,Female,Asia,Healthcare,Hybrid,62,2,5,3,70000.0,2,2
+53,Female,Europe,Finance,Onsite,48,1,5,2,110000.0,2,0
+60,Male,Oceania,Technology,Onsite,56,2,1,2,90000.0,2,0
+53,Female,Africa,Healthcare,Onsite,35,3,4,1,70000.0,3,3
+61,Female,South America,Manufacturing,Remote,62,2,3,2,90000.0,1,6
+47,Male,Asia,Education,Hybrid,48,3,4,3,110000.0,2,0
+44,Male,South America,Professional Services,Hybrid,35,2,4,1,70000.0,0,2
+38,Male,Oceania,Education,Onsite,57,2,4,2,120000.0,3,4
+65,Female,Europe,Technology,Remote,47,3,2,2,70000.0,4,0
+24,Male,Asia,Healthcare,Onsite,55,1,2,2,70000.0,1,0
+63,Female,Asia,Technology,Onsite,38,3,3,1,110000.0,4,6
+53,Female,Asia,Marketing,Remote,52,3,3,3,120000.0,2,1
+63,Male,South America,Professional Services,Hybrid,46,2,4,2,90000.0,4,0
+44,Male,Europe,Education,Hybrid,36,3,2,3,70000.0,1,0
+37,Female,Oceania,Finance,Hybrid,62,3,4,3,90000.0,0,4
+54,Male,Europe,Education,Hybrid,65,2,1,3,110000.0,1,3
+42,Male,Asia,Education,Onsite,51,2,3,3,120000.0,1,3
+47,Female,Africa,Customer Service,Onsite,53,1,1,4,70000.0,1,6
+59,Female,Oceania,Finance,Hybrid,60,2,3,4,70000.0,4,5
+61,Male,Africa,Technology,Hybrid,50,2,1,4,90000.0,2,3
+51,Female,South America,Technology,Remote,42,2,2,4,70000.0,3,4
+40,Female,North America,Education,Remote,37,2,2,4,50000.0,1,4
+59,Female,North America,Professional Services,Onsite,48,3,4,2,70000.0,3,5
+44,Female,South America,Professional Services,Onsite,53,3,1,1,70000.0,3,0
+50,Female,Europe,Education,Onsite,43,3,5,1,50000.0,4,5
+60,Female,Europe,Technology,Hybrid,44,3,5,3,90000.0,1,5
+43,Male,Europe,Professional Services,Hybrid,42,2,3,2,90000.0,2,1
+50,Male,Europe,Education,Hybrid,42,2,2,4,50000.0,2,5
+23,Female,Asia,Healthcare,Hybrid,41,3,5,1,70000.0,3,4
+42,Male,Oceania,Retail,Remote,51,2,3,4,50000.0,1,0
+31,Female,Asia,Technology,Onsite,47,2,3,1,90000.0,2,4
+52,Female,Asia,Education,Hybrid,54,2,4,4,70000.0,2,0
+54,Female,Oceania,Education,Onsite,49,2,3,2,50000.0,1,3
+22,Male,Africa,Technology,Hybrid,51,3,3,3,70000.0,1,6
+43,Male,Europe,Healthcare,Onsite,49,1,2,2,70000.0,3,4
+32,Male,Oceania,Professional Services,Onsite,57,3,4,4,50000.0,1,6
+33,Female,Oceania,Technology,Hybrid,43,2,4,2,90000.0,2,1
+26,Male,Europe,Manufacturing,Remote,41,2,3,3,110000.0,3,5
+64,Female,Africa,Customer Service,Hybrid,51,3,5,3,70000.0,3,0
+57,Female,Africa,Professional Services,Onsite,55,1,1,2,50000.0,2,4
+43,Male,Africa,Manufacturing,Hybrid,63,2,2,3,90000.0,2,0
+36,Male,North America,Professional Services,Onsite,52,1,3,1,70000.0,2,0
+50,Female,Europe,Healthcare,Onsite,53,1,4,2,70000.0,3,4
+47,Male,South America,Professional Services,Remote,55,3,3,5,70000.0,2,5
+38,Male,Oceania,Retail,Hybrid,63,2,3,2,70000.0,3,1
+49,Female,Africa,Technology,Onsite,36,1,5,3,50000.0,2,0
+43,Female,South America,Retail,Remote,48,2,3,4,90000.0,2,0
+56,Female,North America,Healthcare,Onsite,52,1,3,2,90000.0,3,3
+58,Male,Asia,Professional Services,Onsite,48,3,2,3,70000.0,2,0
+23,Male,South America,Professional Services,Onsite,61,3,5,2,120000.0,3,0
+46,Female,North America,Finance,Onsite,54,2,3,3,110000.0,1,0
+27,Male,Europe,Marketing,Onsite,40,1,5,1,90000.0,5,2
+38,Female,Oceania,Manufacturing,Hybrid,43,3,3,3,90000.0,3,5
+63,Female,Asia,Finance,Onsite,37,3,4,1,120000.0,2,5
+55,Male,Asia,Marketing,Onsite,40,2,4,1,90000.0,2,4
+34,Male,South America,Finance,Onsite,43,2,3,5,50000.0,0,3
+57,Male,Europe,Healthcare,Onsite,43,2,5,1,70000.0,1,5
+61,Male,South America,Finance,Hybrid,52,3,2,2,120000.0,1,2
+26,Male,Oceania,Professional Services,Onsite,43,1,4,1,70000.0,2,2
+43,Male,Asia,Professional Services,Hybrid,58,1,4,3,90000.0,2,0
+35,Female,Europe,Professional Services,Onsite,42,1,3,3,110000.0,4,5
+35,Male,North America,Manufacturing,Onsite,38,3,1,3,90000.0,3,5
+44,Female,Oceania,Professional Services,Onsite,64,2,3,3,70000.0,1,3
+26,Male,South America,Marketing,Remote,56,2,1,3,90000.0,1,1
+46,Female,Europe,Technology,Hybrid,41,2,4,3,50000.0,2,1
+59,Female,Africa,Technology,Remote,38,2,3,4,110000.0,2,2
+61,Female,South America,Healthcare,Hybrid,49,3,4,2,50000.0,2,0
+41,Male,Asia,Technology,Onsite,50,1,5,1,70000.0,1,1
+65,Male,South America,Professional Services,Hybrid,40,3,3,4,90000.0,3,6
+40,Female,Africa,Professional Services,Hybrid,65,1,4,2,90000.0,3,4
+44,Male,North America,Finance,Hybrid,53,3,3,4,70000.0,1,4
+49,Male,Oceania,Professional Services,Remote,49,2,2,4,110000.0,3,1
+62,Female,Asia,Professional Services,Hybrid,59,3,2,4,70000.0,2,4
+30,Male,Asia,Customer Service,Remote,52,3,5,4,90000.0,2,3
+42,Male,Oceania,Education,Hybrid,38,2,2,3,110000.0,2,3
+25,Female,Europe,Technology,Remote,47,2,4,3,90000.0,2,4
+55,Female,Europe,Finance,Onsite,55,3,5,2,50000.0,3,5
+27,Male,Africa,Finance,Hybrid,56,2,2,2,70000.0,1,4
+65,Female,North America,Professional Services,Onsite,46,1,2,3,50000.0,3,4
+28,Female,South America,Customer Service,Onsite,61,3,3,2,70000.0,2,4
+55,Female,Asia,Professional Services,Onsite,37,3,3,3,70000.0,2,0
+36,Male,Asia,Healthcare,Onsite,41,2,3,2,90000.0,2,4
+23,Male,Asia,Technology,Hybrid,62,2,3,1,70000.0,1,6
+58,Female,South America,Manufacturing,Onsite,48,2,1,1,90000.0,3,1
+59,Female,Oceania,Professional Services,Onsite,58,2,1,4,90000.0,1,1
+29,Male,Europe,Retail,Onsite,46,1,3,2,110000.0,3,3
+23,Female,Africa,Technology,Remote,54,3,3,4,50000.0,2,3
+54,Male,Europe,Healthcare,Onsite,45,1,1,1,90000.0,1,3
+61,Male,Europe,Retail,Onsite,36,2,2,3,90000.0,3,6
+64,Male,Africa,Technology,Onsite,42,2,4,4,50000.0,1,1
+23,Female,Africa,Marketing,Onsite,59,1,4,4,70000.0,2,1
+42,Male,South America,Manufacturing,Remote,65,3,3,2,120000.0,3,6
+23,Female,Asia,Professional Services,Hybrid,36,1,4,1,70000.0,2,6
+29,Female,Europe,Technology,Onsite,54,1,2,1,70000.0,2,0
+46,Male,North America,Customer Service,Onsite,56,3,4,4,90000.0,2,6
+44,Male,Asia,Marketing,Onsite,56,1,2,1,90000.0,4,6
+23,Male,Oceania,Manufacturing,Hybrid,62,3,1,4,90000.0,2,0
+42,Female,Oceania,Education,Onsite,65,2,5,1,70000.0,2,4
+62,Male,South America,Customer Service,Remote,53,3,2,2,90000.0,3,2
+46,Female,South America,Marketing,Onsite,63,1,5,3,50000.0,0,4
+31,Male,South America,Marketing,Onsite,53,2,3,1,90000.0,3,5
+23,Female,Oceania,Technology,Onsite,60,3,1,3,90000.0,2,1
+45,Female,Asia,Customer Service,Onsite,51,3,3,1,70000.0,1,2
+62,Female,Africa,Technology,Onsite,41,1,1,1,90000.0,1,6
+63,Male,Oceania,Education,Onsite,37,2,3,2,110000.0,3,3
+44,Female,Oceania,Professional Services,Hybrid,40,1,2,2,110000.0,0,4
+36,Female,Oceania,Education,Hybrid,62,2,3,2,90000.0,2,6
+65,Male,Africa,Marketing,Onsite,43,3,5,3,120000.0,0,1
+24,Male,Africa,Technology,Hybrid,48,2,2,4,110000.0,4,4
+50,Male,Asia,Education,Onsite,61,2,3,2,90000.0,3,4
+58,Male,North America,Marketing,Onsite,48,3,2,2,70000.0,2,0
+63,Male,Europe,Professional Services,Onsite,63,3,4,4,90000.0,1,6
+29,Female,Asia,Customer Service,Onsite,36,2,3,1,70000.0,0,4
+31,Male,South America,Education,Hybrid,46,2,3,3,120000.0,2,1
+34,Male,South America,Professional Services,Onsite,47,1,3,2,70000.0,4,2
+43,Male,Europe,Professional Services,Onsite,50,2,5,1,70000.0,2,5
+40,Male,Oceania,Retail,Hybrid,65,3,3,4,110000.0,2,6
+52,Female,North America,Retail,Onsite,46,1,4,3,50000.0,3,3
+37,Male,Africa,Marketing,Hybrid,57,2,4,3,50000.0,2,5
+44,Female,Oceania,Retail,Remote,49,2,5,3,70000.0,2,2
+54,Female,Europe,Retail,Onsite,38,2,5,4,90000.0,3,4
+25,Male,Asia,Professional Services,Onsite,56,3,3,1,110000.0,0,0
+45,Female,South America,Professional Services,Onsite,49,3,5,2,70000.0,1,0
+38,Female,Asia,Healthcare,Hybrid,43,2,3,1,70000.0,1,1
+49,Female,Europe,Professional Services,Onsite,37,2,3,2,90000.0,3,2
+29,Female,Oceania,Healthcare,Onsite,44,1,3,5,90000.0,2,0
+64,Female,South America,Education,Hybrid,38,2,4,2,110000.0,2,0
+43,Female,North America,Finance,Onsite,56,3,3,4,70000.0,2,6
+31,Male,Asia,Finance,Onsite,50,3,3,1,90000.0,1,0
+26,Male,Asia,Retail,Remote,38,3,5,2,110000.0,2,3
+42,Female,South America,Customer Service,Onsite,57,2,3,2,90000.0,1,2
+36,Male,South America,Manufacturing,Remote,57,1,2,3,50000.0,3,1
+60,Male,South America,Finance,Hybrid,65,3,1,2,90000.0,3,3
+29,Male,Europe,Finance,Onsite,42,2,4,3,110000.0,2,6
+43,Male,Oceania,Retail,Onsite,63,3,3,1,90000.0,3,0
+51,Female,Europe,Professional Services,Hybrid,36,1,4,4,50000.0,1,0
+57,Female,Africa,Healthcare,Onsite,57,2,3,1,50000.0,1,6
+46,Male,North America,Technology,Remote,53,2,3,4,90000.0,3,4
+33,Male,South America,Technology,Onsite,52,1,3,2,70000.0,2,4
+39,Male,Europe,Professional Services,Onsite,53,2,2,1,90000.0,3,3
+26,Male,North America,Healthcare,Remote,44,3,2,5,90000.0,1,3
+25,Female,Europe,Marketing,Remote,53,3,3,2,110000.0,1,0
+33,Male,North America,Finance,Onsite,44,2,5,1,110000.0,3,5
+50,Female,South America,Technology,Remote,65,3,3,3,90000.0,0,0
+35,Female,South America,Technology,Remote,36,3,2,3,110000.0,1,0
+26,Male,Asia,Professional Services,Onsite,55,2,3,2,50000.0,0,4
+37,Female,Oceania,Technology,Hybrid,44,1,4,3,70000.0,2,4
+25,Female,Europe,Technology,Hybrid,39,2,5,4,70000.0,4,5
+25,Female,Europe,Healthcare,Onsite,38,3,4,1,90000.0,1,3
+37,Male,Africa,Retail,Onsite,62,2,2,3,120000.0,2,0
+65,Female,Africa,Manufacturing,Onsite,45,3,5,1,50000.0,1,3
+27,Male,Asia,Retail,Hybrid,44,3,5,3,50000.0,3,6
+38,Male,South America,Education,Onsite,45,2,1,5,90000.0,0,4
+55,Female,Europe,Education,Onsite,62,3,4,2,50000.0,4,2
+25,Male,Oceania,Professional Services,Hybrid,45,3,1,4,90000.0,0,0
+51,Female,Europe,Education,Onsite,64,1,4,5,70000.0,1,0
+36,Female,Europe,Healthcare,Hybrid,57,2,3,3,110000.0,2,4
+60,Female,South America,Technology,Hybrid,55,2,2,2,70000.0,2,1
+54,Male,North America,Technology,Remote,44,2,1,4,70000.0,1,0
+53,Male,Oceania,Technology,Hybrid,38,2,1,1,70000.0,3,1
+58,Male,Africa,Manufacturing,Remote,53,3,1,4,90000.0,2,0
+65,Female,Africa,Technology,Onsite,59,1,3,5,90000.0,3,5
+40,Female,North America,Technology,Onsite,35,1,2,3,50000.0,2,6
+57,Male,North America,Technology,Hybrid,60,1,4,1,70000.0,1,0
+34,Male,Oceania,Professional Services,Onsite,47,2,2,3,50000.0,3,3
+30,Female,Europe,Retail,Onsite,57,3,2,3,70000.0,1,1
+53,Female,North America,Marketing,Hybrid,55,3,4,3,110000.0,2,4
+26,Female,Africa,Finance,Onsite,49,3,5,3,70000.0,2,3
+64,Female,Oceania,Marketing,Onsite,40,2,1,3,50000.0,0,5
+24,Male,Asia,Retail,Hybrid,55,2,5,4,70000.0,2,1
+58,Female,South America,Finance,Onsite,60,2,1,2,70000.0,2,0
+43,Female,Asia,Professional Services,Onsite,41,1,3,3,50000.0,1,0
+23,Male,Africa,Customer Service,Hybrid,43,1,2,5,90000.0,2,6
+26,Male,Oceania,Education,Onsite,37,3,1,1,50000.0,1,1
+29,Female,Oceania,Marketing,Hybrid,50,3,3,1,50000.0,1,3
+57,Female,Africa,Retail,Remote,53,3,5,5,90000.0,1,0
+30,Male,South America,Marketing,Hybrid,51,2,4,2,70000.0,2,1
+31,Male,Oceania,Finance,Remote,46,1,3,5,90000.0,2,3
+22,Female,Europe,Finance,Onsite,40,3,3,1,90000.0,0,2
+43,Female,Africa,Manufacturing,Hybrid,39,2,3,2,90000.0,1,5
+60,Female,Asia,Technology,Onsite,37,2,4,1,90000.0,2,1
+56,Male,North America,Technology,Hybrid,58,2,3,4,120000.0,2,5
+62,Male,South America,Professional Services,Onsite,53,3,4,3,70000.0,1,3
+39,Female,Africa,Manufacturing,Remote,44,2,2,3,50000.0,2,1
+63,Male,Europe,Technology,Onsite,64,1,3,3,110000.0,4,5
+48,Female,Oceania,Finance,Onsite,44,1,4,5,110000.0,2,6
+30,Male,Europe,Professional Services,Remote,43,2,4,5,110000.0,0,3
+43,Male,Asia,Customer Service,Remote,61,2,5,3,50000.0,1,5
+55,Female,Africa,Education,Onsite,54,1,2,3,120000.0,2,6
+48,Male,Asia,Professional Services,Remote,64,3,3,4,70000.0,2,1
+61,Male,North America,Marketing,Onsite,42,3,1,2,90000.0,1,6
+53,Male,Africa,Marketing,Onsite,62,1,3,2,70000.0,1,6
+65,Female,South America,Technology,Remote,35,3,4,4,50000.0,2,3
+29,Male,Asia,Technology,Remote,39,2,5,4,50000.0,4,0
+38,Female,North America,Healthcare,Remote,61,1,5,4,90000.0,1,0
+25,Female,South America,Manufacturing,Hybrid,55,3,1,3,90000.0,3,3
+41,Male,Europe,Manufacturing,Remote,53,2,1,4,70000.0,2,0
+43,Male,Oceania,Technology,Remote,63,3,3,5,110000.0,1,6
+45,Female,South America,Professional Services,Remote,36,3,3,4,50000.0,1,1
+58,Male,Europe,Professional Services,Remote,61,3,3,4,90000.0,1,3
+62,Male,Africa,Technology,Hybrid,58,2,2,3,70000.0,4,2
+39,Female,Asia,Manufacturing,Hybrid,35,2,3,3,90000.0,1,2
+56,Male,Asia,Technology,Remote,40,3,3,5,90000.0,4,0
+26,Male,Oceania,Professional Services,Hybrid,57,2,1,3,90000.0,2,5
+48,Male,Europe,Professional Services,Remote,55,3,2,4,50000.0,2,3
+45,Female,South America,Manufacturing,Remote,36,2,3,4,50000.0,0,1
+60,Female,Europe,Healthcare,Onsite,54,2,3,2,120000.0,2,3
+64,Female,Europe,Healthcare,Hybrid,53,2,2,3,90000.0,3,5
+30,Female,Europe,Customer Service,Onsite,37,3,4,2,110000.0,2,0
+62,Male,Oceania,Healthcare,Remote,62,2,3,1,70000.0,3,4
+26,Female,Europe,Professional Services,Onsite,45,3,4,1,50000.0,4,0
+39,Female,Oceania,Technology,Onsite,48,3,2,2,110000.0,1,1
+38,Male,Oceania,Manufacturing,Onsite,37,1,1,2,90000.0,3,0
+59,Female,Europe,Healthcare,Onsite,57,1,2,1,90000.0,1,0
+32,Male,South America,Manufacturing,Onsite,36,2,3,2,50000.0,2,6
+36,Male,South America,Marketing,Onsite,44,3,4,4,70000.0,3,6
+52,Male,Europe,Marketing,Hybrid,50,2,5,4,70000.0,1,0
+48,Male,Europe,Healthcare,Onsite,59,2,3,3,90000.0,2,6
+49,Male,North America,Healthcare,Onsite,58,2,2,5,70000.0,2,6
+32,Male,Asia,Professional Services,Onsite,38,2,4,2,110000.0,2,5
+46,Male,Europe,Healthcare,Remote,56,2,4,4,70000.0,3,0
+24,Male,Africa,Manufacturing,Onsite,38,3,1,2,90000.0,1,4
+37,Male,Africa,Retail,Onsite,56,3,3,2,90000.0,3,5
+53,Female,Europe,Manufacturing,Hybrid,62,3,4,3,90000.0,2,0
+39,Male,South America,Professional Services,Hybrid,48,2,1,1,70000.0,2,4
+48,Male,Oceania,Healthcare,Hybrid,38,2,3,2,70000.0,4,1
+35,Male,South America,Manufacturing,Hybrid,63,3,3,3,90000.0,1,1
+54,Male,Africa,Education,Hybrid,56,2,2,4,90000.0,2,1
+52,Male,Africa,Technology,Onsite,53,1,2,3,50000.0,2,0
+24,Female,Europe,Professional Services,Hybrid,43,3,3,2,70000.0,2,6
+65,Female,North America,Manufacturing,Remote,39,2,3,5,110000.0,2,6
+51,Male,Africa,Marketing,Onsite,35,1,2,1,70000.0,3,1
+53,Female,North America,Retail,Onsite,36,3,4,2,70000.0,0,3
+34,Male,Asia,Customer Service,Onsite,64,1,3,4,90000.0,2,0
+29,Female,Europe,Manufacturing,Hybrid,47,2,3,3,90000.0,2,3
+52,Female,North America,Professional Services,Onsite,50,3,1,2,70000.0,3,2
+54,Female,Asia,Education,Remote,57,3,4,3,70000.0,2,2
+44,Male,Africa,Education,Onsite,52,1,4,3,70000.0,2,0
+57,Male,Oceania,Marketing,Hybrid,55,3,4,1,120000.0,3,1
+44,Male,Europe,Finance,Onsite,46,2,5,4,90000.0,1,6
+53,Female,Europe,Education,Hybrid,58,2,3,1,50000.0,2,2
+35,Male,North America,Education,Hybrid,49,1,2,4,70000.0,2,0
+65,Female,Africa,Retail,Hybrid,55,3,3,4,110000.0,2,3
+51,Male,Europe,Marketing,Onsite,41,2,3,4,70000.0,2,2
+27,Male,Oceania,Finance,Hybrid,54,2,3,4,90000.0,2,2
+28,Female,Europe,Retail,Onsite,61,1,5,5,90000.0,2,3
+60,Male,Africa,Professional Services,Hybrid,44,2,4,1,90000.0,2,4
+56,Female,Europe,Finance,Onsite,35,2,3,2,90000.0,3,0
+40,Female,Europe,Technology,Remote,45,1,3,3,90000.0,0,1
+45,Female,South America,Technology,Remote,41,3,4,5,70000.0,4,0
+47,Male,Asia,Customer Service,Hybrid,39,3,5,3,90000.0,4,5
+28,Female,Oceania,Technology,Onsite,48,2,2,1,50000.0,2,1
+37,Male,Europe,Technology,Onsite,49,1,5,2,70000.0,3,3
+60,Female,South America,Professional Services,Hybrid,35,3,2,2,70000.0,3,0
+38,Male,Africa,Marketing,Onsite,60,1,3,1,90000.0,2,6
+62,Male,Africa,Professional Services,Onsite,37,3,4,1,90000.0,1,2
+26,Male,Africa,Technology,Onsite,46,3,3,4,70000.0,2,0
+46,Male,South America,Marketing,Onsite,44,3,5,1,50000.0,1,4
+56,Male,Africa,Professional Services,Onsite,54,2,3,1,90000.0,1,1
+27,Male,North America,Manufacturing,Onsite,38,2,1,4,70000.0,2,2
+45,Female,Oceania,Education,Remote,39,3,3,1,50000.0,2,0
+22,Male,Europe,Technology,Remote,35,3,2,3,50000.0,1,5
+36,Male,Asia,Professional Services,Onsite,46,2,3,2,110000.0,3,4
+56,Male,Asia,Retail,Hybrid,45,3,2,4,70000.0,1,3
+57,Male,South America,Education,Onsite,35,1,1,3,70000.0,2,6
+57,Male,South America,Professional Services,Remote,60,3,1,4,70000.0,1,0
+49,Male,Asia,Education,Hybrid,38,2,1,3,90000.0,2,5
+30,Female,Africa,Retail,Onsite,37,3,3,2,50000.0,2,0
+27,Female,Oceania,Technology,Hybrid,52,3,1,1,120000.0,0,5
+24,Female,South America,Finance,Onsite,57,3,1,2,70000.0,2,0
+35,Male,Africa,Education,Remote,47,3,3,1,90000.0,3,1
+27,Female,Asia,Technology,Remote,64,2,3,3,70000.0,2,6
+36,Female,South America,Professional Services,Hybrid,44,3,1,4,70000.0,2,5
+48,Female,North America,Finance,Onsite,53,3,3,2,70000.0,3,0
+53,Male,Oceania,Manufacturing,Remote,46,2,5,5,70000.0,2,0
+56,Male,Africa,Education,Onsite,38,3,3,1,90000.0,3,5
+59,Male,Oceania,Technology,Hybrid,41,3,4,3,90000.0,2,0
+22,Male,Asia,Professional Services,Hybrid,39,3,3,3,70000.0,1,3
+22,Female,Africa,Retail,Onsite,65,1,4,2,70000.0,2,6
+54,Female,North America,Manufacturing,Remote,41,2,2,4,50000.0,2,6
+35,Male,Oceania,Professional Services,Remote,60,2,1,3,70000.0,2,4
+65,Female,Europe,Professional Services,Remote,49,2,4,4,90000.0,0,0
+65,Female,Africa,Retail,Onsite,62,2,5,2,70000.0,0,1
+22,Male,Africa,Customer Service,Onsite,43,1,4,2,70000.0,1,4
+52,Female,South America,Healthcare,Remote,42,3,2,4,70000.0,1,6
+46,Male,Africa,Technology,Onsite,55,2,1,1,110000.0,3,4
+41,Male,South America,Healthcare,Onsite,42,1,3,1,90000.0,3,4
+29,Female,Africa,Technology,Remote,50,1,3,2,110000.0,1,3
+43,Female,Asia,Marketing,Onsite,65,2,5,2,90000.0,2,5
+64,Male,Asia,Manufacturing,Hybrid,49,2,3,4,70000.0,2,6
+57,Male,Europe,Technology,Hybrid,50,2,3,4,70000.0,2,5
+38,Female,South America,Professional Services,Onsite,40,1,4,1,90000.0,2,4
+34,Female,Oceania,Customer Service,Remote,47,2,3,3,70000.0,3,5
+63,Female,North America,Education,Onsite,44,1,2,2,70000.0,3,4
+40,Male,Europe,Finance,Onsite,40,3,2,3,70000.0,1,2
+25,Female,North America,Professional Services,Onsite,57,2,1,1,70000.0,1,5
+51,Female,South America,Professional Services,Remote,54,2,3,3,50000.0,1,6
+49,Male,North America,Manufacturing,Onsite,50,2,4,3,110000.0,1,0
+41,Male,Oceania,Technology,Remote,41,3,1,4,120000.0,2,4
+54,Male,South America,Manufacturing,Onsite,52,2,3,2,70000.0,1,1
+53,Male,Asia,Manufacturing,Remote,65,2,5,3,50000.0,3,6
+54,Male,South America,Manufacturing,Onsite,40,3,5,2,120000.0,2,4
+22,Female,Oceania,Professional Services,Remote,44,3,3,4,70000.0,2,2
+62,Female,North America,Retail,Onsite,62,1,3,3,70000.0,3,0
+28,Male,Oceania,Education,Onsite,43,2,3,2,70000.0,2,0
+55,Female,North America,Professional Services,Onsite,36,2,4,2,50000.0,2,2
+55,Female,Europe,Finance,Onsite,58,2,3,3,90000.0,1,4
+54,Female,South America,Professional Services,Onsite,50,3,4,2,90000.0,2,0
+33,Female,South America,Professional Services,Onsite,53,2,3,1,110000.0,2,3
+46,Female,South America,Healthcare,Hybrid,55,3,1,3,90000.0,2,1
+53,Male,South America,Finance,Onsite,36,2,3,1,50000.0,2,5
+29,Female,North America,Technology,Hybrid,43,3,3,3,70000.0,2,0
+59,Female,Africa,Technology,Hybrid,46,3,3,3,110000.0,2,2
+55,Female,Europe,Retail,Hybrid,47,3,1,2,110000.0,2,4
+51,Female,Europe,Technology,Remote,60,3,3,3,50000.0,1,3
+62,Male,South America,Customer Service,Hybrid,41,2,3,3,120000.0,2,3
+49,Female,North America,Education,Hybrid,44,1,1,1,70000.0,3,0
+65,Female,Africa,Customer Service,Onsite,57,1,5,4,70000.0,2,0
+62,Female,North America,Professional Services,Onsite,42,2,5,3,110000.0,2,3
+32,Male,Africa,Professional Services,Remote,54,2,5,4,70000.0,2,5
+53,Male,Europe,Manufacturing,Onsite,38,1,4,4,110000.0,0,0
+40,Male,Africa,Healthcare,Hybrid,57,1,4,1,90000.0,2,1
+58,Male,Africa,Professional Services,Onsite,39,1,3,3,110000.0,1,5
+58,Male,North America,Customer Service,Onsite,65,3,5,2,90000.0,0,2
+31,Female,Europe,Finance,Onsite,63,3,3,1,70000.0,2,4
+44,Female,South America,Finance,Onsite,54,1,2,2,70000.0,2,3
+47,Female,Asia,Finance,Remote,44,2,4,4,90000.0,1,0
+47,Female,Asia,Professional Services,Onsite,49,3,3,2,70000.0,2,6
+41,Male,Asia,Healthcare,Hybrid,42,3,4,2,110000.0,2,1
+56,Male,Asia,Professional Services,Hybrid,50,2,3,4,90000.0,1,3
+22,Female,Africa,Customer Service,Onsite,37,1,5,3,70000.0,3,0
+48,Female,North America,Healthcare,Hybrid,45,1,4,3,50000.0,2,5
+61,Female,North America,Professional Services,Onsite,39,3,3,2,50000.0,3,0
+27,Male,Africa,Finance,Onsite,39,3,1,2,120000.0,2,0
+37,Female,Africa,Retail,Hybrid,57,1,3,5,90000.0,0,5
+48,Male,North America,Professional Services,Hybrid,51,2,2,3,110000.0,3,1
+32,Female,Europe,Customer Service,Hybrid,39,2,4,3,120000.0,1,2
+35,Male,North America,Technology,Remote,62,1,2,2,90000.0,1,0
+27,Female,South America,Education,Remote,58,2,3,5,90000.0,2,5
+65,Male,Africa,Education,Onsite,49,2,3,2,90000.0,3,0
+62,Female,Asia,Marketing,Hybrid,42,2,3,4,110000.0,1,0
+47,Female,North America,Technology,Remote,35,1,3,4,50000.0,2,1
+60,Female,North America,Professional Services,Onsite,51,1,5,5,90000.0,3,6
+46,Male,Europe,Technology,Remote,45,1,5,4,70000.0,3,0
+25,Male,Europe,Professional Services,Remote,63,3,5,4,110000.0,2,3
+36,Male,Africa,Technology,Hybrid,47,1,4,1,90000.0,2,0
+56,Male,Oceania,Finance,Onsite,52,2,2,1,90000.0,2,2
+32,Male,Asia,Technology,Remote,49,3,1,5,50000.0,1,4
+52,Male,Asia,Technology,Hybrid,60,2,3,3,70000.0,1,4
+57,Female,South America,Healthcare,Onsite,47,3,2,3,70000.0,2,5
+46,Male,Africa,Finance,Onsite,63,2,3,2,50000.0,1,6
+48,Male,South America,Education,Onsite,57,2,1,1,70000.0,3,0
+49,Female,North America,Education,Hybrid,52,3,4,1,70000.0,1,2
+62,Male,Asia,Customer Service,Onsite,41,2,3,3,70000.0,2,1
+49,Female,South America,Professional Services,Onsite,46,1,3,1,70000.0,2,6
+30,Male,Asia,Professional Services,Onsite,52,2,3,5,110000.0,2,3
+44,Female,Europe,Healthcare,Hybrid,51,1,5,3,70000.0,0,3
+24,Female,Asia,Technology,Remote,64,2,5,3,70000.0,2,1
+47,Female,Oceania,Finance,Onsite,46,3,2,5,110000.0,0,6
+56,Female,Oceania,Manufacturing,Onsite,53,1,3,2,70000.0,1,1
+53,Female,Europe,Education,Hybrid,45,3,4,2,70000.0,2,0
+42,Female,Oceania,Manufacturing,Hybrid,64,3,3,2,90000.0,3,1
+43,Female,Africa,Technology,Hybrid,54,2,3,4,70000.0,2,0
+47,Male,North America,Marketing,Onsite,36,2,5,2,50000.0,3,5
+60,Female,South America,Customer Service,Remote,44,3,4,4,70000.0,3,1
+60,Female,Oceania,Education,Remote,37,3,5,3,110000.0,2,0
+45,Male,Africa,Technology,Remote,41,2,2,3,120000.0,3,6
+28,Female,North America,Finance,Hybrid,38,2,2,2,90000.0,2,1
+49,Female,South America,Retail,Hybrid,50,3,3,2,90000.0,1,0
+55,Female,North America,Finance,Remote,60,2,3,3,90000.0,1,3
+65,Male,Oceania,Manufacturing,Remote,56,3,5,4,70000.0,4,2
+62,Female,Oceania,Customer Service,Hybrid,57,1,4,3,90000.0,2,0
+35,Female,Europe,Professional Services,Onsite,42,3,3,2,90000.0,1,5
+65,Female,Europe,Technology,Remote,56,2,5,2,70000.0,2,0
+24,Male,Asia,Education,Onsite,55,3,3,3,110000.0,3,6
+50,Female,Africa,Professional Services,Remote,56,1,4,4,90000.0,1,6
+33,Female,Asia,Professional Services,Onsite,37,3,4,1,90000.0,2,4
+28,Male,Asia,Manufacturing,Hybrid,48,1,2,2,50000.0,2,4
+64,Female,Asia,Technology,Hybrid,55,3,3,2,70000.0,0,5
+62,Male,South America,Customer Service,Onsite,63,2,2,1,90000.0,2,6
+43,Female,South America,Manufacturing,Onsite,51,1,2,2,70000.0,1,0
+37,Female,South America,Professional Services,Onsite,59,1,2,3,70000.0,2,6
+36,Male,Oceania,Manufacturing,Hybrid,65,2,2,2,90000.0,1,2
+65,Female,Africa,Customer Service,Onsite,38,3,3,3,120000.0,2,3
+64,Female,South America,Technology,Hybrid,39,2,4,3,90000.0,4,0
+60,Female,Africa,Customer Service,Remote,54,2,3,1,90000.0,1,1
+52,Female,South America,Manufacturing,Onsite,43,1,2,2,110000.0,3,0
+55,Female,Oceania,Professional Services,Onsite,39,2,3,3,70000.0,2,6
+42,Female,South America,Professional Services,Hybrid,42,3,5,2,70000.0,4,4
+42,Male,South America,Professional Services,Remote,35,2,1,5,50000.0,2,0
+48,Male,North America,Healthcare,Onsite,36,1,3,4,70000.0,1,1
+62,Female,South America,Finance,Remote,53,3,2,5,50000.0,4,4
+44,Male,South America,Professional Services,Hybrid,45,2,5,3,70000.0,0,5
+43,Female,South America,Healthcare,Hybrid,61,2,1,4,50000.0,4,0
+34,Female,North America,Retail,Onsite,47,2,3,5,70000.0,2,2
+44,Male,Europe,Marketing,Remote,46,3,4,5,50000.0,3,4
+35,Male,Asia,Marketing,Onsite,35,1,4,3,50000.0,3,2
+55,Female,Africa,Finance,Remote,49,3,2,3,90000.0,3,5
+27,Male,Europe,Finance,Onsite,47,3,4,3,90000.0,3,2
+53,Male,Africa,Education,Hybrid,37,2,4,2,110000.0,3,3
+33,Female,Oceania,Professional Services,Hybrid,49,2,3,3,90000.0,2,0
+65,Female,North America,Education,Onsite,59,2,3,3,70000.0,1,0
+32,Male,Africa,Marketing,Hybrid,65,1,3,2,90000.0,2,5
+65,Male,Asia,Customer Service,Onsite,62,1,3,2,120000.0,2,6
+41,Male,South America,Technology,Onsite,52,2,4,2,50000.0,1,4
+27,Female,South America,Professional Services,Onsite,64,1,3,1,90000.0,2,6
+39,Male,North America,Marketing,Onsite,65,2,2,2,110000.0,0,6
+63,Male,Europe,Finance,Onsite,54,2,3,3,70000.0,2,3
+24,Male,Europe,Education,Onsite,37,1,5,3,90000.0,1,5
+42,Male,Africa,Professional Services,Onsite,48,2,3,3,110000.0,3,3
+33,Male,Asia,Technology,Hybrid,35,2,2,2,90000.0,2,6
+38,Male,Africa,Customer Service,Remote,61,1,4,4,70000.0,0,1
+56,Male,Europe,Marketing,Hybrid,63,3,3,4,110000.0,2,0
+57,Male,Africa,Professional Services,Hybrid,64,3,3,3,90000.0,1,5
+59,Female,Africa,Finance,Onsite,57,1,4,4,70000.0,2,1
+39,Female,North America,Technology,Hybrid,62,2,3,4,90000.0,1,6
+48,Male,South America,Technology,Remote,36,2,2,2,90000.0,1,6
+59,Male,Europe,Finance,Onsite,47,3,4,5,110000.0,0,0
+27,Female,Asia,Healthcare,Onsite,59,3,3,1,110000.0,2,0
+46,Male,Asia,Customer Service,Onsite,44,3,4,1,90000.0,3,4
+37,Female,Asia,Finance,Hybrid,49,3,1,1,90000.0,1,6
+57,Male,Oceania,Technology,Remote,38,1,2,2,90000.0,3,4
+24,Male,Africa,Customer Service,Onsite,48,3,4,3,120000.0,1,2
+52,Male,Africa,Healthcare,Hybrid,62,1,2,3,120000.0,2,1
+34,Female,Europe,Marketing,Remote,64,3,2,2,70000.0,1,4
+32,Female,Europe,Healthcare,Onsite,46,1,4,3,50000.0,2,6
+51,Female,North America,Technology,Onsite,62,3,1,3,110000.0,3,1
+30,Male,South America,Healthcare,Onsite,46,3,3,2,70000.0,0,5
+26,Female,Asia,Professional Services,Hybrid,38,2,4,4,70000.0,0,3
+43,Female,South America,Manufacturing,Hybrid,47,3,5,3,120000.0,4,6
+40,Female,South America,Technology,Onsite,50,3,2,2,90000.0,2,5
+31,Female,Oceania,Retail,Onsite,48,1,3,2,110000.0,3,0
+35,Male,North America,Retail,Onsite,50,1,3,2,90000.0,1,4
+31,Male,Asia,Technology,Remote,62,3,4,3,50000.0,1,6
+59,Male,Europe,Technology,Remote,64,3,4,4,70000.0,2,0
+60,Male,Europe,Professional Services,Remote,40,2,4,4,110000.0,0,4
+22,Female,Asia,Healthcare,Onsite,61,3,1,1,70000.0,4,6
+33,Female,Africa,Professional Services,Hybrid,57,2,3,4,90000.0,1,6
+61,Female,Africa,Professional Services,Hybrid,40,3,5,1,70000.0,2,6
+24,Male,North America,Retail,Onsite,63,2,4,1,110000.0,3,5
+42,Female,Oceania,Technology,Onsite,42,1,4,1,70000.0,1,4
+36,Male,South America,Finance,Hybrid,50,3,2,3,90000.0,2,0
+30,Female,North America,Technology,Hybrid,44,3,1,3,50000.0,4,6
+58,Male,South America,Healthcare,Onsite,60,2,3,3,110000.0,1,3
+65,Male,North America,Technology,Hybrid,55,2,4,1,50000.0,2,0
+62,Female,Asia,Finance,Onsite,63,2,2,4,90000.0,0,5
+24,Female,Africa,Professional Services,Onsite,40,1,2,2,70000.0,3,3
+40,Female,Oceania,Retail,Hybrid,59,3,2,1,50000.0,1,5
+65,Male,Europe,Finance,Onsite,45,2,2,2,50000.0,1,2
+24,Male,Africa,Manufacturing,Hybrid,35,2,3,5,50000.0,2,5
+37,Male,South America,Technology,Hybrid,51,3,2,3,70000.0,3,1
+51,Female,Asia,Education,Onsite,40,1,3,3,90000.0,3,2
+31,Male,North America,Manufacturing,Hybrid,40,3,3,3,70000.0,2,1
+47,Male,Africa,Manufacturing,Hybrid,52,2,4,2,70000.0,3,6
+23,Female,Asia,Technology,Onsite,58,2,4,2,70000.0,1,3
+61,Female,North America,Retail,Remote,62,2,4,3,50000.0,3,1
+29,Female,Asia,Finance,Remote,45,2,4,5,70000.0,1,5
+36,Male,Oceania,Marketing,Onsite,57,3,3,2,70000.0,3,0
+54,Female,South America,Professional Services,Onsite,47,1,2,4,90000.0,2,6
+59,Female,Africa,Professional Services,Onsite,45,2,5,1,50000.0,0,1
+55,Female,Oceania,Retail,Onsite,55,2,4,2,110000.0,2,6
+30,Male,Europe,Professional Services,Onsite,54,2,3,2,90000.0,2,5
+53,Female,Europe,Professional Services,Hybrid,38,3,4,1,70000.0,1,5
+51,Male,Oceania,Technology,Remote,63,1,2,3,120000.0,2,0
+61,Male,Africa,Manufacturing,Onsite,53,2,5,2,90000.0,1,5
+52,Male,Europe,Professional Services,Hybrid,61,2,4,3,90000.0,1,1
+43,Male,North America,Retail,Onsite,39,2,5,3,90000.0,2,0
+56,Female,South America,Customer Service,Remote,47,2,3,4,70000.0,4,0
+49,Female,Africa,Manufacturing,Remote,38,1,4,4,90000.0,1,0
+62,Female,Oceania,Marketing,Onsite,49,2,3,3,90000.0,3,4
+62,Female,North America,Professional Services,Onsite,64,2,5,1,50000.0,3,4
+31,Female,Africa,Professional Services,Onsite,56,2,2,3,70000.0,1,0
+48,Female,Oceania,Technology,Remote,36,2,3,1,50000.0,3,6
+28,Female,Africa,Professional Services,Onsite,46,2,3,2,70000.0,4,6
+45,Female,Europe,Finance,Hybrid,57,2,2,2,90000.0,1,2
+24,Male,Asia,Education,Remote,59,2,1,4,90000.0,3,0
+30,Male,Oceania,Manufacturing,Hybrid,53,3,2,3,70000.0,2,0
+22,Male,Africa,Healthcare,Remote,48,3,2,3,70000.0,3,1
+31,Male,Asia,Retail,Remote,35,1,2,5,50000.0,2,5
+60,Female,Africa,Marketing,Onsite,39,2,4,2,70000.0,1,2
+34,Male,North America,Professional Services,Hybrid,37,1,3,3,120000.0,3,1
+29,Female,Asia,Professional Services,Onsite,64,1,4,1,50000.0,0,3
+46,Male,Asia,Technology,Remote,35,3,3,3,120000.0,2,4
+62,Female,Africa,Professional Services,Onsite,43,2,1,5,70000.0,0,0
+37,Male,Asia,Technology,Remote,58,3,2,2,50000.0,2,5
+50,Male,Europe,Professional Services,Onsite,48,2,4,2,120000.0,2,1
+57,Female,South America,Retail,Onsite,36,3,4,2,110000.0,0,1
+63,Female,Europe,Marketing,Hybrid,37,2,5,4,90000.0,2,1
+36,Male,South America,Professional Services,Onsite,65,3,3,2,70000.0,3,3
+35,Male,Oceania,Professional Services,Hybrid,45,3,3,3,90000.0,1,1
+26,Male,Asia,Finance,Onsite,49,3,3,2,70000.0,3,3
+54,Male,Asia,Finance,Remote,50,2,3,1,90000.0,2,0
+26,Male,South America,Professional Services,Hybrid,60,1,5,3,50000.0,3,6
+43,Female,Asia,Professional Services,Onsite,43,3,3,2,70000.0,1,0
+51,Female,Africa,Professional Services,Onsite,56,2,4,3,110000.0,2,2
+35,Female,North America,Professional Services,Onsite,38,2,3,1,70000.0,0,0
+24,Female,Europe,Technology,Hybrid,44,1,5,3,70000.0,1,0
+53,Male,Africa,Technology,Remote,63,3,3,5,90000.0,3,5
+63,Female,Oceania,Professional Services,Onsite,60,3,2,3,70000.0,2,2
+24,Female,Oceania,Manufacturing,Remote,36,2,1,5,50000.0,2,1
+46,Male,Europe,Professional Services,Onsite,57,1,2,4,70000.0,2,0
+56,Male,Africa,Healthcare,Onsite,65,1,1,5,70000.0,4,1
+63,Male,South America,Customer Service,Remote,46,2,3,5,90000.0,1,1
+45,Female,Europe,Manufacturing,Hybrid,40,3,2,1,70000.0,0,0
+43,Female,Asia,Technology,Remote,40,3,2,3,70000.0,3,4
+47,Female,Asia,Healthcare,Onsite,38,1,5,3,120000.0,0,6
+60,Female,Oceania,Customer Service,Onsite,61,1,3,2,50000.0,1,6
+48,Female,Europe,Technology,Remote,43,2,4,3,70000.0,1,6
+47,Male,Africa,Finance,Hybrid,35,2,4,1,70000.0,1,6
+24,Female,Oceania,Healthcare,Onsite,47,2,2,1,50000.0,0,0
+34,Male,Africa,Education,Onsite,36,1,4,2,90000.0,3,5
+45,Female,South America,Professional Services,Onsite,56,2,4,2,90000.0,2,4
+42,Male,Oceania,Technology,Hybrid,55,3,2,1,90000.0,1,1
+41,Female,North America,Technology,Remote,59,3,2,1,110000.0,1,2
+31,Female,Europe,Finance,Hybrid,36,3,3,2,110000.0,1,3
+22,Male,Africa,Finance,Onsite,60,1,2,1,90000.0,1,4
+59,Female,Asia,Professional Services,Onsite,64,1,4,2,70000.0,2,2
+58,Female,Oceania,Education,Onsite,37,2,4,4,90000.0,1,3
+42,Male,Asia,Healthcare,Hybrid,53,3,2,4,50000.0,1,3
+24,Male,Asia,Marketing,Hybrid,35,2,3,2,70000.0,4,0
+35,Male,Europe,Technology,Hybrid,53,2,2,2,50000.0,3,4
+64,Male,Africa,Technology,Remote,49,1,1,1,70000.0,4,3
+42,Male,North America,Technology,Onsite,45,1,3,3,90000.0,0,1
+32,Male,Europe,Professional Services,Onsite,61,1,3,3,70000.0,2,0
+62,Female,South America,Professional Services,Hybrid,38,2,4,3,90000.0,2,6
+24,Female,South America,Professional Services,Remote,54,2,4,4,110000.0,1,0
+45,Female,North America,Professional Services,Onsite,59,2,1,3,50000.0,1,6
+38,Male,North America,Education,Onsite,52,2,3,5,90000.0,3,5
+54,Female,North America,Healthcare,Onsite,39,2,4,2,110000.0,2,4
